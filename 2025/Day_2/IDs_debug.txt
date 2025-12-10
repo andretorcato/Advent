@@ -1,0 +1,1145 @@
+Ranges (there are 33 in total):
+(*) Index 0 | Start ID = 78847 | End ID = 119454
+(*) Index 1 | Start ID = 636 | End ID = 933
+(*) Index 2 | Start ID = 7143759788 | End ID = 7143793713
+(*) Index 3 | Start ID = 9960235 | End ID = 10043487
+(*) Index 4 | Start ID = 44480 | End ID = 68595
+(*) Index 5 | Start ID = 23468 | End ID = 43311
+(*) Index 6 | Start ID = 89 | End ID = 123
+(*) Index 7 | Start ID = 785189 | End ID = 1014654
+(*) Index 8 | Start ID = 3829443354 | End ID = 3829647366
+(*) Index 9 | Start ID = 647009 | End ID = 692765
+(*) Index 10 | Start ID = 2 | End ID = 20
+(*) Index 11 | Start ID = 30 | End ID = 42
+(*) Index 12 | Start ID = 120909 | End ID = 197026
+(*) Index 13 | Start ID = 5477469 | End ID = 5677783
+(*) Index 14 | Start ID = 9191900808 | End ID = 9191943802
+(*) Index 15 | Start ID = 1045643 | End ID = 1169377
+(*) Index 16 | Start ID = 46347154 | End ID = 46441299
+(*) Index 17 | Start ID = 2349460 | End ID = 2379599
+(*) Index 18 | Start ID = 719196 | End ID = 779497
+(*) Index 19 | Start ID = 483556 | End ID = 641804
+(*) Index 20 | Start ID = 265244 | End ID = 450847
+(*) Index 21 | Start ID = 210541 | End ID = 230207
+(*) Index 22 | Start ID = 195 | End ID = 275
+(*) Index 23 | Start ID = 75702340 | End ID = 75883143
+(*) Index 24 | Start ID = 58 | End ID = 84
+(*) Index 25 | Start ID = 2152 | End ID = 3237
+(*) Index 26 | Start ID = 3367 | End ID = 5895
+(*) Index 27 | Start ID = 1552 | End ID = 2029
+(*) Index 28 | Start ID = 9575 | End ID = 13844
+(*) Index 29 | Start ID = 6048 | End ID = 8966
+(*) Index 30 | Start ID = 419388311 | End ID = 419470147
+(*) Index 31 | Start ID = 936 | End ID = 1409
+(*) Index 32 | Start ID = 9292901468 | End ID = 9292987321
+
+Global minimum ID = 2
+Global maximum ID = 9292987321
+
+Number of digits of the global minimum ID = 1
+Number of digits of the global maximum ID = 10
+
+Ranges that contain each number of digits:
+(*) 1-digit numbers, present in ranges: 10 (2-20) | 
+(*) 2-digit numbers, present in ranges: 6 (89-123) | 10 (2-20) | 11 (30-42) | 24 (58-84) | 
+(*) 3-digit numbers, present in ranges: 1 (636-933) | 6 (89-123) | 22 (195-275) | 31 (936-1409) | 
+(*) 4-digit numbers, present in ranges: 25 (2152-3237) | 26 (3367-5895) | 27 (1552-2029) | 28 (9575-13844) | 29 (6048-8966) | 31 (936-1409) | 
+(*) 5-digit numbers, present in ranges: 0 (78847-119454) | 4 (44480-68595) | 5 (23468-43311) | 28 (9575-13844) | 
+(*) 6-digit numbers, present in ranges: 0 (78847-119454) | 7 (785189-1014654) | 9 (647009-692765) | 12 (120909-197026) | 18 (719196-779497) | 19 (483556-641804) | 20 (265244-450847) | 21 (210541-230207) | 
+(*) 7-digit numbers, present in ranges: 3 (9960235-10043487) | 7 (785189-1014654) | 13 (5477469-5677783) | 15 (1045643-1169377) | 17 (2349460-2379599) | 
+(*) 8-digit numbers, present in ranges: 3 (9960235-10043487) | 16 (46347154-46441299) | 23 (75702340-75883143) | 
+(*) 9-digit numbers, present in ranges: 30 (419388311-419470147) | 
+(*) 10-digit numbers, present in ranges: 2 (7143759788-7143793713) | 8 (3829443354-3829647366) | 14 (9191900808-9191943802) | 32 (9292901468-9292987321) | 
+
+Number of digits, N = 2
+
+	Dividing a 2-digit number into 2 seperate 1-digit numbers. Candidate seeds = [1, 9]
+	(*) Candidate 11 (built with seed = 1) is in a range (index = 10, corresponding to 2-20) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 33 (built with seed = 3) is in a range (index = 11, corresponding to 30-42) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 66 (built with seed = 6) is in a range (index = 24, corresponding to 58-84) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 77 (built with seed = 7) is in a range (index = 24, corresponding to 58-84) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 99 (built with seed = 9) is in a range (index = 6, corresponding to 89-123) and is unique | We add it to the list of unique invalid IDs
+	For 1-digit partitions, 5 invalid IDs were confirmed | Updated count = 5 | Updated sum = 286
+
+
+Number of digits, N = 3
+
+	Dividing a 3-digit number into 3 seperate 1-digit numbers. Candidate seeds = [1, 9]
+	(*) Candidate 111 (built with seed = 1) is in a range (index = 6, corresponding to 89-123) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 222 (built with seed = 2) is in a range (index = 22, corresponding to 195-275) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 666 (built with seed = 6) is in a range (index = 1, corresponding to 636-933) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 777 (built with seed = 7) is in a range (index = 1, corresponding to 636-933) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 888 (built with seed = 8) is in a range (index = 1, corresponding to 636-933) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 999 (built with seed = 9) is in a range (index = 31, corresponding to 936-1409) and is unique | We add it to the list of unique invalid IDs
+	For 1-digit partitions, 6 invalid IDs were confirmed | Updated count = 11 | Updated sum = 3949
+
+
+Number of digits, N = 4
+
+	Dividing a 4-digit number into 4 seperate 1-digit numbers. Candidate seeds = [1, 9]
+	(*) Candidate 1111 (built with seed = 1) is in a range (index = 31, corresponding to 936-1409) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 2222 (built with seed = 2) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 4444 (built with seed = 4) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 5555 (built with seed = 5) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 6666 (built with seed = 6) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 7777 (built with seed = 7) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 8888 (built with seed = 8) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 9999 (built with seed = 9) is in a range (index = 28, corresponding to 9575-13844) and is unique | We add it to the list of unique invalid IDs
+	For 1-digit partitions, 8 invalid IDs were confirmed | Updated count = 19 | Updated sum = 50611
+
+	Dividing a 4-digit number into 2 seperate 2-digit numbers. Candidate seeds = [10, 99]
+	(*) Candidate 1010 (built with seed = 10) is in a range (index = 31, corresponding to 936-1409) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 1111 (built with seed = 11). It is in a range (index = 31, corresponding to 936-1409) but it is not unique
+	(*) Candidate 1212 (built with seed = 12) is in a range (index = 31, corresponding to 936-1409) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 1313 (built with seed = 13) is in a range (index = 31, corresponding to 936-1409) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 1616 (built with seed = 16) is in a range (index = 27, corresponding to 1552-2029) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 1717 (built with seed = 17) is in a range (index = 27, corresponding to 1552-2029) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 1818 (built with seed = 18) is in a range (index = 27, corresponding to 1552-2029) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 1919 (built with seed = 19) is in a range (index = 27, corresponding to 1552-2029) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 2020 (built with seed = 20) is in a range (index = 27, corresponding to 1552-2029) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 2222 (built with seed = 22). It is in a range (index = 25, corresponding to 2152-3237) but it is not unique
+	(*) Candidate 2323 (built with seed = 23) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 2424 (built with seed = 24) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 2525 (built with seed = 25) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 2626 (built with seed = 26) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 2727 (built with seed = 27) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 2828 (built with seed = 28) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 2929 (built with seed = 29) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 3030 (built with seed = 30) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 3131 (built with seed = 31) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 3232 (built with seed = 32) is in a range (index = 25, corresponding to 2152-3237) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 3434 (built with seed = 34) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 3535 (built with seed = 35) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 3636 (built with seed = 36) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 3737 (built with seed = 37) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 3838 (built with seed = 38) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 3939 (built with seed = 39) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 4040 (built with seed = 40) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 4141 (built with seed = 41) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 4242 (built with seed = 42) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 4343 (built with seed = 43) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 4444 (built with seed = 44). It is in a range (index = 26, corresponding to 3367-5895) but it is not unique
+	(*) Candidate 4545 (built with seed = 45) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 4646 (built with seed = 46) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 4747 (built with seed = 47) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 4848 (built with seed = 48) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 4949 (built with seed = 49) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 5050 (built with seed = 50) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 5151 (built with seed = 51) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 5252 (built with seed = 52) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 5353 (built with seed = 53) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 5454 (built with seed = 54) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 5555 (built with seed = 55). It is in a range (index = 26, corresponding to 3367-5895) but it is not unique
+	(*) Candidate 5656 (built with seed = 56) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 5757 (built with seed = 57) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 5858 (built with seed = 58) is in a range (index = 26, corresponding to 3367-5895) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 6060 (built with seed = 60) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 6161 (built with seed = 61) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 6262 (built with seed = 62) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 6363 (built with seed = 63) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 6464 (built with seed = 64) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 6565 (built with seed = 65) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 6666 (built with seed = 66). It is in a range (index = 29, corresponding to 6048-8966) but it is not unique
+	(*) Candidate 6767 (built with seed = 67) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 6868 (built with seed = 68) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 6969 (built with seed = 69) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 7070 (built with seed = 70) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 7171 (built with seed = 71) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 7272 (built with seed = 72) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 7373 (built with seed = 73) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 7474 (built with seed = 74) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 7575 (built with seed = 75) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 7676 (built with seed = 76) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 7777 (built with seed = 77). It is in a range (index = 29, corresponding to 6048-8966) but it is not unique
+	(*) Candidate 7878 (built with seed = 78) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 7979 (built with seed = 79) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 8080 (built with seed = 80) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 8181 (built with seed = 81) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 8282 (built with seed = 82) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 8383 (built with seed = 83) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 8484 (built with seed = 84) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 8585 (built with seed = 85) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 8686 (built with seed = 86) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 8787 (built with seed = 87) is in a range (index = 29, corresponding to 6048-8966) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 8888 (built with seed = 88). It is in a range (index = 29, corresponding to 6048-8966) but it is not unique
+	(*) Candidate 9595 (built with seed = 95) is in a range (index = 28, corresponding to 9575-13844) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 9696 (built with seed = 96) is in a range (index = 28, corresponding to 9575-13844) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 9797 (built with seed = 97) is in a range (index = 28, corresponding to 9575-13844) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 9898 (built with seed = 98) is in a range (index = 28, corresponding to 9575-13844) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 9999 (built with seed = 99). It is in a range (index = 28, corresponding to 9575-13844) but it is not unique
+	For 2-digit partitions, 71 invalid IDs were confirmed | Updated count = 90 | Updated sum = 429563
+
+
+Number of digits, N = 5
+
+	Dividing a 5-digit number into 5 seperate 1-digit numbers. Candidate seeds = [1, 9]
+	(*) Candidate 11111 (built with seed = 1) is in a range (index = 28, corresponding to 9575-13844) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 33333 (built with seed = 3) is in a range (index = 5, corresponding to 23468-43311) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 55555 (built with seed = 5) is in a range (index = 4, corresponding to 44480-68595) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 66666 (built with seed = 6) is in a range (index = 4, corresponding to 44480-68595) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 88888 (built with seed = 8) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 99999 (built with seed = 9) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	For 1-digit partitions, 6 invalid IDs were confirmed | Updated count = 96 | Updated sum = 785115
+
+
+Number of digits, N = 6
+
+	Dividing a 6-digit number into 6 seperate 1-digit numbers. Candidate seeds = [1, 9]
+	(*) Candidate 111111 (built with seed = 1) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 222222 (built with seed = 2) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 333333 (built with seed = 3) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 444444 (built with seed = 4) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 555555 (built with seed = 5) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 666666 (built with seed = 6) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 777777 (built with seed = 7) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 888888 (built with seed = 8) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 999999 (built with seed = 9) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	For 1-digit partitions, 9 invalid IDs were confirmed | Updated count = 105 | Updated sum = 5785110
+
+	Dividing a 6-digit number into 3 seperate 2-digit numbers. Candidate seeds = [10, 99]
+	(*) Candidate 101010 (built with seed = 10) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 111111 (built with seed = 11). It is in a range (index = 0, corresponding to 78847-119454) but it is not unique
+	(*) Candidate 121212 (built with seed = 12) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 131313 (built with seed = 13) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 141414 (built with seed = 14) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 151515 (built with seed = 15) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 161616 (built with seed = 16) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 171717 (built with seed = 17) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 181818 (built with seed = 18) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 191919 (built with seed = 19) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 212121 (built with seed = 21) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 222222 (built with seed = 22). It is in a range (index = 21, corresponding to 210541-230207) but it is not unique
+	(*) Candidate 272727 (built with seed = 27) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 282828 (built with seed = 28) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 292929 (built with seed = 29) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 303030 (built with seed = 30) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 313131 (built with seed = 31) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 323232 (built with seed = 32) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 333333 (built with seed = 33). It is in a range (index = 20, corresponding to 265244-450847) but it is not unique
+	(*) Candidate 343434 (built with seed = 34) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 353535 (built with seed = 35) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 363636 (built with seed = 36) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 373737 (built with seed = 37) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 383838 (built with seed = 38) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 393939 (built with seed = 39) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 404040 (built with seed = 40) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 414141 (built with seed = 41) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 424242 (built with seed = 42) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 434343 (built with seed = 43) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 444444 (built with seed = 44). It is in a range (index = 20, corresponding to 265244-450847) but it is not unique
+	(*) Candidate 484848 (built with seed = 48) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 494949 (built with seed = 49) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 505050 (built with seed = 50) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 515151 (built with seed = 51) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 525252 (built with seed = 52) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 535353 (built with seed = 53) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 545454 (built with seed = 54) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 555555 (built with seed = 55). It is in a range (index = 19, corresponding to 483556-641804) but it is not unique
+	(*) Candidate 565656 (built with seed = 56) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 575757 (built with seed = 57) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 585858 (built with seed = 58) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 595959 (built with seed = 59) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 606060 (built with seed = 60) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 616161 (built with seed = 61) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 626262 (built with seed = 62) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 636363 (built with seed = 63) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 656565 (built with seed = 65) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 666666 (built with seed = 66). It is in a range (index = 9, corresponding to 647009-692765) but it is not unique
+	(*) Candidate 676767 (built with seed = 67) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 686868 (built with seed = 68) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 727272 (built with seed = 72) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 737373 (built with seed = 73) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 747474 (built with seed = 74) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 757575 (built with seed = 75) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 767676 (built with seed = 76) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 777777 (built with seed = 77). It is in a range (index = 18, corresponding to 719196-779497) but it is not unique
+	(*) Candidate 787878 (built with seed = 78) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 797979 (built with seed = 79) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 808080 (built with seed = 80) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 818181 (built with seed = 81) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 828282 (built with seed = 82) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 838383 (built with seed = 83) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 848484 (built with seed = 84) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 858585 (built with seed = 85) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 868686 (built with seed = 86) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 878787 (built with seed = 87) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 888888 (built with seed = 88). It is in a range (index = 7, corresponding to 785189-1014654) but it is not unique
+	(*) Candidate 898989 (built with seed = 89) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 909090 (built with seed = 90) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 919191 (built with seed = 91) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 929292 (built with seed = 92) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 939393 (built with seed = 93) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 949494 (built with seed = 94) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 959595 (built with seed = 95) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 969696 (built with seed = 96) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 979797 (built with seed = 97) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 989898 (built with seed = 98) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 999999 (built with seed = 99). It is in a range (index = 7, corresponding to 785189-1014654) but it is not unique
+	For 2-digit partitions, 69 invalid IDs were confirmed | Updated count = 174 | Updated sum = 44976990
+
+	Dividing a 6-digit number into 2 seperate 3-digit numbers. Candidate seeds = [100, 999]
+	(*) Candidate 100100 (built with seed = 100) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 101101 (built with seed = 101) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 102102 (built with seed = 102) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 103103 (built with seed = 103) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 104104 (built with seed = 104) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 105105 (built with seed = 105) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 106106 (built with seed = 106) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 107107 (built with seed = 107) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 108108 (built with seed = 108) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 109109 (built with seed = 109) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 110110 (built with seed = 110) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 111111 (built with seed = 111). It is in a range (index = 0, corresponding to 78847-119454) but it is not unique
+	(*) Candidate 112112 (built with seed = 112) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 113113 (built with seed = 113) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 114114 (built with seed = 114) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 115115 (built with seed = 115) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 116116 (built with seed = 116) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 117117 (built with seed = 117) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 118118 (built with seed = 118) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 119119 (built with seed = 119) is in a range (index = 0, corresponding to 78847-119454) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 121121 (built with seed = 121) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 122122 (built with seed = 122) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 123123 (built with seed = 123) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 124124 (built with seed = 124) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 125125 (built with seed = 125) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 126126 (built with seed = 126) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 127127 (built with seed = 127) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 128128 (built with seed = 128) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 129129 (built with seed = 129) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 130130 (built with seed = 130) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 131131 (built with seed = 131) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 132132 (built with seed = 132) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 133133 (built with seed = 133) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 134134 (built with seed = 134) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 135135 (built with seed = 135) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 136136 (built with seed = 136) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 137137 (built with seed = 137) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 138138 (built with seed = 138) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 139139 (built with seed = 139) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 140140 (built with seed = 140) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 141141 (built with seed = 141) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 142142 (built with seed = 142) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 143143 (built with seed = 143) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 144144 (built with seed = 144) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 145145 (built with seed = 145) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 146146 (built with seed = 146) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 147147 (built with seed = 147) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 148148 (built with seed = 148) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 149149 (built with seed = 149) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 150150 (built with seed = 150) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 151151 (built with seed = 151) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 152152 (built with seed = 152) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 153153 (built with seed = 153) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 154154 (built with seed = 154) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 155155 (built with seed = 155) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 156156 (built with seed = 156) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 157157 (built with seed = 157) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 158158 (built with seed = 158) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 159159 (built with seed = 159) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 160160 (built with seed = 160) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 161161 (built with seed = 161) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 162162 (built with seed = 162) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 163163 (built with seed = 163) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 164164 (built with seed = 164) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 165165 (built with seed = 165) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 166166 (built with seed = 166) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 167167 (built with seed = 167) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 168168 (built with seed = 168) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 169169 (built with seed = 169) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 170170 (built with seed = 170) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 171171 (built with seed = 171) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 172172 (built with seed = 172) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 173173 (built with seed = 173) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 174174 (built with seed = 174) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 175175 (built with seed = 175) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 176176 (built with seed = 176) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 177177 (built with seed = 177) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 178178 (built with seed = 178) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 179179 (built with seed = 179) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 180180 (built with seed = 180) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 181181 (built with seed = 181) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 182182 (built with seed = 182) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 183183 (built with seed = 183) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 184184 (built with seed = 184) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 185185 (built with seed = 185) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 186186 (built with seed = 186) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 187187 (built with seed = 187) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 188188 (built with seed = 188) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 189189 (built with seed = 189) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 190190 (built with seed = 190) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 191191 (built with seed = 191) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 192192 (built with seed = 192) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 193193 (built with seed = 193) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 194194 (built with seed = 194) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 195195 (built with seed = 195) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 196196 (built with seed = 196) is in a range (index = 12, corresponding to 120909-197026) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 211211 (built with seed = 211) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 212212 (built with seed = 212) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 213213 (built with seed = 213) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 214214 (built with seed = 214) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 215215 (built with seed = 215) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 216216 (built with seed = 216) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 217217 (built with seed = 217) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 218218 (built with seed = 218) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 219219 (built with seed = 219) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 220220 (built with seed = 220) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 221221 (built with seed = 221) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 222222 (built with seed = 222). It is in a range (index = 21, corresponding to 210541-230207) but it is not unique
+	(*) Candidate 223223 (built with seed = 223) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 224224 (built with seed = 224) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 225225 (built with seed = 225) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 226226 (built with seed = 226) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 227227 (built with seed = 227) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 228228 (built with seed = 228) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 229229 (built with seed = 229) is in a range (index = 21, corresponding to 210541-230207) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 265265 (built with seed = 265) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 266266 (built with seed = 266) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 267267 (built with seed = 267) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 268268 (built with seed = 268) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 269269 (built with seed = 269) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 270270 (built with seed = 270) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 271271 (built with seed = 271) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 272272 (built with seed = 272) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 273273 (built with seed = 273) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 274274 (built with seed = 274) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 275275 (built with seed = 275) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 276276 (built with seed = 276) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 277277 (built with seed = 277) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 278278 (built with seed = 278) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 279279 (built with seed = 279) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 280280 (built with seed = 280) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 281281 (built with seed = 281) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 282282 (built with seed = 282) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 283283 (built with seed = 283) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 284284 (built with seed = 284) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 285285 (built with seed = 285) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 286286 (built with seed = 286) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 287287 (built with seed = 287) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 288288 (built with seed = 288) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 289289 (built with seed = 289) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 290290 (built with seed = 290) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 291291 (built with seed = 291) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 292292 (built with seed = 292) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 293293 (built with seed = 293) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 294294 (built with seed = 294) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 295295 (built with seed = 295) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 296296 (built with seed = 296) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 297297 (built with seed = 297) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 298298 (built with seed = 298) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 299299 (built with seed = 299) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 300300 (built with seed = 300) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 301301 (built with seed = 301) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 302302 (built with seed = 302) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 303303 (built with seed = 303) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 304304 (built with seed = 304) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 305305 (built with seed = 305) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 306306 (built with seed = 306) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 307307 (built with seed = 307) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 308308 (built with seed = 308) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 309309 (built with seed = 309) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 310310 (built with seed = 310) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 311311 (built with seed = 311) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 312312 (built with seed = 312) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 313313 (built with seed = 313) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 314314 (built with seed = 314) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 315315 (built with seed = 315) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 316316 (built with seed = 316) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 317317 (built with seed = 317) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 318318 (built with seed = 318) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 319319 (built with seed = 319) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 320320 (built with seed = 320) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 321321 (built with seed = 321) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 322322 (built with seed = 322) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 323323 (built with seed = 323) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 324324 (built with seed = 324) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 325325 (built with seed = 325) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 326326 (built with seed = 326) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 327327 (built with seed = 327) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 328328 (built with seed = 328) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 329329 (built with seed = 329) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 330330 (built with seed = 330) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 331331 (built with seed = 331) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 332332 (built with seed = 332) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 333333 (built with seed = 333). It is in a range (index = 20, corresponding to 265244-450847) but it is not unique
+	(*) Candidate 334334 (built with seed = 334) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 335335 (built with seed = 335) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 336336 (built with seed = 336) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 337337 (built with seed = 337) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 338338 (built with seed = 338) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 339339 (built with seed = 339) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 340340 (built with seed = 340) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 341341 (built with seed = 341) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 342342 (built with seed = 342) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 343343 (built with seed = 343) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 344344 (built with seed = 344) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 345345 (built with seed = 345) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 346346 (built with seed = 346) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 347347 (built with seed = 347) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 348348 (built with seed = 348) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 349349 (built with seed = 349) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 350350 (built with seed = 350) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 351351 (built with seed = 351) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 352352 (built with seed = 352) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 353353 (built with seed = 353) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 354354 (built with seed = 354) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 355355 (built with seed = 355) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 356356 (built with seed = 356) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 357357 (built with seed = 357) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 358358 (built with seed = 358) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 359359 (built with seed = 359) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 360360 (built with seed = 360) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 361361 (built with seed = 361) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 362362 (built with seed = 362) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 363363 (built with seed = 363) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 364364 (built with seed = 364) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 365365 (built with seed = 365) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 366366 (built with seed = 366) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 367367 (built with seed = 367) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 368368 (built with seed = 368) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 369369 (built with seed = 369) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 370370 (built with seed = 370) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 371371 (built with seed = 371) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 372372 (built with seed = 372) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 373373 (built with seed = 373) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 374374 (built with seed = 374) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 375375 (built with seed = 375) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 376376 (built with seed = 376) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 377377 (built with seed = 377) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 378378 (built with seed = 378) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 379379 (built with seed = 379) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 380380 (built with seed = 380) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 381381 (built with seed = 381) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 382382 (built with seed = 382) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 383383 (built with seed = 383) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 384384 (built with seed = 384) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 385385 (built with seed = 385) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 386386 (built with seed = 386) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 387387 (built with seed = 387) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 388388 (built with seed = 388) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 389389 (built with seed = 389) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 390390 (built with seed = 390) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 391391 (built with seed = 391) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 392392 (built with seed = 392) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 393393 (built with seed = 393) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 394394 (built with seed = 394) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 395395 (built with seed = 395) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 396396 (built with seed = 396) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 397397 (built with seed = 397) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 398398 (built with seed = 398) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 399399 (built with seed = 399) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 400400 (built with seed = 400) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 401401 (built with seed = 401) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 402402 (built with seed = 402) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 403403 (built with seed = 403) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 404404 (built with seed = 404) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 405405 (built with seed = 405) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 406406 (built with seed = 406) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 407407 (built with seed = 407) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 408408 (built with seed = 408) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 409409 (built with seed = 409) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 410410 (built with seed = 410) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 411411 (built with seed = 411) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 412412 (built with seed = 412) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 413413 (built with seed = 413) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 414414 (built with seed = 414) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 415415 (built with seed = 415) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 416416 (built with seed = 416) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 417417 (built with seed = 417) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 418418 (built with seed = 418) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 419419 (built with seed = 419) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 420420 (built with seed = 420) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 421421 (built with seed = 421) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 422422 (built with seed = 422) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 423423 (built with seed = 423) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 424424 (built with seed = 424) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 425425 (built with seed = 425) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 426426 (built with seed = 426) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 427427 (built with seed = 427) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 428428 (built with seed = 428) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 429429 (built with seed = 429) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 430430 (built with seed = 430) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 431431 (built with seed = 431) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 432432 (built with seed = 432) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 433433 (built with seed = 433) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 434434 (built with seed = 434) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 435435 (built with seed = 435) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 436436 (built with seed = 436) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 437437 (built with seed = 437) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 438438 (built with seed = 438) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 439439 (built with seed = 439) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 440440 (built with seed = 440) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 441441 (built with seed = 441) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 442442 (built with seed = 442) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 443443 (built with seed = 443) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 444444 (built with seed = 444). It is in a range (index = 20, corresponding to 265244-450847) but it is not unique
+	(*) Candidate 445445 (built with seed = 445) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 446446 (built with seed = 446) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 447447 (built with seed = 447) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 448448 (built with seed = 448) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 449449 (built with seed = 449) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 450450 (built with seed = 450) is in a range (index = 20, corresponding to 265244-450847) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 484484 (built with seed = 484) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 485485 (built with seed = 485) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 486486 (built with seed = 486) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 487487 (built with seed = 487) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 488488 (built with seed = 488) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 489489 (built with seed = 489) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 490490 (built with seed = 490) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 491491 (built with seed = 491) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 492492 (built with seed = 492) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 493493 (built with seed = 493) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 494494 (built with seed = 494) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 495495 (built with seed = 495) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 496496 (built with seed = 496) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 497497 (built with seed = 497) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 498498 (built with seed = 498) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 499499 (built with seed = 499) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 500500 (built with seed = 500) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 501501 (built with seed = 501) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 502502 (built with seed = 502) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 503503 (built with seed = 503) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 504504 (built with seed = 504) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 505505 (built with seed = 505) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 506506 (built with seed = 506) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 507507 (built with seed = 507) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 508508 (built with seed = 508) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 509509 (built with seed = 509) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 510510 (built with seed = 510) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 511511 (built with seed = 511) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 512512 (built with seed = 512) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 513513 (built with seed = 513) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 514514 (built with seed = 514) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 515515 (built with seed = 515) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 516516 (built with seed = 516) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 517517 (built with seed = 517) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 518518 (built with seed = 518) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 519519 (built with seed = 519) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 520520 (built with seed = 520) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 521521 (built with seed = 521) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 522522 (built with seed = 522) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 523523 (built with seed = 523) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 524524 (built with seed = 524) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 525525 (built with seed = 525) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 526526 (built with seed = 526) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 527527 (built with seed = 527) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 528528 (built with seed = 528) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 529529 (built with seed = 529) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 530530 (built with seed = 530) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 531531 (built with seed = 531) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 532532 (built with seed = 532) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 533533 (built with seed = 533) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 534534 (built with seed = 534) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 535535 (built with seed = 535) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 536536 (built with seed = 536) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 537537 (built with seed = 537) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 538538 (built with seed = 538) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 539539 (built with seed = 539) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 540540 (built with seed = 540) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 541541 (built with seed = 541) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 542542 (built with seed = 542) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 543543 (built with seed = 543) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 544544 (built with seed = 544) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 545545 (built with seed = 545) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 546546 (built with seed = 546) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 547547 (built with seed = 547) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 548548 (built with seed = 548) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 549549 (built with seed = 549) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 550550 (built with seed = 550) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 551551 (built with seed = 551) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 552552 (built with seed = 552) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 553553 (built with seed = 553) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 554554 (built with seed = 554) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 555555 (built with seed = 555). It is in a range (index = 19, corresponding to 483556-641804) but it is not unique
+	(*) Candidate 556556 (built with seed = 556) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 557557 (built with seed = 557) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 558558 (built with seed = 558) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 559559 (built with seed = 559) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 560560 (built with seed = 560) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 561561 (built with seed = 561) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 562562 (built with seed = 562) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 563563 (built with seed = 563) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 564564 (built with seed = 564) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 565565 (built with seed = 565) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 566566 (built with seed = 566) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 567567 (built with seed = 567) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 568568 (built with seed = 568) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 569569 (built with seed = 569) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 570570 (built with seed = 570) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 571571 (built with seed = 571) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 572572 (built with seed = 572) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 573573 (built with seed = 573) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 574574 (built with seed = 574) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 575575 (built with seed = 575) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 576576 (built with seed = 576) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 577577 (built with seed = 577) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 578578 (built with seed = 578) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 579579 (built with seed = 579) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 580580 (built with seed = 580) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 581581 (built with seed = 581) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 582582 (built with seed = 582) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 583583 (built with seed = 583) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 584584 (built with seed = 584) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 585585 (built with seed = 585) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 586586 (built with seed = 586) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 587587 (built with seed = 587) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 588588 (built with seed = 588) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 589589 (built with seed = 589) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 590590 (built with seed = 590) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 591591 (built with seed = 591) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 592592 (built with seed = 592) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 593593 (built with seed = 593) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 594594 (built with seed = 594) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 595595 (built with seed = 595) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 596596 (built with seed = 596) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 597597 (built with seed = 597) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 598598 (built with seed = 598) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 599599 (built with seed = 599) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 600600 (built with seed = 600) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 601601 (built with seed = 601) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 602602 (built with seed = 602) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 603603 (built with seed = 603) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 604604 (built with seed = 604) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 605605 (built with seed = 605) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 606606 (built with seed = 606) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 607607 (built with seed = 607) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 608608 (built with seed = 608) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 609609 (built with seed = 609) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 610610 (built with seed = 610) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 611611 (built with seed = 611) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 612612 (built with seed = 612) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 613613 (built with seed = 613) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 614614 (built with seed = 614) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 615615 (built with seed = 615) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 616616 (built with seed = 616) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 617617 (built with seed = 617) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 618618 (built with seed = 618) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 619619 (built with seed = 619) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 620620 (built with seed = 620) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 621621 (built with seed = 621) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 622622 (built with seed = 622) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 623623 (built with seed = 623) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 624624 (built with seed = 624) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 625625 (built with seed = 625) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 626626 (built with seed = 626) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 627627 (built with seed = 627) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 628628 (built with seed = 628) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 629629 (built with seed = 629) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 630630 (built with seed = 630) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 631631 (built with seed = 631) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 632632 (built with seed = 632) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 633633 (built with seed = 633) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 634634 (built with seed = 634) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 635635 (built with seed = 635) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 636636 (built with seed = 636) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 637637 (built with seed = 637) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 638638 (built with seed = 638) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 639639 (built with seed = 639) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 640640 (built with seed = 640) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 641641 (built with seed = 641) is in a range (index = 19, corresponding to 483556-641804) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 647647 (built with seed = 647) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 648648 (built with seed = 648) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 649649 (built with seed = 649) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 650650 (built with seed = 650) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 651651 (built with seed = 651) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 652652 (built with seed = 652) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 653653 (built with seed = 653) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 654654 (built with seed = 654) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 655655 (built with seed = 655) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 656656 (built with seed = 656) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 657657 (built with seed = 657) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 658658 (built with seed = 658) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 659659 (built with seed = 659) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 660660 (built with seed = 660) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 661661 (built with seed = 661) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 662662 (built with seed = 662) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 663663 (built with seed = 663) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 664664 (built with seed = 664) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 665665 (built with seed = 665) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 666666 (built with seed = 666). It is in a range (index = 9, corresponding to 647009-692765) but it is not unique
+	(*) Candidate 667667 (built with seed = 667) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 668668 (built with seed = 668) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 669669 (built with seed = 669) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 670670 (built with seed = 670) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 671671 (built with seed = 671) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 672672 (built with seed = 672) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 673673 (built with seed = 673) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 674674 (built with seed = 674) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 675675 (built with seed = 675) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 676676 (built with seed = 676) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 677677 (built with seed = 677) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 678678 (built with seed = 678) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 679679 (built with seed = 679) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 680680 (built with seed = 680) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 681681 (built with seed = 681) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 682682 (built with seed = 682) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 683683 (built with seed = 683) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 684684 (built with seed = 684) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 685685 (built with seed = 685) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 686686 (built with seed = 686) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 687687 (built with seed = 687) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 688688 (built with seed = 688) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 689689 (built with seed = 689) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 690690 (built with seed = 690) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 691691 (built with seed = 691) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 692692 (built with seed = 692) is in a range (index = 9, corresponding to 647009-692765) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 719719 (built with seed = 719) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 720720 (built with seed = 720) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 721721 (built with seed = 721) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 722722 (built with seed = 722) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 723723 (built with seed = 723) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 724724 (built with seed = 724) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 725725 (built with seed = 725) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 726726 (built with seed = 726) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 727727 (built with seed = 727) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 728728 (built with seed = 728) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 729729 (built with seed = 729) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 730730 (built with seed = 730) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 731731 (built with seed = 731) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 732732 (built with seed = 732) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 733733 (built with seed = 733) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 734734 (built with seed = 734) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 735735 (built with seed = 735) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 736736 (built with seed = 736) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 737737 (built with seed = 737) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 738738 (built with seed = 738) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 739739 (built with seed = 739) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 740740 (built with seed = 740) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 741741 (built with seed = 741) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 742742 (built with seed = 742) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 743743 (built with seed = 743) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 744744 (built with seed = 744) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 745745 (built with seed = 745) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 746746 (built with seed = 746) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 747747 (built with seed = 747) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 748748 (built with seed = 748) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 749749 (built with seed = 749) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 750750 (built with seed = 750) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 751751 (built with seed = 751) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 752752 (built with seed = 752) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 753753 (built with seed = 753) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 754754 (built with seed = 754) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 755755 (built with seed = 755) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 756756 (built with seed = 756) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 757757 (built with seed = 757) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 758758 (built with seed = 758) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 759759 (built with seed = 759) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 760760 (built with seed = 760) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 761761 (built with seed = 761) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 762762 (built with seed = 762) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 763763 (built with seed = 763) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 764764 (built with seed = 764) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 765765 (built with seed = 765) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 766766 (built with seed = 766) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 767767 (built with seed = 767) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 768768 (built with seed = 768) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 769769 (built with seed = 769) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 770770 (built with seed = 770) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 771771 (built with seed = 771) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 772772 (built with seed = 772) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 773773 (built with seed = 773) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 774774 (built with seed = 774) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 775775 (built with seed = 775) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 776776 (built with seed = 776) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 777777 (built with seed = 777). It is in a range (index = 18, corresponding to 719196-779497) but it is not unique
+	(*) Candidate 778778 (built with seed = 778) is in a range (index = 18, corresponding to 719196-779497) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 785785 (built with seed = 785) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 786786 (built with seed = 786) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 787787 (built with seed = 787) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 788788 (built with seed = 788) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 789789 (built with seed = 789) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 790790 (built with seed = 790) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 791791 (built with seed = 791) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 792792 (built with seed = 792) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 793793 (built with seed = 793) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 794794 (built with seed = 794) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 795795 (built with seed = 795) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 796796 (built with seed = 796) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 797797 (built with seed = 797) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 798798 (built with seed = 798) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 799799 (built with seed = 799) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 800800 (built with seed = 800) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 801801 (built with seed = 801) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 802802 (built with seed = 802) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 803803 (built with seed = 803) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 804804 (built with seed = 804) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 805805 (built with seed = 805) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 806806 (built with seed = 806) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 807807 (built with seed = 807) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 808808 (built with seed = 808) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 809809 (built with seed = 809) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 810810 (built with seed = 810) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 811811 (built with seed = 811) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 812812 (built with seed = 812) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 813813 (built with seed = 813) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 814814 (built with seed = 814) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 815815 (built with seed = 815) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 816816 (built with seed = 816) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 817817 (built with seed = 817) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 818818 (built with seed = 818) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 819819 (built with seed = 819) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 820820 (built with seed = 820) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 821821 (built with seed = 821) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 822822 (built with seed = 822) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 823823 (built with seed = 823) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 824824 (built with seed = 824) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 825825 (built with seed = 825) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 826826 (built with seed = 826) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 827827 (built with seed = 827) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 828828 (built with seed = 828) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 829829 (built with seed = 829) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 830830 (built with seed = 830) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 831831 (built with seed = 831) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 832832 (built with seed = 832) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 833833 (built with seed = 833) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 834834 (built with seed = 834) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 835835 (built with seed = 835) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 836836 (built with seed = 836) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 837837 (built with seed = 837) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 838838 (built with seed = 838) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 839839 (built with seed = 839) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 840840 (built with seed = 840) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 841841 (built with seed = 841) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 842842 (built with seed = 842) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 843843 (built with seed = 843) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 844844 (built with seed = 844) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 845845 (built with seed = 845) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 846846 (built with seed = 846) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 847847 (built with seed = 847) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 848848 (built with seed = 848) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 849849 (built with seed = 849) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 850850 (built with seed = 850) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 851851 (built with seed = 851) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 852852 (built with seed = 852) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 853853 (built with seed = 853) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 854854 (built with seed = 854) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 855855 (built with seed = 855) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 856856 (built with seed = 856) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 857857 (built with seed = 857) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 858858 (built with seed = 858) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 859859 (built with seed = 859) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 860860 (built with seed = 860) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 861861 (built with seed = 861) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 862862 (built with seed = 862) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 863863 (built with seed = 863) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 864864 (built with seed = 864) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 865865 (built with seed = 865) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 866866 (built with seed = 866) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 867867 (built with seed = 867) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 868868 (built with seed = 868) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 869869 (built with seed = 869) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 870870 (built with seed = 870) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 871871 (built with seed = 871) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 872872 (built with seed = 872) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 873873 (built with seed = 873) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 874874 (built with seed = 874) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 875875 (built with seed = 875) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 876876 (built with seed = 876) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 877877 (built with seed = 877) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 878878 (built with seed = 878) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 879879 (built with seed = 879) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 880880 (built with seed = 880) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 881881 (built with seed = 881) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 882882 (built with seed = 882) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 883883 (built with seed = 883) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 884884 (built with seed = 884) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 885885 (built with seed = 885) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 886886 (built with seed = 886) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 887887 (built with seed = 887) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 888888 (built with seed = 888). It is in a range (index = 7, corresponding to 785189-1014654) but it is not unique
+	(*) Candidate 889889 (built with seed = 889) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 890890 (built with seed = 890) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 891891 (built with seed = 891) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 892892 (built with seed = 892) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 893893 (built with seed = 893) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 894894 (built with seed = 894) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 895895 (built with seed = 895) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 896896 (built with seed = 896) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 897897 (built with seed = 897) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 898898 (built with seed = 898) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 899899 (built with seed = 899) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 900900 (built with seed = 900) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 901901 (built with seed = 901) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 902902 (built with seed = 902) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 903903 (built with seed = 903) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 904904 (built with seed = 904) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 905905 (built with seed = 905) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 906906 (built with seed = 906) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 907907 (built with seed = 907) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 908908 (built with seed = 908) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 909909 (built with seed = 909) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 910910 (built with seed = 910) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 911911 (built with seed = 911) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 912912 (built with seed = 912) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 913913 (built with seed = 913) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 914914 (built with seed = 914) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 915915 (built with seed = 915) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 916916 (built with seed = 916) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 917917 (built with seed = 917) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 918918 (built with seed = 918) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 919919 (built with seed = 919) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 920920 (built with seed = 920) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 921921 (built with seed = 921) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 922922 (built with seed = 922) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 923923 (built with seed = 923) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 924924 (built with seed = 924) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 925925 (built with seed = 925) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 926926 (built with seed = 926) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 927927 (built with seed = 927) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 928928 (built with seed = 928) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 929929 (built with seed = 929) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 930930 (built with seed = 930) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 931931 (built with seed = 931) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 932932 (built with seed = 932) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 933933 (built with seed = 933) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 934934 (built with seed = 934) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 935935 (built with seed = 935) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 936936 (built with seed = 936) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 937937 (built with seed = 937) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 938938 (built with seed = 938) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 939939 (built with seed = 939) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 940940 (built with seed = 940) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 941941 (built with seed = 941) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 942942 (built with seed = 942) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 943943 (built with seed = 943) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 944944 (built with seed = 944) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 945945 (built with seed = 945) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 946946 (built with seed = 946) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 947947 (built with seed = 947) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 948948 (built with seed = 948) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 949949 (built with seed = 949) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 950950 (built with seed = 950) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 951951 (built with seed = 951) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 952952 (built with seed = 952) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 953953 (built with seed = 953) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 954954 (built with seed = 954) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 955955 (built with seed = 955) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 956956 (built with seed = 956) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 957957 (built with seed = 957) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 958958 (built with seed = 958) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 959959 (built with seed = 959) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 960960 (built with seed = 960) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 961961 (built with seed = 961) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 962962 (built with seed = 962) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 963963 (built with seed = 963) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 964964 (built with seed = 964) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 965965 (built with seed = 965) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 966966 (built with seed = 966) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 967967 (built with seed = 967) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 968968 (built with seed = 968) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 969969 (built with seed = 969) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 970970 (built with seed = 970) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 971971 (built with seed = 971) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 972972 (built with seed = 972) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 973973 (built with seed = 973) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 974974 (built with seed = 974) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 975975 (built with seed = 975) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 976976 (built with seed = 976) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 977977 (built with seed = 977) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 978978 (built with seed = 978) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 979979 (built with seed = 979) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 980980 (built with seed = 980) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 981981 (built with seed = 981) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 982982 (built with seed = 982) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 983983 (built with seed = 983) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 984984 (built with seed = 984) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 985985 (built with seed = 985) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 986986 (built with seed = 986) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 987987 (built with seed = 987) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 988988 (built with seed = 988) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 989989 (built with seed = 989) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 990990 (built with seed = 990) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 991991 (built with seed = 991) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 992992 (built with seed = 992) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 993993 (built with seed = 993) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 994994 (built with seed = 994) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 995995 (built with seed = 995) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 996996 (built with seed = 996) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 997997 (built with seed = 997) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 998998 (built with seed = 998) is in a range (index = 7, corresponding to 785189-1014654) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 999999 (built with seed = 999). It is in a range (index = 7, corresponding to 785189-1014654) but it is not unique
+	For 3-digit partitions, 771 invalid IDs were confirmed | Updated count = 945 | Updated sum = 481691268
+
+
+Number of digits, N = 7
+
+	Dividing a 7-digit number into 7 seperate 1-digit numbers. Candidate seeds = [1, 9]
+	(*) Candidate 1111111 (built with seed = 1) is in a range (index = 15, corresponding to 1045643-1169377) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 5555555 (built with seed = 5) is in a range (index = 13, corresponding to 5477469-5677783) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 9999999 (built with seed = 9) is in a range (index = 3, corresponding to 9960235-10043487) and is unique | We add it to the list of unique invalid IDs
+	For 1-digit partitions, 3 invalid IDs were confirmed | Updated count = 948 | Updated sum = 498357933
+
+
+Number of digits, N = 8
+
+	Dividing a 8-digit number into 8 seperate 1-digit numbers. Candidate seeds = [1, 9]
+	For 1-digit partitions, 0 invalid IDs were confirmed | Updated count = 948 | Updated sum = 498357933
+
+	Dividing a 8-digit number into 4 seperate 2-digit numbers. Candidate seeds = [10, 99]
+	(*) Candidate 75757575 (built with seed = 75) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	For 2-digit partitions, 1 invalid IDs were confirmed | Updated count = 949 | Updated sum = 574115508
+
+	Dividing a 8-digit number into 2 seperate 4-digit numbers. Candidate seeds = [1000, 9999]
+	(*) Candidate 10001000 (built with seed = 1000) is in a range (index = 3, corresponding to 9960235-10043487) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 10011001 (built with seed = 1001) is in a range (index = 3, corresponding to 9960235-10043487) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 10021002 (built with seed = 1002) is in a range (index = 3, corresponding to 9960235-10043487) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 10031003 (built with seed = 1003) is in a range (index = 3, corresponding to 9960235-10043487) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 10041004 (built with seed = 1004) is in a range (index = 3, corresponding to 9960235-10043487) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 46354635 (built with seed = 4635) is in a range (index = 16, corresponding to 46347154-46441299) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 46364636 (built with seed = 4636) is in a range (index = 16, corresponding to 46347154-46441299) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 46374637 (built with seed = 4637) is in a range (index = 16, corresponding to 46347154-46441299) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 46384638 (built with seed = 4638) is in a range (index = 16, corresponding to 46347154-46441299) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 46394639 (built with seed = 4639) is in a range (index = 16, corresponding to 46347154-46441299) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 46404640 (built with seed = 4640) is in a range (index = 16, corresponding to 46347154-46441299) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 46414641 (built with seed = 4641) is in a range (index = 16, corresponding to 46347154-46441299) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 46424642 (built with seed = 4642) is in a range (index = 16, corresponding to 46347154-46441299) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 46434643 (built with seed = 4643) is in a range (index = 16, corresponding to 46347154-46441299) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75707570 (built with seed = 7570) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75717571 (built with seed = 7571) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75727572 (built with seed = 7572) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75737573 (built with seed = 7573) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75747574 (built with seed = 7574) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Ignore candidate 75757575 (built with seed = 7575). It is in a range (index = 23, corresponding to 75702340-75883143) but it is not unique
+	(*) Candidate 75767576 (built with seed = 7576) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75777577 (built with seed = 7577) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75787578 (built with seed = 7578) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75797579 (built with seed = 7579) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75807580 (built with seed = 7580) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75817581 (built with seed = 7581) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75827582 (built with seed = 7582) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75837583 (built with seed = 7583) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75847584 (built with seed = 7584) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75857585 (built with seed = 7585) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75867586 (built with seed = 7586) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 75877587 (built with seed = 7587) is in a range (index = 23, corresponding to 75702340-75883143) and is unique | We add it to the list of unique invalid IDs
+	For 4-digit partitions, 31 invalid IDs were confirmed | Updated count = 980 | Updated sum = 2330281107
+
+
+Number of digits, N = 9
+
+	Dividing a 9-digit number into 9 seperate 1-digit numbers. Candidate seeds = [1, 9]
+	For 1-digit partitions, 0 invalid IDs were confirmed | Updated count = 980 | Updated sum = 2330281107
+
+	Dividing a 9-digit number into 3 seperate 3-digit numbers. Candidate seeds = [100, 999]
+	(*) Candidate 419419419 (built with seed = 419) is in a range (index = 30, corresponding to 419388311-419470147) and is unique | We add it to the list of unique invalid IDs
+	For 3-digit partitions, 1 invalid IDs were confirmed | Updated count = 981 | Updated sum = 2749700526
+
+
+Number of digits, N = 10
+
+	Dividing a 10-digit number into 10 seperate 1-digit numbers. Candidate seeds = [1, 9]
+	For 1-digit partitions, 0 invalid IDs were confirmed | Updated count = 981 | Updated sum = 2749700526
+
+	Dividing a 10-digit number into 5 seperate 2-digit numbers. Candidate seeds = [10, 99]
+	(*) Candidate 9191919191 (built with seed = 91) is in a range (index = 14, corresponding to 9191900808-9191943802) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 9292929292 (built with seed = 92) is in a range (index = 32, corresponding to 9292901468-9292987321) and is unique | We add it to the list of unique invalid IDs
+	For 2-digit partitions, 2 invalid IDs were confirmed | Updated count = 983 | Updated sum = 21234549009
+
+	Dividing a 10-digit number into 2 seperate 5-digit numbers. Candidate seeds = [10000, 99999]
+	(*) Candidate 3829538295 (built with seed = 38295) is in a range (index = 8, corresponding to 3829443354-3829647366) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 3829638296 (built with seed = 38296) is in a range (index = 8, corresponding to 3829443354-3829647366) and is unique | We add it to the list of unique invalid IDs
+	(*) Candidate 7143771437 (built with seed = 71437) is in a range (index = 2, corresponding to 7143759788-7143793713) and is unique | We add it to the list of unique invalid IDs
+	For 5-digit partitions, 3 invalid IDs were confirmed | Updated count = 986 | Updated sum = 36037497037
+
+
+Results | Number of invalid IDs = 986 | Invalid IDs sum = 36037497037

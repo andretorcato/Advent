@@ -1,0 +1,573 @@
+Red tiles locations:
+(*) Tile number 1 | x = 98302 | y = 50003
+(*) Tile number 2 | x = 98302 | y = 51224
+(*) Tile number 3 | x = 98168 | y = 51224
+(*) Tile number 4 | x = 98168 | y = 52447
+(*) Tile number 5 | x = 98186 | y = 52447
+(*) Tile number 6 | x = 98186 | y = 53636
+(*) Tile number 7 | x = 97714 | y = 53636
+(*) Tile number 8 | x = 97714 | y = 54871
+(*) Tile number 9 | x = 97875 | y = 54871
+(*) Tile number 10 | x = 97875 | y = 56010
+(*) Tile number 11 | x = 97164 | y = 56010
+(*) Tile number 12 | x = 97164 | y = 57213
+(*) Tile number 13 | x = 97068 | y = 57213
+(*) Tile number 14 | x = 97068 | y = 58476
+(*) Tile number 15 | x = 97274 | y = 58476
+(*) Tile number 16 | x = 97274 | y = 59728
+(*) Tile number 17 | x = 97321 | y = 59728
+(*) Tile number 18 | x = 97321 | y = 60896
+(*) Tile number 19 | x = 96940 | y = 60896
+(*) Tile number 20 | x = 96940 | y = 62063
+(*) Tile number 21 | x = 96580 | y = 62063
+(*) Tile number 22 | x = 96580 | y = 63178
+(*) Tile number 23 | x = 96044 | y = 63178
+(*) Tile number 24 | x = 96044 | y = 64395
+(*) Tile number 25 | x = 95871 | y = 64395
+(*) Tile number 26 | x = 95871 | y = 65536
+(*) Tile number 27 | x = 95443 | y = 65536
+(*) Tile number 28 | x = 95443 | y = 66593
+(*) Tile number 29 | x = 94793 | y = 66593
+(*) Tile number 30 | x = 94793 | y = 67818
+(*) Tile number 31 | x = 94599 | y = 67818
+(*) Tile number 32 | x = 94599 | y = 68765
+(*) Tile number 33 | x = 93720 | y = 68765
+(*) Tile number 34 | x = 93720 | y = 69885
+(*) Tile number 35 | x = 93270 | y = 69885
+(*) Tile number 36 | x = 93270 | y = 70946
+(*) Tile number 37 | x = 92694 | y = 70946
+(*) Tile number 38 | x = 92694 | y = 72389
+(*) Tile number 39 | x = 92855 | y = 72389
+(*) Tile number 40 | x = 92855 | y = 73409
+(*) Tile number 41 | x = 92168 | y = 73409
+(*) Tile number 42 | x = 92168 | y = 74440
+(*) Tile number 43 | x = 91512 | y = 74440
+(*) Tile number 44 | x = 91512 | y = 75135
+(*) Tile number 45 | x = 90319 | y = 75135
+(*) Tile number 46 | x = 90319 | y = 76590
+(*) Tile number 47 | x = 90340 | y = 76590
+(*) Tile number 48 | x = 90340 | y = 77609
+(*) Tile number 49 | x = 89661 | y = 77609
+(*) Tile number 50 | x = 89661 | y = 78603
+(*) Tile number 51 | x = 88946 | y = 78603
+(*) Tile number 52 | x = 88946 | y = 79150
+(*) Tile number 53 | x = 87653 | y = 79150
+(*) Tile number 54 | x = 87653 | y = 80056
+(*) Tile number 55 | x = 86856 | y = 80056
+(*) Tile number 56 | x = 86856 | y = 80969
+(*) Tile number 57 | x = 86069 | y = 80969
+(*) Tile number 58 | x = 86069 | y = 82283
+(*) Tile number 59 | x = 85727 | y = 82283
+(*) Tile number 60 | x = 85727 | y = 82920
+(*) Tile number 61 | x = 84627 | y = 82920
+(*) Tile number 62 | x = 84627 | y = 83969
+(*) Tile number 63 | x = 83964 | y = 83969
+(*) Tile number 64 | x = 83964 | y = 84620
+(*) Tile number 65 | x = 82904 | y = 84620
+(*) Tile number 66 | x = 82904 | y = 85831
+(*) Tile number 67 | x = 82367 | y = 85831
+(*) Tile number 68 | x = 82367 | y = 86713
+(*) Tile number 69 | x = 81513 | y = 86713
+(*) Tile number 70 | x = 81513 | y = 87151
+(*) Tile number 71 | x = 80288 | y = 87151
+(*) Tile number 72 | x = 80288 | y = 87866
+(*) Tile number 73 | x = 79306 | y = 87866
+(*) Tile number 74 | x = 79306 | y = 88852
+(*) Tile number 75 | x = 78525 | y = 88852
+(*) Tile number 76 | x = 78525 | y = 89142
+(*) Tile number 77 | x = 77239 | y = 89142
+(*) Tile number 78 | x = 77239 | y = 89703
+(*) Tile number 79 | x = 76163 | y = 89703
+(*) Tile number 80 | x = 76163 | y = 90454
+(*) Tile number 81 | x = 75211 | y = 90454
+(*) Tile number 82 | x = 75211 | y = 91706
+(*) Tile number 83 | x = 74547 | y = 91706
+(*) Tile number 84 | x = 74547 | y = 92126
+(*) Tile number 85 | x = 73378 | y = 92126
+(*) Tile number 86 | x = 73378 | y = 92726
+(*) Tile number 87 | x = 72314 | y = 92726
+(*) Tile number 88 | x = 72314 | y = 93055
+(*) Tile number 89 | x = 71115 | y = 93055
+(*) Tile number 90 | x = 71115 | y = 93445
+(*) Tile number 91 | x = 69958 | y = 93445
+(*) Tile number 92 | x = 69958 | y = 93971
+(*) Tile number 93 | x = 68866 | y = 93971
+(*) Tile number 94 | x = 68866 | y = 94264
+(*) Tile number 95 | x = 67677 | y = 94264
+(*) Tile number 96 | x = 67677 | y = 95294
+(*) Tile number 97 | x = 66771 | y = 95294
+(*) Tile number 98 | x = 66771 | y = 95514
+(*) Tile number 99 | x = 65553 | y = 95514
+(*) Tile number 100 | x = 65553 | y = 96011
+(*) Tile number 101 | x = 64432 | y = 96011
+(*) Tile number 102 | x = 64432 | y = 96160
+(*) Tile number 103 | x = 63204 | y = 96160
+(*) Tile number 104 | x = 63204 | y = 96700
+(*) Tile number 105 | x = 62088 | y = 96700
+(*) Tile number 106 | x = 62088 | y = 97050
+(*) Tile number 107 | x = 60914 | y = 97050
+(*) Tile number 108 | x = 60914 | y = 96668
+(*) Tile number 109 | x = 59587 | y = 96668
+(*) Tile number 110 | x = 59587 | y = 97561
+(*) Tile number 111 | x = 58520 | y = 97561
+(*) Tile number 112 | x = 58520 | y = 97113
+(*) Tile number 113 | x = 57214 | y = 97113
+(*) Tile number 114 | x = 57214 | y = 97472
+(*) Tile number 115 | x = 56042 | y = 97472
+(*) Tile number 116 | x = 56042 | y = 97372
+(*) Tile number 117 | x = 54813 | y = 97372
+(*) Tile number 118 | x = 54813 | y = 98058
+(*) Tile number 119 | x = 53656 | y = 98058
+(*) Tile number 120 | x = 53656 | y = 97675
+(*) Tile number 121 | x = 52414 | y = 97675
+(*) Tile number 122 | x = 52414 | y = 98174
+(*) Tile number 123 | x = 51217 | y = 98174
+(*) Tile number 124 | x = 51217 | y = 97538
+(*) Tile number 125 | x = 49996 | y = 97538
+(*) Tile number 126 | x = 49996 | y = 97777
+(*) Tile number 127 | x = 48785 | y = 97777
+(*) Tile number 128 | x = 48785 | y = 97710
+(*) Tile number 129 | x = 47577 | y = 97710
+(*) Tile number 130 | x = 47577 | y = 97588
+(*) Tile number 131 | x = 46372 | y = 97588
+(*) Tile number 132 | x = 46372 | y = 98126
+(*) Tile number 133 | x = 45102 | y = 98126
+(*) Tile number 134 | x = 45102 | y = 97628
+(*) Tile number 135 | x = 43930 | y = 97628
+(*) Tile number 136 | x = 43930 | y = 97893
+(*) Tile number 137 | x = 42659 | y = 97893
+(*) Tile number 138 | x = 42659 | y = 96979
+(*) Tile number 139 | x = 41576 | y = 96979
+(*) Tile number 140 | x = 41576 | y = 97336
+(*) Tile number 141 | x = 40268 | y = 97336
+(*) Tile number 142 | x = 40268 | y = 96764
+(*) Tile number 143 | x = 39144 | y = 96764
+(*) Tile number 144 | x = 39144 | y = 96153
+(*) Tile number 145 | x = 38046 | y = 96153
+(*) Tile number 146 | x = 38046 | y = 96044
+(*) Tile number 147 | x = 36821 | y = 96044
+(*) Tile number 148 | x = 36821 | y = 96133
+(*) Tile number 149 | x = 35522 | y = 96133
+(*) Tile number 150 | x = 35522 | y = 95129
+(*) Tile number 151 | x = 34570 | y = 95129
+(*) Tile number 152 | x = 34570 | y = 94715
+(*) Tile number 153 | x = 33435 | y = 94715
+(*) Tile number 154 | x = 33435 | y = 94476
+(*) Tile number 155 | x = 32230 | y = 94476
+(*) Tile number 156 | x = 32230 | y = 94173
+(*) Tile number 157 | x = 31039 | y = 94173
+(*) Tile number 158 | x = 31039 | y = 93855
+(*) Tile number 159 | x = 29845 | y = 93855
+(*) Tile number 160 | x = 29845 | y = 93309
+(*) Tile number 161 | x = 28751 | y = 93309
+(*) Tile number 162 | x = 28751 | y = 92364
+(*) Tile number 163 | x = 27866 | y = 92364
+(*) Tile number 164 | x = 27866 | y = 91768
+(*) Tile number 165 | x = 26813 | y = 91768
+(*) Tile number 166 | x = 26813 | y = 90974
+(*) Tile number 167 | x = 25875 | y = 90974
+(*) Tile number 168 | x = 25875 | y = 90656
+(*) Tile number 169 | x = 24654 | y = 90656
+(*) Tile number 170 | x = 24654 | y = 90390
+(*) Tile number 171 | x = 23376 | y = 90390
+(*) Tile number 172 | x = 23376 | y = 89775
+(*) Tile number 173 | x = 22311 | y = 89775
+(*) Tile number 174 | x = 22311 | y = 88714
+(*) Tile number 175 | x = 21567 | y = 88714
+(*) Tile number 176 | x = 21567 | y = 88174
+(*) Tile number 177 | x = 20446 | y = 88174
+(*) Tile number 178 | x = 20446 | y = 87381
+(*) Tile number 179 | x = 19515 | y = 87381
+(*) Tile number 180 | x = 19515 | y = 86667
+(*) Tile number 181 | x = 18517 | y = 86667
+(*) Tile number 182 | x = 18517 | y = 85391
+(*) Tile number 183 | x = 18020 | y = 85391
+(*) Tile number 184 | x = 18020 | y = 84587
+(*) Tile number 185 | x = 17117 | y = 84587
+(*) Tile number 186 | x = 17117 | y = 84173
+(*) Tile number 187 | x = 15821 | y = 84173
+(*) Tile number 188 | x = 15821 | y = 83232
+(*) Tile number 189 | x = 15034 | y = 83232
+(*) Tile number 190 | x = 15034 | y = 82204
+(*) Tile number 191 | x = 14349 | y = 82204
+(*) Tile number 192 | x = 14349 | y = 81581
+(*) Tile number 193 | x = 13206 | y = 81581
+(*) Tile number 194 | x = 13206 | y = 80333
+(*) Tile number 195 | x = 12794 | y = 80333
+(*) Tile number 196 | x = 12794 | y = 79174
+(*) Tile number 197 | x = 12304 | y = 79174
+(*) Tile number 198 | x = 12304 | y = 78538
+(*) Tile number 199 | x = 11129 | y = 78538
+(*) Tile number 200 | x = 11129 | y = 77208
+(*) Tile number 201 | x = 10902 | y = 77208
+(*) Tile number 202 | x = 10902 | y = 76567
+(*) Tile number 203 | x = 9682 | y = 76567
+(*) Tile number 204 | x = 9682 | y = 75520
+(*) Tile number 205 | x = 9049 | y = 75520
+(*) Tile number 206 | x = 9049 | y = 74331
+(*) Tile number 207 | x = 8659 | y = 74331
+(*) Tile number 208 | x = 8659 | y = 73210
+(*) Tile number 209 | x = 8176 | y = 73210
+(*) Tile number 210 | x = 8176 | y = 72066
+(*) Tile number 211 | x = 7748 | y = 72066
+(*) Tile number 212 | x = 7748 | y = 71330
+(*) Tile number 213 | x = 6507 | y = 71330
+(*) Tile number 214 | x = 6507 | y = 70084
+(*) Tile number 215 | x = 6280 | y = 70084
+(*) Tile number 216 | x = 6280 | y = 68785
+(*) Tile number 217 | x = 6215 | y = 68785
+(*) Tile number 218 | x = 6215 | y = 67814
+(*) Tile number 219 | x = 5393 | y = 67814
+(*) Tile number 220 | x = 5393 | y = 66621
+(*) Tile number 221 | x = 5112 | y = 66621
+(*) Tile number 222 | x = 5112 | y = 65682
+(*) Tile number 223 | x = 4109 | y = 65682
+(*) Tile number 224 | x = 4109 | y = 64454
+(*) Tile number 225 | x = 3918 | y = 64454
+(*) Tile number 226 | x = 3918 | y = 63076
+(*) Tile number 227 | x = 4289 | y = 63076
+(*) Tile number 228 | x = 4289 | y = 62035
+(*) Tile number 229 | x = 3502 | y = 62035
+(*) Tile number 230 | x = 3502 | y = 60858
+(*) Tile number 231 | x = 3190 | y = 60858
+(*) Tile number 232 | x = 3190 | y = 59573
+(*) Tile number 233 | x = 3400 | y = 59573
+(*) Tile number 234 | x = 3400 | y = 58531
+(*) Tile number 235 | x = 2382 | y = 58531
+(*) Tile number 236 | x = 2382 | y = 57313
+(*) Tile number 237 | x = 2238 | y = 57313
+(*) Tile number 238 | x = 2238 | y = 56105
+(*) Tile number 239 | x = 2034 | y = 56105
+(*) Tile number 240 | x = 2034 | y = 54836
+(*) Tile number 241 | x = 2406 | y = 54836
+(*) Tile number 242 | x = 2406 | y = 53666
+(*) Tile number 243 | x = 1803 | y = 53666
+(*) Tile number 244 | x = 1803 | y = 52448
+(*) Tile number 245 | x = 1646 | y = 52448
+(*) Tile number 246 | x = 1646 | y = 51221
+(*) Tile number 247 | x = 1674 | y = 51221
+(*) Tile number 248 | x = 1674 | y = 50003
+(*) Tile number 249 | x = 94601 | y = 50003
+(*) Tile number 250 | x = 94601 | y = 48785
+(*) Tile number 251 | x = 2222 | y = 48785
+(*) Tile number 252 | x = 2222 | y = 47553
+(*) Tile number 253 | x = 1818 | y = 47553
+(*) Tile number 254 | x = 1818 | y = 46337
+(*) Tile number 255 | x = 1944 | y = 46337
+(*) Tile number 256 | x = 1944 | y = 45177
+(*) Tile number 257 | x = 2609 | y = 45177
+(*) Tile number 258 | x = 2609 | y = 43968
+(*) Tile number 259 | x = 2666 | y = 43968
+(*) Tile number 260 | x = 2666 | y = 42764
+(*) Tile number 261 | x = 2790 | y = 42764
+(*) Tile number 262 | x = 2790 | y = 41575
+(*) Tile number 263 | x = 3015 | y = 41575
+(*) Tile number 264 | x = 3015 | y = 40249
+(*) Tile number 265 | x = 2568 | y = 40249
+(*) Tile number 266 | x = 2568 | y = 39132
+(*) Tile number 267 | x = 3184 | y = 39132
+(*) Tile number 268 | x = 3184 | y = 37906
+(*) Tile number 269 | x = 3307 | y = 37906
+(*) Tile number 270 | x = 3307 | y = 36927
+(*) Tile number 271 | x = 4324 | y = 36927
+(*) Tile number 272 | x = 4324 | y = 35567
+(*) Tile number 273 | x = 4011 | y = 35567
+(*) Tile number 274 | x = 4011 | y = 34363
+(*) Tile number 275 | x = 4265 | y = 34363
+(*) Tile number 276 | x = 4265 | y = 33197
+(*) Tile number 277 | x = 4640 | y = 33197
+(*) Tile number 278 | x = 4640 | y = 32194
+(*) Tile number 279 | x = 5435 | y = 32194
+(*) Tile number 280 | x = 5435 | y = 31142
+(*) Tile number 281 | x = 6065 | y = 31142
+(*) Tile number 282 | x = 6065 | y = 30099
+(*) Tile number 283 | x = 6695 | y = 30099
+(*) Tile number 284 | x = 6695 | y = 28705
+(*) Tile number 285 | x = 6596 | y = 28705
+(*) Tile number 286 | x = 6596 | y = 27761
+(*) Tile number 287 | x = 7433 | y = 27761
+(*) Tile number 288 | x = 7433 | y = 26844
+(*) Tile number 289 | x = 8288 | y = 26844
+(*) Tile number 290 | x = 8288 | y = 25449
+(*) Tile number 291 | x = 8300 | y = 25449
+(*) Tile number 292 | x = 8300 | y = 24396
+(*) Tile number 293 | x = 8928 | y = 24396
+(*) Tile number 294 | x = 8928 | y = 23840
+(*) Tile number 295 | x = 10314 | y = 23840
+(*) Tile number 296 | x = 10314 | y = 22721
+(*) Tile number 297 | x = 10814 | y = 22721
+(*) Tile number 298 | x = 10814 | y = 21729
+(*) Tile number 299 | x = 11506 | y = 21729
+(*) Tile number 300 | x = 11506 | y = 20366
+(*) Tile number 301 | x = 11722 | y = 20366
+(*) Tile number 302 | x = 11722 | y = 19560
+(*) Tile number 303 | x = 12674 | y = 19560
+(*) Tile number 304 | x = 12674 | y = 18574
+(*) Tile number 305 | x = 13398 | y = 18574
+(*) Tile number 306 | x = 13398 | y = 17557
+(*) Tile number 307 | x = 14096 | y = 17557
+(*) Tile number 308 | x = 14096 | y = 17268
+(*) Tile number 309 | x = 15571 | y = 17268
+(*) Tile number 310 | x = 15571 | y = 15972
+(*) Tile number 311 | x = 15976 | y = 15972
+(*) Tile number 312 | x = 15976 | y = 15218
+(*) Tile number 313 | x = 16942 | y = 15218
+(*) Tile number 314 | x = 16942 | y = 14403
+(*) Tile number 315 | x = 17844 | y = 14403
+(*) Tile number 316 | x = 17844 | y = 13244
+(*) Tile number 317 | x = 18451 | y = 13244
+(*) Tile number 318 | x = 18451 | y = 13003
+(*) Tile number 319 | x = 19837 | y = 13003
+(*) Tile number 320 | x = 19837 | y = 12032
+(*) Tile number 321 | x = 20615 | y = 12032
+(*) Tile number 322 | x = 20615 | y = 11292
+(*) Tile number 323 | x = 21581 | y = 11292
+(*) Tile number 324 | x = 21581 | y = 10689
+(*) Tile number 325 | x = 22643 | y = 10689
+(*) Tile number 326 | x = 22643 | y = 10214
+(*) Tile number 327 | x = 23783 | y = 10214
+(*) Tile number 328 | x = 23783 | y = 9256
+(*) Tile number 329 | x = 24608 | y = 9256
+(*) Tile number 330 | x = 24608 | y = 8332
+(*) Tile number 331 | x = 25475 | y = 8332
+(*) Tile number 332 | x = 25475 | y = 7886
+(*) Tile number 333 | x = 26628 | y = 7886
+(*) Tile number 334 | x = 26628 | y = 7649
+(*) Tile number 335 | x = 27881 | y = 7649
+(*) Tile number 336 | x = 27881 | y = 7321
+(*) Tile number 337 | x = 29068 | y = 7321
+(*) Tile number 338 | x = 29068 | y = 6086
+(*) Tile number 339 | x = 29826 | y = 6086
+(*) Tile number 340 | x = 29826 | y = 6310
+(*) Tile number 341 | x = 31254 | y = 6310
+(*) Tile number 342 | x = 31254 | y = 5316
+(*) Tile number 343 | x = 32154 | y = 5316
+(*) Tile number 344 | x = 32154 | y = 4703
+(*) Tile number 345 | x = 33227 | y = 4703
+(*) Tile number 346 | x = 33227 | y = 4507
+(*) Tile number 347 | x = 34453 | y = 4507
+(*) Tile number 348 | x = 34453 | y = 4398
+(*) Tile number 349 | x = 35695 | y = 4398
+(*) Tile number 350 | x = 35695 | y = 3408
+(*) Tile number 351 | x = 36672 | y = 3408
+(*) Tile number 352 | x = 36672 | y = 3522
+(*) Tile number 353 | x = 37969 | y = 3522
+(*) Tile number 354 | x = 37969 | y = 3685
+(*) Tile number 355 | x = 39256 | y = 3685
+(*) Tile number 356 | x = 39256 | y = 3353
+(*) Tile number 357 | x = 40417 | y = 3353
+(*) Tile number 358 | x = 40417 | y = 2886
+(*) Tile number 359 | x = 41559 | y = 2886
+(*) Tile number 360 | x = 41559 | y = 2933
+(*) Tile number 361 | x = 42793 | y = 2933
+(*) Tile number 362 | x = 42793 | y = 2141
+(*) Tile number 363 | x = 43908 | y = 2141
+(*) Tile number 364 | x = 43908 | y = 2680
+(*) Tile number 365 | x = 45191 | y = 2680
+(*) Tile number 366 | x = 45191 | y = 2586
+(*) Tile number 367 | x = 46392 | y = 2586
+(*) Tile number 368 | x = 46392 | y = 2000
+(*) Tile number 369 | x = 47569 | y = 2000
+(*) Tile number 370 | x = 47569 | y = 2086
+(*) Tile number 371 | x = 48789 | y = 2086
+(*) Tile number 372 | x = 48789 | y = 1768
+(*) Tile number 373 | x = 50003 | y = 1768
+(*) Tile number 374 | x = 50003 | y = 2094
+(*) Tile number 375 | x = 51217 | y = 2094
+(*) Tile number 376 | x = 51217 | y = 1726
+(*) Tile number 377 | x = 52451 | y = 1726
+(*) Tile number 378 | x = 52451 | y = 2521
+(*) Tile number 379 | x = 53618 | y = 2521
+(*) Tile number 380 | x = 53618 | y = 2184
+(*) Tile number 381 | x = 54865 | y = 2184
+(*) Tile number 382 | x = 54865 | y = 2001
+(*) Tile number 383 | x = 56116 | y = 2001
+(*) Tile number 384 | x = 56116 | y = 2192
+(*) Tile number 385 | x = 57327 | y = 2192
+(*) Tile number 386 | x = 57327 | y = 2984
+(*) Tile number 387 | x = 58430 | y = 2984
+(*) Tile number 388 | x = 58430 | y = 2640
+(*) Tile number 389 | x = 59735 | y = 2640
+(*) Tile number 390 | x = 59735 | y = 3676
+(*) Tile number 391 | x = 60752 | y = 3676
+(*) Tile number 392 | x = 60752 | y = 3891
+(*) Tile number 393 | x = 61941 | y = 3891
+(*) Tile number 394 | x = 61941 | y = 4311
+(*) Tile number 395 | x = 63076 | y = 4311
+(*) Tile number 396 | x = 63076 | y = 4651
+(*) Tile number 397 | x = 64231 | y = 4651
+(*) Tile number 398 | x = 64231 | y = 4383
+(*) Tile number 399 | x = 65595 | y = 4383
+(*) Tile number 400 | x = 65595 | y = 4870
+(*) Tile number 401 | x = 66717 | y = 4870
+(*) Tile number 402 | x = 66717 | y = 5195
+(*) Tile number 403 | x = 67900 | y = 5195
+(*) Tile number 404 | x = 67900 | y = 6130
+(*) Tile number 405 | x = 68829 | y = 6130
+(*) Tile number 406 | x = 68829 | y = 6542
+(*) Tile number 407 | x = 69971 | y = 6542
+(*) Tile number 408 | x = 69971 | y = 6459
+(*) Tile number 409 | x = 71361 | y = 6459
+(*) Tile number 410 | x = 71361 | y = 7583
+(*) Tile number 411 | x = 72160 | y = 7583
+(*) Tile number 412 | x = 72160 | y = 7855
+(*) Tile number 413 | x = 73395 | y = 7855
+(*) Tile number 414 | x = 73395 | y = 8368
+(*) Tile number 415 | x = 74511 | y = 8368
+(*) Tile number 416 | x = 74511 | y = 9474
+(*) Tile number 417 | x = 75263 | y = 9474
+(*) Tile number 418 | x = 75263 | y = 9687
+(*) Tile number 419 | x = 76572 | y = 9687
+(*) Tile number 420 | x = 76572 | y = 10635
+(*) Tile number 421 | x = 77402 | y = 10635
+(*) Tile number 422 | x = 77402 | y = 11650
+(*) Tile number 423 | x = 78164 | y = 11650
+(*) Tile number 424 | x = 78164 | y = 11759
+(*) Tile number 425 | x = 79604 | y = 11759
+(*) Tile number 426 | x = 79604 | y = 12930
+(*) Tile number 427 | x = 80230 | y = 12930
+(*) Tile number 428 | x = 80230 | y = 13733
+(*) Tile number 429 | x = 81138 | y = 13733
+(*) Tile number 430 | x = 81138 | y = 14741
+(*) Tile number 431 | x = 81859 | y = 14741
+(*) Tile number 432 | x = 81859 | y = 15311
+(*) Tile number 433 | x = 82978 | y = 15311
+(*) Tile number 434 | x = 82978 | y = 16332
+(*) Tile number 435 | x = 83672 | y = 16332
+(*) Tile number 436 | x = 83672 | y = 17169
+(*) Tile number 437 | x = 84542 | y = 17169
+(*) Tile number 438 | x = 84542 | y = 17714
+(*) Tile number 439 | x = 85740 | y = 17714
+(*) Tile number 440 | x = 85740 | y = 18612
+(*) Tile number 441 | x = 86566 | y = 18612
+(*) Tile number 442 | x = 86566 | y = 19436
+(*) Tile number 443 | x = 87488 | y = 19436
+(*) Tile number 444 | x = 87488 | y = 20859
+(*) Tile number 445 | x = 87651 | y = 20859
+(*) Tile number 446 | x = 87651 | y = 21393
+(*) Tile number 447 | x = 88962 | y = 21393
+(*) Tile number 448 | x = 88962 | y = 22570
+(*) Tile number 449 | x = 89415 | y = 22570
+(*) Tile number 450 | x = 89415 | y = 23635
+(*) Tile number 451 | x = 90009 | y = 23635
+(*) Tile number 452 | x = 90009 | y = 24534
+(*) Tile number 453 | x = 90862 | y = 24534
+(*) Tile number 454 | x = 90862 | y = 25593
+(*) Tile number 455 | x = 91467 | y = 25593
+(*) Tile number 456 | x = 91467 | y = 26849
+(*) Tile number 457 | x = 91716 | y = 26849
+(*) Tile number 458 | x = 91716 | y = 27581
+(*) Tile number 459 | x = 92925 | y = 27581
+(*) Tile number 460 | x = 92925 | y = 28721
+(*) Tile number 461 | x = 93386 | y = 28721
+(*) Tile number 462 | x = 93386 | y = 29770
+(*) Tile number 463 | x = 94036 | y = 29770
+(*) Tile number 464 | x = 94036 | y = 31222
+(*) Tile number 465 | x = 93764 | y = 31222
+(*) Tile number 466 | x = 93764 | y = 32377
+(*) Tile number 467 | x = 94126 | y = 32377
+(*) Tile number 468 | x = 94126 | y = 33274
+(*) Tile number 469 | x = 95169 | y = 33274
+(*) Tile number 470 | x = 95169 | y = 34393
+(*) Tile number 471 | x = 95668 | y = 34393
+(*) Tile number 472 | x = 95668 | y = 35730
+(*) Tile number 473 | x = 95490 | y = 35730
+(*) Tile number 474 | x = 95490 | y = 36882
+(*) Tile number 475 | x = 95855 | y = 36882
+(*) Tile number 476 | x = 95855 | y = 38072
+(*) Tile number 477 | x = 96081 | y = 38072
+(*) Tile number 478 | x = 96081 | y = 39252
+(*) Tile number 479 | x = 96327 | y = 39252
+(*) Tile number 480 | x = 96327 | y = 40429
+(*) Tile number 481 | x = 96585 | y = 40429
+(*) Tile number 482 | x = 96585 | y = 41595
+(*) Tile number 483 | x = 96912 | y = 41595
+(*) Tile number 484 | x = 96912 | y = 42771
+(*) Tile number 485 | x = 97206 | y = 42771
+(*) Tile number 486 | x = 97206 | y = 43958
+(*) Tile number 487 | x = 97461 | y = 43958
+(*) Tile number 488 | x = 97461 | y = 45166
+(*) Tile number 489 | x = 97568 | y = 45166
+(*) Tile number 490 | x = 97568 | y = 46336
+(*) Tile number 491 | x = 98146 | y = 46336
+(*) Tile number 492 | x = 98146 | y = 47589
+(*) Tile number 493 | x = 97604 | y = 47589
+(*) Tile number 494 | x = 97604 | y = 48791
+(*) Tile number 495 | x = 97828 | y = 48791
+(*) Tile number 496 | x = 97828 | y = 50003
+
+The imaginary boundary of the point cloud is made from:
+(*) Point (1646, 51221)
+(*) Point (1674, 50003)
+(*) Point (1818, 46337)
+(*) Point (2568, 39132)
+(*) Point (4265, 33197)
+(*) Point (4640, 32194)
+(*) Point (6596, 27761)
+(*) Point (8300, 24396)
+(*) Point (11722, 19560)
+(*) Point (13398, 17557)
+(*) Point (17844, 13244)
+(*) Point (24608, 8332)
+(*) Point (25475, 7886)
+(*) Point (29068, 6086)
+(*) Point (32154, 4703)
+(*) Point (35695, 3408)
+(*) Point (42793, 2141)
+(*) Point (48789, 1768)
+(*) Point (51217, 1726)
+(*) Point (52451, 1726)
+(*) Point (56116, 2001)
+(*) Point (57327, 2192)
+(*) Point (59735, 2640)
+(*) Point (65595, 4383)
+(*) Point (67900, 5195)
+(*) Point (71361, 6459)
+(*) Point (74511, 8368)
+(*) Point (76572, 9687)
+(*) Point (79604, 11759)
+(*) Point (85740, 17714)
+(*) Point (87488, 19436)
+(*) Point (88962, 21393)
+(*) Point (92925, 27581)
+(*) Point (94036, 29770)
+(*) Point (95668, 34393)
+(*) Point (98146, 46336)
+(*) Point (98302, 50003)
+(*) Point (98302, 51224)
+(*) Point (98186, 53636)
+(*) Point (97321, 60896)
+(*) Point (95871, 65536)
+(*) Point (92855, 73409)
+(*) Point (90340, 77609)
+(*) Point (89661, 78603)
+(*) Point (82367, 86713)
+(*) Point (79306, 88852)
+(*) Point (75211, 91706)
+(*) Point (74547, 92126)
+(*) Point (73378, 92726)
+(*) Point (67677, 95294)
+(*) Point (65553, 96011)
+(*) Point (62088, 97050)
+(*) Point (59587, 97561)
+(*) Point (54813, 98058)
+(*) Point (52414, 98174)
+(*) Point (51217, 98174)
+(*) Point (45102, 98126)
+(*) Point (42659, 97893)
+(*) Point (40268, 97336)
+(*) Point (35522, 96133)
+(*) Point (29845, 93855)
+(*) Point (28751, 93309)
+(*) Point (23376, 90390)
+(*) Point (22311, 89775)
+(*) Point (18517, 86667)
+(*) Point (15821, 84173)
+(*) Point (13206, 81581)
+(*) Point (9682, 76567)
+(*) Point (6507, 71330)
+(*) Point (4109, 65682)
+(*) Point (2382, 58531)
+(*) Point (2034, 56105)
+(*) Point (1646, 52448)
+
