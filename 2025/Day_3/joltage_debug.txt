@@ -1,0 +1,803 @@
+Going over battery banks
+
+(*) Battery bank number 1 | Number of batteries in bank = 100
+(*) Batteries = 1 2 5 2 4 4 2 2 2 1 2 1 3 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 2 1 2 1 4 2 3 5 1 2 2 4 1 1 2 2 2 1 2 2 2 2 1 2 2 1 3 4 2 1 2 2 1 4 2 2 1 2 4 2 3 4 1 2 3 2 2 6 2 2 3 5 1 2 2 1 2 1 1 2 5 2 1 2 4 3 1 2 1 
+(*) Maximum bank joltage = 652521243121
+
+(*) Battery bank number 2 | Number of batteries in bank = 100
+(*) Batteries = 4 3 3 2 4 5 5 5 8 3 3 5 3 5 4 2 3 3 2 3 4 3 5 3 4 3 3 4 2 3 6 4 3 1 2 6 5 3 3 3 2 3 1 3 3 6 2 3 4 5 3 4 2 1 4 3 3 3 4 5 1 2 3 3 4 2 4 1 2 2 4 5 5 3 4 4 3 3 5 3 4 2 3 5 4 2 5 5 3 5 5 2 4 4 2 3 4 3 3 2 
+(*) Maximum bank joltage = 866655555555
+
+(*) Battery bank number 3 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 2 2 3 2 2 3 2 2 2 5 2 2 2 3 2 2 6 2 3 2 6 2 2 2 7 2 2 1 1 2 2 3 2 2 2 2 2 3 2 2 2 2 1 1 6 1 2 2 4 2 2 3 2 2 5 4 2 2 2 2 2 2 2 2 2 2 1 1 2 7 2 4 2 2 2 2 5 2 7 1 7 2 3 2 2 2 2 4 2 4 2 3 2 2 2 3 5 
+(*) Maximum bank joltage = 777744322235
+
+(*) Battery bank number 4 | Number of batteries in bank = 100
+(*) Batteries = 2 3 3 3 4 2 3 3 3 3 3 2 3 2 3 2 2 3 4 2 5 3 3 2 3 4 4 2 2 3 2 3 3 2 1 1 2 3 8 2 2 3 3 4 2 3 3 2 3 4 2 3 3 3 3 3 3 5 2 2 2 5 3 2 5 3 2 3 3 3 3 3 2 3 2 2 2 4 2 3 2 2 2 2 2 1 3 1 3 2 2 3 2 3 3 2 2 2 3 3 
+(*) Maximum bank joltage = 855543333333
+
+(*) Battery bank number 5 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 2 1 2 1 2 2 2 2 1 1 5 2 1 1 6 1 2 2 2 2 3 2 4 2 1 1 2 2 2 2 3 4 2 3 3 1 2 2 2 1 2 2 4 2 3 8 2 1 4 5 2 2 2 2 2 1 4 2 2 2 1 1 5 2 8 4 2 2 2 8 2 2 7 4 1 1 2 3 2 5 2 2 2 1 7 5 2 2 2 5 4 2 4 2 1 2 1 
+(*) Maximum bank joltage = 888775544221
+
+(*) Battery bank number 6 | Number of batteries in bank = 100
+(*) Batteries = 3 3 5 1 2 4 2 1 1 4 3 1 2 2 3 2 3 3 3 3 3 4 3 2 1 3 4 1 2 2 3 2 3 3 5 3 4 2 2 4 2 2 2 1 4 2 2 8 2 3 2 2 2 2 2 3 2 2 4 5 2 5 8 2 2 3 2 3 2 2 1 4 2 1 3 2 2 1 2 3 2 2 2 2 4 3 2 2 9 3 2 1 3 2 2 2 2 3 2 2 
+(*) Maximum bank joltage = 932132222322
+
+(*) Battery bank number 7 | Number of batteries in bank = 100
+(*) Batteries = 7 4 6 6 1 5 8 2 1 4 3 7 3 3 7 7 7 7 1 8 5 7 7 8 1 2 8 4 8 4 5 7 4 1 6 8 1 6 8 5 8 1 5 1 4 2 6 3 1 5 2 4 8 1 7 3 1 7 3 6 1 3 8 4 3 4 3 7 1 3 8 6 1 1 5 3 4 8 7 4 3 3 4 3 5 2 4 4 7 2 5 1 5 1 6 5 4 8 1 9 
+(*) Maximum bank joltage = 888888888889
+
+(*) Battery bank number 8 | Number of batteries in bank = 100
+(*) Batteries = 4 5 8 9 5 3 9 5 4 3 9 9 5 6 5 6 2 4 3 7 8 5 2 3 4 4 5 5 6 6 5 2 5 4 6 3 3 5 8 8 9 7 6 5 9 2 5 6 4 5 5 3 7 6 9 3 4 8 5 7 7 5 5 5 6 7 5 3 4 3 5 4 8 6 4 6 4 8 7 6 4 9 4 4 5 3 3 8 7 3 5 5 7 6 5 4 6 3 3 3 
+(*) Maximum bank joltage = 999999998776
+
+(*) Battery bank number 9 | Number of batteries in bank = 100
+(*) Batteries = 3 7 4 6 5 5 6 4 7 6 6 6 6 6 6 5 5 5 4 5 6 4 4 5 5 6 4 5 4 4 3 4 5 4 2 5 3 4 5 6 6 5 6 4 5 4 4 5 3 4 4 6 5 6 5 3 6 5 6 3 5 2 4 4 4 5 6 4 4 7 5 4 6 7 5 1 5 6 6 5 6 7 4 6 5 2 4 2 8 6 6 6 4 5 3 4 6 4 5 5 
+(*) Maximum bank joltage = 866645346455
+
+(*) Battery bank number 10 | Number of batteries in bank = 100
+(*) Batteries = 2 2 3 2 1 2 2 2 3 1 2 3 4 2 2 4 3 4 2 3 2 2 2 3 4 2 3 1 2 3 2 2 7 2 3 2 2 2 1 3 3 2 2 2 4 2 2 4 2 3 1 1 3 3 2 2 1 2 4 3 2 5 2 2 2 2 3 2 1 2 3 2 4 1 2 2 2 2 2 2 6 3 2 2 2 2 3 2 5 2 2 2 2 2 1 2 4 3 1 1 
+(*) Maximum bank joltage = 765222224311
+
+(*) Battery bank number 11 | Number of batteries in bank = 100
+(*) Batteries = 3 3 4 3 3 3 2 2 5 5 2 3 2 4 5 4 2 4 2 1 2 2 3 4 6 4 6 3 5 4 3 2 2 3 4 4 5 6 2 2 4 4 6 3 6 2 4 4 4 1 3 2 3 2 2 4 4 6 2 7 2 2 2 8 2 5 3 4 3 4 4 3 3 9 3 2 4 2 3 4 3 2 2 4 3 6 2 6 2 2 4 2 5 8 8 1 3 2 3 4 
+(*) Maximum bank joltage = 966458813234
+
+(*) Battery bank number 12 | Number of batteries in bank = 100
+(*) Batteries = 2 4 5 4 2 2 3 4 3 2 2 2 1 3 8 3 4 3 6 3 2 2 4 3 3 3 3 1 3 2 5 3 2 4 2 8 4 4 1 1 3 3 5 5 3 2 3 3 3 1 2 5 3 6 4 2 6 2 6 2 5 6 4 2 3 3 7 2 2 2 2 4 3 2 1 3 2 4 6 2 3 2 3 2 7 3 1 3 3 1 2 3 4 3 2 2 2 3 2 6 
+(*) Maximum bank joltage = 887743222326
+
+(*) Battery bank number 13 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 1 3 2 3 2 3 2 1 2 2 3 5 2 2 4 4 2 3 1 7 2 3 2 5 1 5 4 3 2 1 3 2 2 1 2 2 2 4 3 2 3 2 3 1 2 8 2 2 1 2 3 3 2 4 3 2 2 3 2 2 3 5 3 2 4 1 2 3 2 2 1 2 3 2 3 2 1 4 3 3 2 4 2 2 2 2 2 3 2 2 3 1 2 3 3 3 2 
+(*) Maximum bank joltage = 854443323332
+
+(*) Battery bank number 14 | Number of batteries in bank = 100
+(*) Batteries = 9 5 4 4 3 8 4 3 6 3 2 2 8 4 3 5 6 3 4 3 4 3 4 6 5 3 6 4 3 7 3 2 7 3 7 5 5 3 6 4 3 4 3 1 4 7 3 5 3 2 3 1 4 3 6 4 4 4 3 6 7 4 9 3 3 2 4 3 3 2 5 3 2 4 4 4 2 3 4 3 8 4 2 4 9 4 9 1 4 7 6 4 6 3 9 4 3 6 3 3 
+(*) Maximum bank joltage = 999976943633
+
+(*) Battery bank number 15 | Number of batteries in bank = 100
+(*) Batteries = 6 6 7 6 6 5 6 3 4 2 3 5 4 2 2 6 6 3 5 5 5 5 7 6 5 6 6 6 3 6 5 4 6 5 6 2 2 2 3 4 5 5 6 6 5 5 5 2 5 4 2 5 6 6 5 4 6 5 3 5 5 6 3 6 4 6 6 2 6 2 5 4 4 6 6 3 4 6 3 6 3 5 3 3 5 6 6 6 2 4 4 4 3 6 2 4 6 4 2 3 
+(*) Maximum bank joltage = 776666666666
+
+(*) Battery bank number 16 | Number of batteries in bank = 100
+(*) Batteries = 1 5 1 7 4 3 3 2 6 4 2 2 2 2 2 5 4 4 1 2 6 6 4 2 1 3 2 2 2 4 4 5 4 4 2 3 2 3 4 4 4 3 5 5 4 1 3 2 5 4 5 5 5 2 4 2 5 2 4 6 3 4 6 5 2 2 2 5 6 3 3 6 1 2 6 2 5 5 4 2 2 2 1 5 2 2 4 4 6 2 4 5 2 2 2 7 3 5 3 2 
+(*) Maximum bank joltage = 766666673532
+
+(*) Battery bank number 17 | Number of batteries in bank = 100
+(*) Batteries = 3 3 2 2 1 1 3 2 2 1 1 2 2 2 3 3 3 3 2 4 3 2 3 3 3 3 3 2 3 3 3 2 3 2 3 4 3 3 3 2 2 3 4 3 2 1 4 3 6 1 2 3 3 2 3 3 3 1 3 1 3 2 4 3 2 3 2 3 3 2 3 2 2 3 1 3 2 3 3 3 3 3 3 2 5 2 3 3 3 2 3 3 3 3 7 3 3 2 3 2 
+(*) Maximum bank joltage = 653333733232
+
+(*) Battery bank number 18 | Number of batteries in bank = 100
+(*) Batteries = 4 1 1 3 4 3 3 6 6 3 5 3 5 6 3 3 3 5 5 5 5 4 4 6 3 4 3 4 2 4 6 4 3 3 3 4 3 4 3 3 3 3 4 6 2 2 4 5 3 5 6 4 6 4 4 3 3 4 3 3 2 1 2 6 3 4 6 2 2 2 4 4 4 5 5 4 3 4 3 2 3 4 6 3 5 2 5 6 2 3 6 4 3 4 2 6 2 3 4 3 
+(*) Maximum bank joltage = 666666666666
+
+(*) Battery bank number 19 | Number of batteries in bank = 100
+(*) Batteries = 4 5 3 5 5 2 2 2 4 2 5 2 3 8 2 4 7 4 3 5 3 1 3 5 3 4 4 2 7 6 5 2 3 3 5 2 2 3 1 6 2 7 5 9 3 5 3 3 2 3 2 2 3 5 8 1 2 2 4 1 4 5 5 1 2 2 3 2 2 5 2 2 5 5 3 7 3 5 3 7 5 1 2 4 5 3 4 6 7 4 9 2 6 5 3 5 7 5 4 5 
+(*) Maximum bank joltage = 989265357545
+
+(*) Battery bank number 20 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 2 2 2 1 2 2 2 2 4 3 2 1 3 4 2 2 1 2 2 5 2 2 3 2 3 4 1 2 3 2 2 2 4 2 2 2 2 2 1 2 3 2 2 2 2 2 2 1 2 4 2 5 5 3 2 2 2 5 5 1 2 2 2 2 2 3 2 2 2 1 2 2 2 2 2 2 2 3 1 2 2 2 3 2 3 2 2 2 2 2 7 2 2 1 3 2 2 
+(*) Maximum bank joltage = 555557221322
+
+(*) Battery bank number 21 | Number of batteries in bank = 100
+(*) Batteries = 4 2 3 3 5 4 4 2 3 5 5 6 6 6 4 3 3 4 4 4 5 4 5 5 4 1 3 4 2 4 3 5 3 4 5 2 4 3 2 4 2 2 3 3 4 4 3 2 4 3 2 1 3 5 3 5 5 4 2 3 2 4 4 5 4 4 4 6 3 2 4 1 4 3 3 3 4 3 4 4 4 5 6 2 2 5 1 4 4 2 3 2 4 4 2 3 3 2 6 3 
+(*) Maximum bank joltage = 666665444463
+
+(*) Battery bank number 22 | Number of batteries in bank = 100
+(*) Batteries = 5 2 3 1 3 6 2 2 2 7 3 1 6 5 3 2 1 1 4 2 3 3 4 2 4 2 2 2 4 1 2 2 2 6 2 3 3 2 1 2 2 1 2 2 2 5 2 4 3 4 5 3 4 2 4 2 3 4 5 3 2 2 2 4 2 2 3 4 4 3 1 4 1 2 1 4 2 1 2 4 3 4 5 2 2 2 3 3 2 4 3 1 2 1 2 1 7 7 1 4 
+(*) Maximum bank joltage = 766555547714
+
+(*) Battery bank number 23 | Number of batteries in bank = 100
+(*) Batteries = 1 4 2 1 2 7 1 2 2 2 2 2 2 4 2 2 4 1 2 2 1 1 6 2 6 6 4 2 4 7 2 2 2 4 4 5 3 6 7 2 1 5 2 2 6 6 4 2 2 2 3 4 2 2 2 2 8 8 7 9 2 3 2 2 2 2 4 1 2 3 2 6 7 5 2 6 2 2 2 2 3 2 2 5 8 5 3 5 5 2 8 2 5 2 2 2 6 2 4 5 
+(*) Maximum bank joltage = 988252226245
+
+(*) Battery bank number 24 | Number of batteries in bank = 100
+(*) Batteries = 5 4 9 4 2 5 5 2 7 8 6 6 4 2 8 9 2 3 2 7 3 3 7 6 3 5 6 5 8 3 2 4 4 4 3 5 8 4 5 8 5 7 5 1 7 1 8 6 8 6 4 3 3 9 6 5 9 5 3 4 4 9 9 6 5 4 5 5 3 2 5 5 5 3 3 9 5 3 1 3 2 2 5 2 7 8 9 3 4 9 2 5 8 2 6 4 5 1 8 1 
+(*) Maximum bank joltage = 999999999881
+
+(*) Battery bank number 25 | Number of batteries in bank = 100
+(*) Batteries = 3 2 7 9 4 1 2 6 1 9 4 3 5 4 5 2 4 4 8 5 2 3 3 9 8 2 7 3 2 2 2 3 2 2 2 3 2 3 3 2 2 4 4 2 2 2 5 3 4 1 3 6 3 4 3 2 1 3 3 4 2 3 2 3 2 1 3 5 2 2 1 3 3 7 2 1 1 4 5 4 6 3 1 8 9 1 2 1 2 2 9 4 2 3 3 3 6 4 3 3 
+(*) Maximum bank joltage = 999994336433
+
+(*) Battery bank number 26 | Number of batteries in bank = 100
+(*) Batteries = 2 3 5 2 1 2 7 1 2 2 2 2 2 3 1 2 2 2 4 2 1 2 2 2 3 6 4 2 2 1 2 4 6 2 2 4 2 2 3 3 4 1 3 2 4 2 2 2 3 4 1 4 3 2 2 2 2 3 3 2 3 1 2 2 1 2 2 1 2 2 2 2 1 3 1 2 2 4 8 2 4 2 2 1 1 4 2 2 1 2 2 1 1 3 3 2 2 2 1 2 
+(*) Maximum bank joltage = 844223322212
+
+(*) Battery bank number 27 | Number of batteries in bank = 100
+(*) Batteries = 2 1 2 2 2 3 2 6 1 2 1 1 2 2 2 2 2 2 1 3 2 2 2 2 2 2 6 2 2 2 3 3 2 2 2 2 2 2 2 3 2 3 2 3 2 1 6 2 2 2 2 1 3 2 6 2 1 3 2 3 3 6 2 2 2 6 1 2 1 2 2 2 2 2 1 2 3 1 2 2 2 1 2 3 2 2 2 2 2 2 2 5 2 2 2 2 2 3 3 2 
+(*) Maximum bank joltage = 666666522332
+
+(*) Battery bank number 28 | Number of batteries in bank = 100
+(*) Batteries = 4 3 4 4 3 2 4 4 2 1 3 3 4 4 4 4 4 3 3 1 3 3 4 4 2 3 3 4 3 3 3 2 4 4 2 3 3 4 4 3 3 3 4 2 4 4 4 5 4 2 3 4 3 5 3 4 3 3 4 2 4 3 4 3 3 4 4 4 3 4 4 4 4 3 4 3 3 4 5 2 4 4 4 3 3 4 3 3 3 3 3 3 3 2 3 5 3 3 4 4 
+(*) Maximum bank joltage = 555444453344
+
+(*) Battery bank number 29 | Number of batteries in bank = 100
+(*) Batteries = 7 4 5 7 3 7 3 7 4 6 3 3 4 4 6 6 4 4 4 3 6 4 6 3 6 6 5 3 6 3 5 5 5 8 4 2 3 2 2 7 5 3 7 7 8 3 5 6 5 6 4 3 6 5 8 3 4 5 4 3 8 6 6 8 4 4 2 6 9 7 3 6 4 6 5 4 4 4 3 5 6 3 3 9 6 3 3 5 4 5 5 2 3 3 5 4 5 5 5 6 
+(*) Maximum bank joltage = 996555545556
+
+(*) Battery bank number 30 | Number of batteries in bank = 100
+(*) Batteries = 4 4 5 3 3 5 5 8 4 4 4 4 3 3 4 4 4 5 4 4 5 8 8 2 5 4 3 3 7 4 7 4 5 6 4 4 5 2 4 1 4 5 4 4 2 4 4 6 4 4 6 4 3 7 4 3 3 4 4 3 3 4 5 6 4 4 5 4 3 4 4 4 7 4 5 4 3 4 4 5 6 8 4 9 4 4 4 4 5 2 4 3 6 4 6 9 3 4 4 2 
+(*) Maximum bank joltage = 954364693442
+
+(*) Battery bank number 31 | Number of batteries in bank = 100
+(*) Batteries = 3 2 3 3 7 4 3 3 2 4 3 4 3 4 3 3 7 3 3 3 4 3 3 2 4 3 2 3 3 3 2 3 3 2 3 2 3 3 3 3 2 3 3 3 3 2 4 3 5 2 3 1 5 3 3 2 5 3 3 3 3 1 3 3 4 3 3 2 3 5 3 4 3 2 3 3 3 5 3 1 2 2 5 5 2 4 4 3 3 3 2 2 3 1 4 2 3 4 2 4 
+(*) Maximum bank joltage = 775555555444
+
+(*) Battery bank number 32 | Number of batteries in bank = 100
+(*) Batteries = 3 3 4 2 3 5 3 4 2 3 3 5 2 4 5 2 4 3 3 6 1 3 3 3 2 2 4 5 2 3 9 1 2 5 4 3 2 1 4 3 4 2 2 3 2 1 4 6 7 4 3 4 2 4 7 3 5 4 2 3 2 3 3 1 4 2 4 2 5 5 3 4 5 3 4 7 9 4 4 3 7 4 2 3 3 2 5 5 3 6 2 1 3 2 4 4 3 3 6 7 
+(*) Maximum bank joltage = 997632443367
+
+(*) Battery bank number 33 | Number of batteries in bank = 100
+(*) Batteries = 3 3 3 2 3 1 2 2 3 3 1 2 3 4 2 2 3 2 4 3 2 2 3 3 4 2 4 4 2 2 2 4 2 3 2 3 3 3 3 2 5 2 2 3 1 2 3 3 5 3 1 2 2 3 3 2 2 4 3 2 3 1 1 2 2 2 2 3 4 3 4 3 4 4 1 3 2 3 2 3 3 3 3 2 2 2 8 3 4 3 3 2 3 2 2 4 4 2 3 3 
+(*) Maximum bank joltage = 843332244233
+
+(*) Battery bank number 34 | Number of batteries in bank = 100
+(*) Batteries = 5 6 4 4 4 3 6 6 3 6 4 6 4 4 6 3 5 3 4 1 1 7 2 4 3 8 4 8 6 4 6 2 2 3 3 5 8 5 2 2 2 6 3 6 3 2 5 6 5 2 4 2 4 5 2 8 6 2 4 5 3 8 4 5 4 2 3 6 2 5 4 6 2 7 2 5 4 6 6 2 5 2 6 4 3 6 3 4 5 2 4 2 3 4 4 2 1 2 4 4 
+(*) Maximum bank joltage = 888887666654
+
+(*) Battery bank number 35 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 2 3 2 3 2 2 2 1 2 2 2 2 4 2 1 8 2 1 8 2 2 4 2 2 2 1 2 2 2 2 2 1 2 2 2 3 4 5 2 2 4 2 2 2 2 3 2 2 4 1 4 2 1 2 2 2 1 2 3 2 2 6 2 4 5 2 2 5 2 2 3 2 2 6 4 1 8 3 5 3 2 2 2 1 4 2 2 1 2 1 2 2 3 2 2 2 4 
+(*) Maximum bank joltage = 888542232224
+
+(*) Battery bank number 36 | Number of batteries in bank = 100
+(*) Batteries = 2 4 3 3 4 3 3 4 4 2 5 4 3 5 6 2 1 2 3 4 4 4 3 7 9 3 4 4 4 4 4 3 7 2 5 3 3 5 3 3 4 7 2 5 4 4 3 4 2 7 2 4 4 4 2 3 3 5 6 2 4 5 3 3 7 4 3 4 2 2 4 5 6 3 3 2 2 1 2 5 4 4 3 4 5 3 2 3 3 5 3 4 4 3 7 3 5 2 7 5 
+(*) Maximum bank joltage = 977776735275
+
+(*) Battery bank number 37 | Number of batteries in bank = 100
+(*) Batteries = 7 1 2 2 4 2 3 3 3 2 1 1 5 2 1 3 2 2 2 2 7 1 8 1 2 2 1 2 3 1 3 2 4 2 2 3 2 7 2 2 3 2 2 2 1 2 1 5 2 1 1 5 2 2 2 2 5 3 6 2 4 2 2 2 1 2 2 3 2 2 2 2 3 3 2 2 3 1 3 2 2 3 2 2 8 2 2 1 2 2 2 1 1 2 3 2 2 2 2 2 
+(*) Maximum bank joltage = 882222322222
+
+(*) Battery bank number 38 | Number of batteries in bank = 100
+(*) Batteries = 2 2 7 2 2 2 3 3 2 2 2 3 4 2 2 1 2 1 2 2 2 1 2 2 2 3 2 1 4 5 2 2 2 3 5 4 2 2 2 1 2 8 1 1 3 1 2 2 2 2 1 1 2 3 3 3 2 2 2 1 7 3 2 1 2 2 2 2 7 2 2 2 2 2 2 2 7 1 1 2 2 2 2 6 2 1 3 2 5 4 4 2 2 1 4 2 3 4 2 4 
+(*) Maximum bank joltage = 877765444424
+
+(*) Battery bank number 39 | Number of batteries in bank = 100
+(*) Batteries = 1 2 2 2 1 4 1 3 1 2 2 2 2 2 2 2 2 1 2 2 2 1 2 3 1 3 1 1 3 2 5 2 2 2 1 3 2 2 2 2 2 2 2 2 2 2 1 2 3 2 2 2 2 3 2 2 2 2 2 2 2 3 2 2 1 2 2 2 2 3 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 1 3 3 1 2 2 2 2 3 2 4 2 2 
+(*) Maximum bank joltage = 533333333422
+
+(*) Battery bank number 40 | Number of batteries in bank = 100
+(*) Batteries = 2 2 1 2 1 5 4 3 2 9 2 9 1 2 3 2 1 9 2 3 2 2 2 3 7 2 6 5 2 3 2 2 2 1 4 5 4 2 4 4 3 2 3 2 2 2 2 2 2 2 5 2 2 2 2 1 6 3 2 3 2 4 2 2 5 1 2 6 5 5 2 1 7 3 2 2 2 1 2 2 2 6 2 3 2 3 1 2 2 2 6 3 2 2 2 5 2 2 1 2 
+(*) Maximum bank joltage = 999776652212
+
+(*) Battery bank number 41 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 2 3 2 1 6 4 3 1 2 1 2 2 2 3 2 2 2 2 2 4 2 6 2 3 3 2 2 2 2 2 2 3 2 2 2 4 3 1 2 2 2 2 2 1 2 2 2 6 2 2 4 4 2 2 2 3 4 4 1 2 4 2 1 3 2 2 3 1 2 6 1 1 2 3 3 1 1 1 2 2 2 2 4 2 2 3 2 3 6 2 1 2 1 2 5 2 1 
+(*) Maximum bank joltage = 666662212521
+
+(*) Battery bank number 42 | Number of batteries in bank = 100
+(*) Batteries = 2 5 3 6 5 1 4 4 1 3 5 6 6 8 4 3 4 4 4 7 4 4 7 2 5 4 7 6 5 5 8 3 2 4 4 9 4 4 1 5 4 3 4 4 5 6 5 3 2 2 4 7 4 5 5 9 3 2 3 4 5 5 3 7 4 5 5 2 4 3 2 2 2 3 3 4 5 6 3 6 3 7 3 6 6 8 7 3 6 3 4 3 3 3 3 5 3 3 4 7 
+(*) Maximum bank joltage = 998764353347
+
+(*) Battery bank number 43 | Number of batteries in bank = 100
+(*) Batteries = 5 6 4 5 9 8 8 3 3 7 3 3 3 7 4 2 3 9 3 2 5 6 2 2 6 6 6 6 4 5 4 2 4 3 2 7 4 6 5 6 2 6 7 1 5 8 4 4 8 3 2 7 4 3 4 5 9 3 4 5 2 2 8 4 7 7 8 6 7 6 4 4 5 6 8 5 4 4 6 2 5 5 1 5 7 6 3 5 7 4 4 7 6 1 4 2 5 8 2 4 
+(*) Maximum bank joltage = 999888777824
+
+(*) Battery bank number 44 | Number of batteries in bank = 100
+(*) Batteries = 4 4 4 6 9 6 7 3 6 7 6 5 3 4 4 4 8 4 1 4 5 7 4 9 7 4 5 1 4 4 3 4 6 8 4 9 1 5 4 4 7 6 5 4 7 4 4 4 4 2 5 8 8 4 4 4 4 2 7 7 4 6 5 4 3 5 7 4 6 5 7 8 6 4 4 7 4 7 5 4 4 8 6 5 6 6 5 5 4 4 3 4 4 4 9 6 5 5 6 6 
+(*) Maximum bank joltage = 999888965566
+
+(*) Battery bank number 45 | Number of batteries in bank = 100
+(*) Batteries = 6 3 5 4 3 3 4 7 5 2 7 8 5 7 4 2 4 3 2 6 4 2 7 3 3 4 5 3 3 4 7 7 2 3 3 4 6 2 3 5 3 3 4 1 4 3 3 2 3 4 8 4 3 3 9 3 3 3 2 2 3 6 4 3 2 3 3 9 4 3 7 4 5 3 6 2 5 3 4 2 3 3 1 8 3 2 8 3 6 3 9 6 5 3 2 2 2 3 2 3 
+(*) Maximum bank joltage = 999653222323
+
+(*) Battery bank number 46 | Number of batteries in bank = 100
+(*) Batteries = 2 2 1 3 2 7 3 5 8 2 4 2 3 2 1 1 4 3 2 8 2 4 5 2 3 2 6 3 2 2 2 3 7 2 2 3 2 4 2 2 3 5 2 3 1 3 2 4 5 2 4 5 3 2 2 2 6 3 1 2 3 1 4 2 2 2 3 4 2 2 1 4 9 4 4 2 3 4 2 3 5 1 1 2 9 2 2 3 2 3 4 5 3 2 2 3 5 2 3 2 
+(*) Maximum bank joltage = 994532235232
+
+(*) Battery bank number 47 | Number of batteries in bank = 100
+(*) Batteries = 4 3 3 1 2 3 4 3 4 3 5 2 4 4 4 4 3 4 4 4 2 2 4 3 4 4 3 4 3 2 2 4 3 2 2 4 4 2 2 3 2 4 5 2 4 5 2 4 6 4 4 3 3 4 2 4 4 2 4 2 1 3 3 4 3 3 3 4 3 4 4 4 4 2 4 4 4 2 3 4 4 4 3 4 3 4 1 3 7 3 4 2 4 4 2 4 4 2 4 4 
+(*) Maximum bank joltage = 734244244244
+
+(*) Battery bank number 48 | Number of batteries in bank = 100
+(*) Batteries = 2 5 7 3 5 6 2 3 2 4 3 3 3 3 5 2 3 3 4 7 3 3 4 5 5 4 4 7 6 5 6 7 3 4 5 4 6 6 3 4 4 4 3 3 6 5 4 2 3 5 3 4 3 1 2 3 5 4 5 5 3 3 3 6 1 6 5 3 5 5 2 2 3 6 4 3 3 3 6 4 3 4 6 4 3 2 3 6 3 3 3 4 3 4 4 2 8 4 4 7 
+(*) Maximum bank joltage = 777766668447
+
+(*) Battery bank number 49 | Number of batteries in bank = 100
+(*) Batteries = 2 3 1 3 3 3 2 2 2 2 2 3 3 3 1 2 2 2 4 2 1 2 2 3 3 2 3 3 3 4 2 3 3 2 2 3 1 2 5 2 3 2 3 2 4 6 2 2 3 2 2 3 3 2 3 2 3 2 3 3 3 2 3 3 2 1 2 2 2 1 3 3 2 3 2 4 2 3 3 3 6 2 2 3 4 2 3 2 4 2 3 3 2 2 2 2 1 2 1 3 
+(*) Maximum bank joltage = 664433222223
+
+(*) Battery bank number 50 | Number of batteries in bank = 100
+(*) Batteries = 2 6 2 5 5 6 2 5 2 6 3 4 5 4 3 5 2 4 3 5 3 3 2 4 4 6 5 3 5 3 4 6 5 5 3 3 5 3 7 2 3 6 6 2 4 5 5 7 5 3 4 3 6 2 2 4 7 2 7 5 2 5 5 2 6 5 4 3 3 4 2 3 1 2 4 6 5 3 2 4 9 7 3 5 4 4 5 3 6 1 6 5 4 5 7 3 3 5 2 4 
+(*) Maximum bank joltage = 976655733524
+
+(*) Battery bank number 51 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 2 2 1 2 3 2 2 2 2 3 2 3 2 2 4 2 3 4 1 2 4 2 2 2 1 4 2 1 3 2 2 4 2 5 1 2 2 2 2 3 2 2 2 2 1 1 2 2 1 2 2 2 4 1 3 2 2 4 2 2 4 5 2 2 1 2 2 2 2 2 3 2 2 2 1 3 2 2 1 1 2 2 1 3 3 2 2 2 2 2 3 6 2 3 2 4 3 
+(*) Maximum bank joltage = 553333623243
+
+(*) Battery bank number 52 | Number of batteries in bank = 100
+(*) Batteries = 4 1 3 3 4 1 3 4 1 4 3 3 4 4 3 3 3 2 3 4 3 4 3 4 4 5 6 3 3 3 8 6 2 5 3 4 3 3 3 3 3 3 3 4 4 4 3 5 2 3 1 3 5 3 4 4 2 3 3 4 4 3 2 4 4 2 4 4 4 4 4 3 5 3 3 3 4 4 2 4 5 1 6 3 4 3 4 4 6 3 4 1 4 4 1 3 3 3 5 3 
+(*) Maximum bank joltage = 866644433353
+
+(*) Battery bank number 53 | Number of batteries in bank = 100
+(*) Batteries = 3 7 4 7 4 9 5 4 6 9 7 8 4 5 5 5 8 6 7 2 5 4 4 4 7 9 5 6 4 9 5 2 4 6 8 5 6 6 8 3 3 5 3 9 4 7 5 4 6 2 3 8 7 9 7 4 7 3 3 7 9 3 9 4 4 8 5 7 4 8 4 3 9 2 6 4 5 6 5 5 3 8 4 8 5 9 7 3 6 5 6 7 7 8 7 7 5 8 5 4 
+(*) Maximum bank joltage = 999999999988
+
+(*) Battery bank number 54 | Number of batteries in bank = 100
+(*) Batteries = 1 4 3 3 4 3 1 4 4 4 2 2 2 4 3 2 2 2 4 2 6 4 4 2 6 2 4 2 1 5 4 1 4 4 1 6 4 4 3 2 2 5 2 4 2 1 3 3 4 5 2 1 6 2 2 5 9 2 2 4 1 3 4 2 3 4 5 3 4 4 2 4 5 8 4 7 1 2 3 4 2 4 2 7 8 4 1 2 5 2 2 3 6 4 4 2 2 3 3 4 
+(*) Maximum bank joltage = 988564422334
+
+(*) Battery bank number 55 | Number of batteries in bank = 100
+(*) Batteries = 4 6 6 2 4 4 4 5 8 6 3 5 8 8 7 6 6 4 9 2 7 4 2 6 2 1 8 6 2 5 5 9 6 6 8 7 2 4 5 4 7 4 5 3 3 9 3 6 8 8 7 8 3 7 2 6 8 2 3 4 3 7 3 6 5 2 7 4 8 6 3 8 7 6 8 6 5 8 7 7 2 2 6 7 6 6 6 7 9 3 7 4 7 9 8 7 8 3 7 6 
+(*) Maximum bank joltage = 999979878376
+
+(*) Battery bank number 56 | Number of batteries in bank = 100
+(*) Batteries = 2 3 9 3 4 3 5 3 3 5 3 5 8 4 2 5 6 9 4 3 3 3 8 3 3 9 6 3 3 3 6 3 3 3 3 4 3 3 1 3 3 6 9 2 4 9 3 4 7 3 3 3 3 8 8 8 8 6 4 3 4 5 1 3 3 5 3 5 9 3 3 8 3 4 9 3 3 4 2 3 2 4 6 8 6 5 5 6 8 4 3 9 3 8 3 2 1 4 8 4 
+(*) Maximum bank joltage = 999999998484
+
+(*) Battery bank number 57 | Number of batteries in bank = 100
+(*) Batteries = 8 1 7 3 4 4 5 3 4 4 2 4 3 4 3 5 8 3 3 2 4 3 4 5 4 3 5 8 4 4 4 8 3 4 3 2 1 3 3 6 7 3 1 4 3 6 5 3 3 6 7 1 1 3 4 6 6 4 3 4 4 2 4 2 2 4 3 3 3 3 3 4 5 5 4 3 6 5 4 3 5 4 1 1 1 4 4 4 3 4 3 4 4 3 4 4 3 5 3 3 
+(*) Maximum bank joltage = 888877666555
+
+(*) Battery bank number 58 | Number of batteries in bank = 100
+(*) Batteries = 2 2 3 6 1 2 8 5 7 2 1 5 2 2 1 2 1 2 1 3 2 3 2 2 2 1 1 3 2 2 3 3 1 2 2 3 2 2 3 3 3 2 1 2 2 2 2 4 2 1 2 2 2 1 2 2 3 2 2 4 2 2 5 2 4 1 2 2 1 2 2 3 2 2 3 2 6 3 2 2 2 8 5 2 2 6 2 3 2 2 2 4 2 2 7 2 3 2 3 4 
+(*) Maximum bank joltage = 886422723234
+
+(*) Battery bank number 59 | Number of batteries in bank = 100
+(*) Batteries = 3 6 1 4 5 4 6 2 4 9 3 8 7 1 3 3 2 4 4 2 7 5 8 3 6 4 5 3 7 7 3 3 1 4 3 2 5 2 2 4 2 1 1 3 3 4 5 2 2 3 2 3 2 4 5 4 4 3 1 3 6 2 4 3 7 6 4 4 3 4 4 2 4 3 2 6 1 6 2 4 5 5 9 4 3 4 8 8 5 3 4 6 5 3 3 3 7 3 4 3 
+(*) Maximum bank joltage = 998865337343
+
+(*) Battery bank number 60 | Number of batteries in bank = 100
+(*) Batteries = 4 5 5 3 2 4 4 1 4 4 3 5 3 4 2 5 5 3 4 3 2 3 5 3 5 3 3 3 6 2 2 2 4 5 5 1 2 3 5 8 5 3 2 4 5 6 5 2 5 3 5 3 5 2 2 5 3 3 6 6 4 2 4 2 3 3 2 4 1 5 3 5 6 4 4 3 4 4 3 3 4 3 2 5 2 2 3 2 3 3 3 2 5 7 3 5 5 3 3 1 
+(*) Maximum bank joltage = 866667355331
+
+(*) Battery bank number 61 | Number of batteries in bank = 100
+(*) Batteries = 3 3 4 4 3 2 6 5 2 3 2 7 2 5 8 2 7 5 3 2 6 1 2 1 2 2 2 6 4 3 2 4 2 1 3 3 2 3 3 1 7 2 2 2 2 4 2 3 6 3 5 1 2 5 3 4 4 1 3 2 2 4 7 3 2 2 5 3 3 1 3 2 2 2 5 2 6 2 4 2 7 6 4 2 4 4 3 6 1 4 3 2 3 2 6 3 2 7 2 1 
+(*) Maximum bank joltage = 877776663721
+
+(*) Battery bank number 62 | Number of batteries in bank = 100
+(*) Batteries = 6 6 9 6 9 5 6 4 5 2 9 4 6 6 4 5 5 2 2 7 6 6 6 5 2 5 5 5 6 4 5 3 6 5 5 5 6 4 6 6 5 5 6 6 3 4 6 5 5 7 5 6 9 3 5 2 3 4 5 5 3 4 4 4 5 3 6 6 6 6 2 3 6 6 7 5 4 2 7 5 4 2 5 6 7 6 6 6 5 6 6 5 6 6 6 5 6 6 6 6 
+(*) Maximum bank joltage = 999977766666
+
+(*) Battery bank number 63 | Number of batteries in bank = 100
+(*) Batteries = 3 2 2 2 2 4 3 2 1 8 6 2 6 2 2 3 3 7 8 3 2 3 3 2 2 5 5 2 2 4 3 6 4 2 3 2 3 3 3 1 7 4 3 3 3 3 4 2 2 5 3 2 3 1 3 2 2 5 2 2 5 3 1 4 3 1 2 2 3 3 3 1 2 3 2 2 2 2 3 1 7 2 3 4 2 3 2 4 3 2 2 2 3 3 2 6 6 2 4 2 
+(*) Maximum bank joltage = 887744366242
+
+(*) Battery bank number 64 | Number of batteries in bank = 100
+(*) Batteries = 1 2 2 1 3 2 3 4 2 4 2 2 3 3 3 2 5 2 5 2 2 1 3 2 2 2 3 2 3 2 2 3 1 1 2 3 1 2 4 2 1 2 1 2 3 2 5 3 3 3 3 2 3 3 1 2 6 3 2 2 2 2 2 4 3 2 3 1 2 3 3 5 2 2 3 2 1 2 2 3 4 3 3 2 2 2 3 2 2 2 1 2 1 2 2 1 2 2 5 3 
+(*) Maximum bank joltage = 654333222253
+
+(*) Battery bank number 65 | Number of batteries in bank = 100
+(*) Batteries = 4 3 6 3 2 2 3 3 6 2 2 1 3 5 3 3 3 8 3 3 3 4 5 3 2 3 7 3 1 6 3 4 9 2 7 4 4 3 2 3 4 3 1 3 4 6 4 3 2 5 3 3 3 3 3 4 3 3 3 2 8 2 3 3 1 1 3 3 3 3 5 3 3 5 3 3 4 7 2 3 7 7 6 3 4 3 2 2 3 6 3 5 2 3 2 3 7 3 8 8 
+(*) Maximum bank joltage = 987776657388
+
+(*) Battery bank number 66 | Number of batteries in bank = 100
+(*) Batteries = 5 6 4 4 2 3 4 3 3 4 4 4 4 5 3 3 2 2 3 5 5 2 2 3 6 3 2 4 4 4 4 4 4 3 3 2 4 3 5 4 4 4 3 2 4 2 4 4 3 4 2 4 3 4 5 2 4 2 3 3 3 3 2 4 4 3 4 4 4 3 3 3 2 4 4 1 2 4 4 3 4 4 4 2 4 2 2 1 2 4 4 5 4 4 3 3 5 3 4 3 
+(*) Maximum bank joltage = 665554435343
+
+(*) Battery bank number 67 | Number of batteries in bank = 100
+(*) Batteries = 3 2 2 3 7 2 2 2 2 8 1 2 2 4 4 3 2 3 9 8 5 6 4 9 9 2 4 2 2 1 3 2 6 6 4 2 3 2 5 3 2 2 3 2 7 5 1 1 6 3 2 2 2 9 4 2 5 7 1 6 1 7 5 2 7 7 5 7 1 2 9 9 2 3 2 2 6 4 2 6 9 3 2 4 7 2 8 1 2 2 5 2 3 4 2 6 2 1 8 8 
+(*) Maximum bank joltage = 999999986288
+
+(*) Battery bank number 68 | Number of batteries in bank = 100
+(*) Batteries = 5 3 6 3 8 6 1 2 5 3 3 7 1 7 6 3 5 3 7 5 5 6 2 6 3 1 3 4 3 7 4 7 5 4 4 3 4 6 5 4 2 3 6 5 5 4 4 3 6 5 9 3 3 5 4 7 3 5 4 2 5 3 4 6 3 4 4 5 4 4 4 3 4 4 4 1 3 2 5 5 4 3 5 3 5 4 4 2 7 7 2 5 7 3 1 2 3 1 1 3 
+(*) Maximum bank joltage = 977773123113
+
+(*) Battery bank number 69 | Number of batteries in bank = 100
+(*) Batteries = 2 2 3 1 1 1 2 2 2 2 2 2 2 2 2 2 4 3 2 3 2 2 2 3 2 2 2 2 2 2 1 2 2 2 2 3 1 2 2 2 3 3 2 2 2 2 2 1 2 2 2 2 2 4 1 2 3 2 2 2 1 2 2 4 2 3 2 2 3 3 2 3 2 2 2 2 2 2 2 2 2 1 2 1 2 1 2 1 2 2 2 2 2 2 2 3 2 1 2 2 
+(*) Maximum bank joltage = 444333332122
+
+(*) Battery bank number 70 | Number of batteries in bank = 100
+(*) Batteries = 2 6 7 3 4 2 5 5 4 5 6 9 3 5 5 3 5 5 3 5 6 3 4 6 5 5 4 5 5 6 6 3 4 9 4 4 2 3 4 2 3 3 2 2 5 2 1 5 4 6 2 4 2 3 6 5 4 6 4 3 5 3 3 6 5 5 5 6 6 6 3 6 5 4 7 6 2 5 5 4 4 6 2 3 3 3 6 2 2 6 3 6 6 2 3 6 5 6 4 6 
+(*) Maximum bank joltage = 997666666666
+
+(*) Battery bank number 71 | Number of batteries in bank = 100
+(*) Batteries = 2 3 2 3 4 5 2 2 5 3 6 2 1 2 3 2 2 2 2 2 3 2 1 2 2 3 2 4 3 2 1 2 2 2 4 2 3 1 2 2 2 4 5 3 2 2 4 2 2 2 6 4 2 4 4 4 4 2 2 7 2 2 6 2 1 5 2 2 3 1 2 3 2 2 2 3 6 4 3 2 3 6 2 3 1 2 4 3 5 1 4 6 2 2 2 5 1 4 2 3 
+(*) Maximum bank joltage = 766662251423
+
+(*) Battery bank number 72 | Number of batteries in bank = 100
+(*) Batteries = 3 3 6 8 5 4 8 4 4 7 2 4 6 8 4 3 5 6 7 2 2 4 6 8 7 1 5 6 7 8 4 4 4 4 3 3 5 3 4 7 2 6 8 5 3 9 4 5 4 2 3 3 3 7 8 5 8 5 3 5 5 2 9 6 4 8 8 2 7 4 4 6 9 5 7 6 3 8 2 3 2 5 9 5 2 4 2 2 8 8 6 5 8 2 7 6 4 9 4 5 
+(*) Maximum bank joltage = 999988876945
+
+(*) Battery bank number 73 | Number of batteries in bank = 100
+(*) Batteries = 6 3 3 6 5 5 7 1 3 6 9 4 4 3 7 3 2 2 6 3 4 1 4 3 8 3 3 3 3 3 5 3 3 7 3 3 3 5 3 4 3 3 3 3 3 5 5 5 8 3 3 5 6 6 4 2 3 3 2 2 3 3 3 8 3 2 4 3 3 2 2 3 3 3 7 7 3 3 4 3 3 3 3 3 3 3 3 3 3 3 2 3 3 2 8 3 1 5 3 3 
+(*) Maximum bank joltage = 988877831533
+
+(*) Battery bank number 74 | Number of batteries in bank = 100
+(*) Batteries = 4 6 4 7 4 4 3 6 2 7 4 4 2 7 3 4 4 4 4 7 5 4 4 2 4 4 3 3 3 3 7 7 3 4 4 5 4 5 1 1 4 5 4 4 3 5 3 7 5 2 4 5 4 4 4 5 4 5 3 4 4 8 5 3 4 4 4 4 3 5 4 4 5 3 2 5 5 3 3 5 5 3 4 4 4 6 2 5 3 4 4 3 3 3 4 3 4 4 3 3 
+(*) Maximum bank joltage = 865443434433
+
+(*) Battery bank number 75 | Number of batteries in bank = 100
+(*) Batteries = 6 7 8 3 2 3 4 2 4 3 6 5 3 3 4 5 5 4 4 4 3 2 7 5 5 2 3 3 9 4 1 3 9 2 1 6 3 3 3 4 3 3 7 2 2 2 2 3 4 3 7 6 6 3 8 4 5 4 3 2 6 1 6 3 5 5 2 3 6 4 2 6 2 3 5 5 3 2 6 1 8 5 2 3 2 1 4 6 3 6 1 3 5 2 3 5 5 6 4 1 
+(*) Maximum bank joltage = 998866555641
+
+(*) Battery bank number 76 | Number of batteries in bank = 100
+(*) Batteries = 4 4 2 3 9 5 8 4 4 6 8 8 2 2 7 3 3 4 3 4 2 5 2 4 5 6 8 5 3 4 5 7 4 3 5 2 7 3 5 2 9 3 1 4 3 3 2 6 6 5 4 4 4 4 8 4 4 7 3 3 2 2 5 3 3 8 3 2 4 1 2 4 3 2 6 3 4 3 4 3 4 4 3 9 2 2 6 4 2 4 2 9 4 2 3 3 4 2 6 3 
+(*) Maximum bank joltage = 999942334263
+
+(*) Battery bank number 77 | Number of batteries in bank = 100
+(*) Batteries = 3 5 6 4 4 9 2 2 7 2 7 4 6 4 1 4 3 4 4 5 3 8 9 5 3 2 1 6 8 1 2 3 5 4 2 6 4 2 6 4 4 3 4 8 6 3 9 4 3 6 1 2 2 3 7 8 2 6 5 4 2 7 4 6 2 6 8 7 6 5 9 8 6 6 5 2 2 8 6 5 8 4 3 3 5 6 6 5 5 4 4 5 4 3 3 5 8 1 5 4 
+(*) Maximum bank joltage = 999988868154
+
+(*) Battery bank number 78 | Number of batteries in bank = 100
+(*) Batteries = 6 5 4 5 4 3 3 6 2 5 4 5 3 3 3 2 5 5 4 5 4 3 5 6 4 4 4 4 5 4 4 7 4 4 4 4 4 3 4 3 4 4 2 6 4 5 2 2 6 5 4 4 4 1 5 3 4 4 4 5 3 4 4 4 3 3 5 5 5 4 5 5 4 5 4 4 4 5 5 6 5 4 5 3 4 3 5 5 3 5 4 5 2 1 3 4 4 5 4 5 
+(*) Maximum bank joltage = 766655555555
+
+(*) Battery bank number 79 | Number of batteries in bank = 100
+(*) Batteries = 5 4 2 5 1 5 1 2 6 2 2 2 2 5 3 2 2 6 2 4 5 2 3 5 2 4 4 6 3 5 6 3 2 6 2 1 4 2 4 1 5 4 4 4 3 4 3 2 1 6 2 3 4 6 5 4 2 1 2 4 5 2 5 5 2 4 2 3 3 2 5 3 2 2 2 6 6 3 5 2 2 9 4 4 2 1 3 2 6 4 5 2 5 4 2 3 8 1 1 6 
+(*) Maximum bank joltage = 965254238116
+
+(*) Battery bank number 80 | Number of batteries in bank = 100
+(*) Batteries = 3 7 4 4 9 2 7 5 4 5 4 4 4 4 4 5 5 7 4 4 7 5 5 4 3 5 4 4 3 6 4 5 7 5 5 4 5 4 6 5 6 6 6 5 5 7 5 5 7 6 4 4 4 3 8 7 4 5 7 3 5 4 6 5 5 4 4 4 5 5 7 4 7 4 4 4 4 4 3 3 4 6 4 6 6 4 4 4 3 4 7 7 7 2 4 3 7 7 6 3 
+(*) Maximum bank joltage = 987777777776
+
+(*) Battery bank number 81 | Number of batteries in bank = 100
+(*) Batteries = 3 5 6 1 2 1 3 3 3 4 2 3 4 2 1 4 2 5 2 2 3 1 2 5 3 3 4 6 3 3 2 2 1 2 3 2 4 3 3 5 3 4 2 2 3 1 1 3 3 3 2 1 2 2 6 2 4 3 4 3 2 3 3 5 2 2 5 3 5 2 5 4 6 6 2 4 4 3 3 3 3 3 1 1 5 3 3 5 3 4 3 2 5 2 9 4 1 4 1 5 
+(*) Maximum bank joltage = 666665941415
+
+(*) Battery bank number 82 | Number of batteries in bank = 100
+(*) Batteries = 2 5 7 4 2 3 3 1 2 4 5 6 5 8 2 3 2 5 5 3 3 3 3 5 2 2 4 3 3 2 4 4 1 4 6 3 3 3 3 5 5 4 4 2 3 4 5 4 2 4 2 2 5 3 3 3 2 6 3 2 3 5 5 3 1 7 2 6 5 3 3 4 3 3 6 3 4 3 4 3 2 3 5 3 2 3 7 6 2 4 5 5 2 3 4 2 3 4 5 4 
+(*) Maximum bank joltage = 877655423454
+
+(*) Battery bank number 83 | Number of batteries in bank = 100
+(*) Batteries = 6 4 5 5 5 1 4 4 1 4 3 3 3 3 4 7 5 5 2 5 3 3 2 3 6 5 5 7 3 7 4 5 5 4 3 6 3 9 3 5 5 5 6 1 5 4 2 2 3 6 4 3 3 3 3 5 8 3 3 4 3 1 3 3 3 4 4 2 3 4 5 7 2 9 3 4 3 5 3 3 4 4 3 3 3 4 3 6 3 3 5 8 4 5 1 6 3 3 4 6 
+(*) Maximum bank joltage = 996845163346
+
+(*) Battery bank number 84 | Number of batteries in bank = 100
+(*) Batteries = 4 5 4 1 4 2 2 3 2 2 4 3 1 5 1 2 2 2 2 6 2 2 2 4 4 7 3 3 1 2 2 2 2 2 2 2 4 1 2 1 4 2 3 2 1 3 2 1 2 2 2 1 3 2 4 3 5 1 2 2 1 2 1 2 2 1 1 4 2 1 2 2 3 1 2 2 3 2 2 4 7 2 2 2 2 2 3 5 2 1 2 2 2 2 2 2 3 2 3 3 
+(*) Maximum bank joltage = 775222223233
+
+(*) Battery bank number 85 | Number of batteries in bank = 100
+(*) Batteries = 4 5 2 2 5 2 5 6 3 1 5 5 5 5 5 3 6 2 5 4 2 3 5 3 6 6 3 5 2 2 2 5 4 5 2 4 4 4 4 3 6 6 5 2 2 3 4 5 2 6 1 4 3 3 5 4 5 5 3 5 5 7 2 3 5 4 1 6 4 2 3 5 2 5 4 6 5 3 5 4 4 2 6 3 4 2 5 1 4 5 3 7 1 3 2 6 5 3 5 4 
+(*) Maximum bank joltage = 766713265354
+
+(*) Battery bank number 86 | Number of batteries in bank = 100
+(*) Batteries = 5 5 5 5 2 3 3 2 4 2 5 5 5 3 3 3 5 7 2 6 2 5 2 3 5 2 3 3 3 5 5 5 2 4 2 5 5 5 3 3 1 2 5 7 6 4 5 2 5 1 4 3 4 5 6 4 1 2 3 1 3 5 2 3 4 5 2 5 2 5 2 3 3 2 5 1 5 3 5 6 2 4 5 2 3 1 6 1 3 4 2 2 4 2 6 3 3 3 6 1 
+(*) Maximum bank joltage = 776666633361
+
+(*) Battery bank number 87 | Number of batteries in bank = 100
+(*) Batteries = 2 2 3 2 2 2 4 2 2 2 6 5 2 1 3 2 4 1 2 4 1 4 2 2 3 2 2 5 2 2 4 1 1 6 2 1 1 1 6 2 5 6 5 2 1 2 2 4 1 2 4 5 1 4 2 2 2 2 5 2 2 1 2 2 2 2 2 2 2 2 1 1 2 1 2 1 2 4 1 3 2 2 2 2 2 5 1 2 2 2 5 2 3 2 2 2 2 3 3 4 
+(*) Maximum bank joltage = 666655555334
+
+(*) Battery bank number 88 | Number of batteries in bank = 100
+(*) Batteries = 5 2 3 3 4 3 2 3 7 3 2 3 3 3 6 4 3 3 1 3 5 3 3 3 1 3 3 3 3 4 3 2 6 1 4 5 3 5 3 2 3 4 4 1 4 3 3 3 3 4 3 5 3 3 7 5 2 4 6 4 3 3 2 5 3 2 2 2 5 2 7 4 5 2 6 4 2 4 6 3 3 4 2 5 8 3 3 3 4 2 3 5 5 3 3 5 3 4 3 3 
+(*) Maximum bank joltage = 843553353433
+
+(*) Battery bank number 89 | Number of batteries in bank = 100
+(*) Batteries = 1 9 4 3 2 3 6 4 5 4 3 4 4 3 2 9 3 3 4 3 2 3 3 2 5 4 2 7 3 3 4 3 3 2 2 2 5 3 3 2 3 3 2 2 4 3 3 3 4 3 3 3 3 4 3 3 5 4 2 3 3 9 3 3 3 4 3 5 3 3 3 5 3 3 3 2 5 2 4 5 3 3 4 3 8 3 7 4 4 1 3 2 2 2 6 4 2 3 7 2 
+(*) Maximum bank joltage = 999874642372
+
+(*) Battery bank number 90 | Number of batteries in bank = 100
+(*) Batteries = 4 1 3 3 4 3 2 2 4 2 2 3 4 3 2 5 5 3 2 5 6 3 3 3 2 2 5 2 3 4 2 4 7 3 3 1 3 2 6 3 3 5 3 5 4 2 5 4 6 2 1 2 6 3 4 2 3 2 3 3 5 3 2 1 3 2 2 3 5 4 7 5 2 4 3 2 2 2 3 1 3 3 3 5 3 4 4 1 5 3 2 3 3 3 3 2 3 1 3 2 
+(*) Maximum bank joltage = 775553333333
+
+(*) Battery bank number 91 | Number of batteries in bank = 100
+(*) Batteries = 2 2 4 1 3 3 1 5 1 5 2 3 5 2 5 2 5 4 3 3 1 4 1 2 5 3 2 3 5 5 2 3 2 1 1 1 4 3 4 3 5 1 4 4 3 3 3 1 5 3 5 2 1 5 5 4 5 5 2 2 2 1 4 4 4 2 5 5 3 1 3 4 2 4 3 1 3 4 5 5 2 5 5 4 2 2 5 5 1 5 5 1 5 5 2 4 6 7 8 9 
+(*) Maximum bank joltage = 555555556789
+
+(*) Battery bank number 92 | Number of batteries in bank = 100
+(*) Batteries = 1 2 2 2 3 4 7 2 3 4 3 3 3 3 1 2 7 5 3 2 5 3 6 1 4 3 3 3 2 2 5 3 3 2 1 1 2 6 7 5 3 6 1 4 1 4 3 8 5 3 2 4 7 3 2 2 1 2 2 2 3 4 3 3 3 2 2 2 7 2 2 4 3 3 3 2 2 2 8 2 2 3 3 3 3 1 1 2 4 1 2 2 6 3 7 5 4 3 5 3 
+(*) Maximum bank joltage = 884263754353
+
+(*) Battery bank number 93 | Number of batteries in bank = 100
+(*) Batteries = 2 2 3 1 1 2 2 2 2 1 1 3 5 2 1 5 2 3 1 1 2 1 4 2 2 3 2 3 4 2 3 2 2 2 5 2 2 2 3 2 2 3 2 2 2 2 1 6 2 2 2 4 1 1 2 2 2 3 3 2 2 1 3 5 2 2 4 2 4 2 5 1 1 1 2 2 2 2 2 2 4 2 2 4 2 2 2 5 5 2 5 2 2 2 1 2 2 2 2 2 
+(*) Maximum bank joltage = 655555222222
+
+(*) Battery bank number 94 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 1 2 2 2 1 2 2 2 3 2 2 2 1 3 2 3 3 2 2 2 2 1 2 2 2 1 2 2 3 2 2 2 4 2 1 2 1 2 3 2 2 2 3 2 1 2 3 1 2 2 2 4 2 5 1 2 2 2 1 2 1 2 2 2 3 2 2 3 2 1 2 2 3 2 1 1 1 3 2 2 1 2 2 2 2 1 2 2 3 2 3 2 2 2 2 2 2 
+(*) Maximum bank joltage = 533333322222
+
+(*) Battery bank number 95 | Number of batteries in bank = 100
+(*) Batteries = 4 3 2 2 4 2 1 4 2 4 2 2 3 4 2 6 2 5 6 2 4 4 2 3 2 4 5 4 2 1 4 3 3 5 4 2 5 1 5 4 5 4 2 4 4 3 5 3 2 3 4 9 3 4 3 2 2 5 4 1 6 4 4 3 2 4 2 4 5 4 3 3 2 3 2 4 6 2 5 3 3 4 3 4 2 2 3 3 2 4 3 4 3 5 4 3 5 4 2 1 
+(*) Maximum bank joltage = 966545435421
+
+(*) Battery bank number 96 | Number of batteries in bank = 100
+(*) Batteries = 7 6 3 3 2 6 1 6 3 5 5 2 2 7 2 3 3 4 5 4 2 3 2 4 5 2 3 4 2 2 9 2 2 2 3 3 2 2 2 4 6 2 6 3 2 1 3 4 2 2 3 3 2 3 3 4 3 3 3 3 1 5 3 3 2 3 3 3 2 3 3 3 3 3 2 2 5 2 4 2 3 2 3 3 8 6 3 3 3 3 2 2 4 3 2 3 3 3 5 3 
+(*) Maximum bank joltage = 986343233353
+
+(*) Battery bank number 97 | Number of batteries in bank = 100
+(*) Batteries = 2 1 3 2 2 3 1 2 2 2 2 2 2 5 2 4 6 1 3 2 4 2 2 2 2 1 7 2 2 2 2 2 1 2 2 1 2 3 2 2 2 2 1 7 2 1 3 4 2 4 2 2 2 2 2 1 1 2 2 2 1 3 2 1 2 2 2 2 4 2 2 2 1 1 2 2 1 2 2 2 2 2 2 2 1 2 3 1 2 2 2 2 2 2 2 2 2 2 2 4 
+(*) Maximum bank joltage = 774443222224
+
+(*) Battery bank number 98 | Number of batteries in bank = 100
+(*) Batteries = 1 4 2 4 2 3 2 2 2 3 2 3 3 4 5 5 2 2 2 4 2 2 2 2 2 2 2 4 4 2 2 5 4 2 2 4 3 2 3 2 5 1 3 2 5 3 3 2 2 6 4 2 4 2 2 2 3 2 3 2 2 4 2 2 2 2 1 5 2 2 3 1 5 2 3 2 2 2 1 1 1 2 2 1 2 7 5 2 2 2 5 3 2 3 2 1 1 2 4 4 
+(*) Maximum bank joltage = 755323211244
+
+(*) Battery bank number 99 | Number of batteries in bank = 100
+(*) Batteries = 1 2 3 3 2 2 3 3 2 2 3 2 2 2 2 8 3 3 3 3 2 2 4 7 5 2 2 3 3 2 2 2 2 1 3 1 3 2 3 2 3 2 2 3 3 4 4 2 1 2 4 5 2 3 1 5 2 2 3 1 2 3 2 1 6 2 1 2 3 1 8 3 3 1 4 2 4 3 3 1 5 5 4 2 2 2 1 3 7 5 2 2 3 3 5 3 5 3 2 2 
+(*) Maximum bank joltage = 887533535322
+
+(*) Battery bank number 100 | Number of batteries in bank = 100
+(*) Batteries = 5 4 3 9 7 2 4 6 4 5 4 5 7 2 3 4 4 5 3 2 5 6 7 7 7 6 3 4 3 6 5 2 6 4 3 5 3 5 3 4 3 5 5 7 4 3 5 7 2 2 3 2 6 2 7 5 7 6 5 3 5 5 4 2 5 3 3 8 7 2 4 3 5 5 6 2 3 7 3 4 4 6 5 4 2 3 5 5 4 2 1 4 5 5 4 5 5 5 5 2 
+(*) Maximum bank joltage = 987765555555
+
+(*) Battery bank number 101 | Number of batteries in bank = 100
+(*) Batteries = 3 3 3 3 4 2 2 3 4 2 3 5 3 4 2 3 5 4 6 4 2 5 4 4 6 2 2 6 3 8 3 3 2 2 3 4 3 4 3 2 4 4 2 3 4 2 2 3 2 4 8 1 4 2 3 2 4 3 2 2 1 1 3 4 2 2 2 7 6 2 4 4 4 2 2 4 4 3 3 1 1 2 6 1 2 1 4 2 6 3 1 2 2 4 1 2 3 2 1 5 
+(*) Maximum bank joltage = 887666423215
+
+(*) Battery bank number 102 | Number of batteries in bank = 100
+(*) Batteries = 3 3 3 5 7 2 2 3 5 2 3 6 2 2 3 9 5 3 1 5 3 3 3 3 2 3 3 3 3 5 2 3 2 5 3 4 4 2 3 3 2 3 3 3 2 2 1 2 2 3 1 3 2 2 1 2 3 5 4 3 1 3 6 5 3 3 2 2 2 3 3 2 6 3 3 3 3 5 2 1 2 5 3 2 2 4 3 2 3 3 2 6 9 3 3 1 3 3 5 5 
+(*) Maximum bank joltage = 966693313355
+
+(*) Battery bank number 103 | Number of batteries in bank = 100
+(*) Batteries = 6 2 2 3 3 2 2 2 2 3 4 3 2 4 2 3 2 5 6 2 2 2 2 2 3 2 2 2 3 2 1 3 2 1 2 2 2 2 3 2 4 3 5 1 1 2 2 6 2 2 2 1 2 2 3 2 2 3 5 3 2 2 3 6 2 5 4 4 2 2 3 1 2 1 1 3 1 4 3 2 1 2 6 3 3 2 3 2 3 2 2 2 4 5 2 2 4 2 3 2 
+(*) Maximum bank joltage = 666665224232
+
+(*) Battery bank number 104 | Number of batteries in bank = 100
+(*) Batteries = 2 3 2 3 2 2 4 2 1 2 2 4 2 1 1 5 8 3 4 3 2 3 1 3 5 3 4 2 7 1 2 2 4 4 1 2 4 2 2 3 5 1 2 2 2 2 2 2 3 4 2 2 3 2 2 2 2 5 1 2 2 4 3 4 9 2 1 4 3 4 2 2 2 3 2 2 3 2 2 3 2 2 2 2 4 4 2 5 2 1 3 1 3 4 2 6 5 2 2 2 
+(*) Maximum bank joltage = 953134265222
+
+(*) Battery bank number 105 | Number of batteries in bank = 100
+(*) Batteries = 1 1 2 1 2 1 2 2 2 2 2 2 2 3 2 2 2 2 2 2 2 2 1 2 3 1 3 5 2 1 2 3 2 2 2 2 2 3 3 2 2 2 2 3 2 2 2 1 2 2 2 2 2 6 2 2 2 2 5 3 2 2 3 1 2 2 3 2 2 2 2 2 3 2 2 4 2 2 1 2 2 2 2 1 1 2 5 3 1 2 2 5 1 1 2 2 2 2 2 1 
+(*) Maximum bank joltage = 655511222221
+
+(*) Battery bank number 106 | Number of batteries in bank = 100
+(*) Batteries = 3 7 4 6 6 9 7 7 7 6 6 5 7 3 4 9 7 6 5 2 6 5 6 4 4 6 5 7 6 5 3 5 4 5 6 5 5 5 5 4 5 6 5 2 5 6 6 1 5 4 7 3 6 2 6 5 5 5 1 3 5 3 8 7 2 4 3 6 3 8 6 6 7 1 4 4 4 4 3 5 3 5 5 6 4 4 6 5 5 3 6 6 2 3 6 9 7 6 2 7 
+(*) Maximum bank joltage = 998876697627
+
+(*) Battery bank number 107 | Number of batteries in bank = 100
+(*) Batteries = 7 7 6 6 5 1 5 5 7 7 5 8 4 7 5 6 5 5 3 8 6 7 4 8 4 7 6 4 6 7 5 5 5 4 5 6 3 6 5 5 6 5 5 5 4 2 8 4 4 8 5 3 6 5 6 6 6 6 9 5 6 8 3 4 8 4 5 6 5 4 7 5 4 5 5 2 5 8 8 4 5 7 5 5 2 5 4 5 5 5 5 5 8 7 7 2 4 6 4 5 
+(*) Maximum bank joltage = 988888774645
+
+(*) Battery bank number 108 | Number of batteries in bank = 100
+(*) Batteries = 2 2 1 3 2 2 4 2 2 3 4 3 3 2 4 3 3 2 1 5 3 1 2 1 4 3 6 3 6 1 2 3 3 4 2 1 3 3 3 3 2 3 2 2 2 3 2 4 2 3 4 3 2 3 1 2 4 2 3 2 3 6 3 2 3 3 3 3 3 2 2 2 3 4 3 5 1 5 3 1 4 3 3 5 2 2 3 3 4 2 3 6 2 2 2 1 6 3 3 3 
+(*) Maximum bank joltage = 666622216333
+
+(*) Battery bank number 109 | Number of batteries in bank = 100
+(*) Batteries = 3 1 2 6 3 3 3 3 3 2 3 3 2 1 5 2 3 3 2 1 3 3 2 3 3 2 2 3 5 1 3 5 2 3 3 2 2 2 2 2 1 1 5 3 3 2 1 2 3 2 4 3 5 3 1 3 4 3 4 2 3 5 2 2 1 3 3 2 2 3 3 1 3 1 2 3 9 3 2 3 2 3 2 2 2 1 1 2 3 2 3 4 4 3 2 3 2 2 3 2 
+(*) Maximum bank joltage = 933443232232
+
+(*) Battery bank number 110 | Number of batteries in bank = 100
+(*) Batteries = 2 1 4 2 3 2 2 7 2 2 2 1 1 2 2 2 2 2 2 2 4 3 2 1 2 2 7 2 2 7 2 2 2 5 1 2 2 2 2 2 2 2 2 2 3 2 1 2 7 1 2 1 4 2 4 2 3 2 2 2 2 3 4 2 2 6 2 1 2 1 5 1 3 8 1 2 2 3 3 2 3 3 2 2 2 2 2 1 4 3 2 1 2 1 2 3 2 3 3 1 
+(*) Maximum bank joltage = 843221232331
+
+(*) Battery bank number 111 | Number of batteries in bank = 100
+(*) Batteries = 7 6 7 3 3 4 2 2 3 1 2 3 2 6 2 3 3 2 2 1 2 2 1 1 3 3 1 2 1 4 4 6 2 4 3 3 5 2 7 3 1 1 2 3 4 3 3 8 2 8 2 3 1 2 2 2 2 3 4 2 4 6 2 4 3 3 2 2 2 2 2 8 5 3 4 3 2 4 1 8 1 2 2 1 2 2 1 6 6 7 2 4 3 6 6 3 3 2 6 4 
+(*) Maximum bank joltage = 888876633264
+
+(*) Battery bank number 112 | Number of batteries in bank = 100
+(*) Batteries = 1 4 3 2 2 1 3 5 2 2 2 4 3 3 1 3 2 1 3 4 2 2 4 2 2 1 3 3 2 5 4 2 2 3 1 2 5 4 2 3 2 3 2 1 2 3 8 1 2 3 7 5 3 2 2 3 5 2 2 5 3 2 3 2 2 1 2 2 5 5 2 3 5 2 2 3 2 2 2 3 2 1 3 1 1 2 3 2 2 3 3 2 2 2 2 3 1 2 2 3 
+(*) Maximum bank joltage = 875555553333
+
+(*) Battery bank number 113 | Number of batteries in bank = 100
+(*) Batteries = 3 2 2 3 2 3 2 3 2 5 3 3 5 5 5 4 1 3 2 2 3 5 2 3 2 4 1 3 2 2 3 2 3 3 2 1 2 2 2 1 7 3 4 3 2 2 3 3 3 2 4 2 4 4 3 3 2 3 4 3 4 2 3 2 8 3 1 1 2 3 2 3 4 2 1 2 5 4 2 1 2 4 3 3 2 2 3 1 2 3 2 2 3 2 4 4 3 2 2 2 
+(*) Maximum bank joltage = 854433443222
+
+(*) Battery bank number 114 | Number of batteries in bank = 100
+(*) Batteries = 4 3 3 8 5 5 9 7 7 3 5 7 5 5 7 4 6 4 6 6 5 4 7 7 5 5 7 5 7 6 5 2 3 7 6 6 4 4 8 4 5 7 7 6 7 4 4 5 3 5 5 7 4 8 8 5 6 4 4 7 5 6 6 3 6 6 7 5 8 6 7 5 5 6 5 4 4 6 7 6 6 2 4 2 6 7 5 7 4 5 7 7 4 5 4 4 8 5 6 5 
+(*) Maximum bank joltage = 988887778565
+
+(*) Battery bank number 115 | Number of batteries in bank = 100
+(*) Batteries = 6 4 4 3 4 9 3 8 3 3 7 3 3 8 3 8 6 6 8 5 3 3 2 4 5 3 4 5 6 3 1 5 7 5 7 7 2 1 7 4 4 7 7 7 4 3 2 7 7 8 7 5 7 4 5 7 8 3 3 4 2 5 3 2 6 4 4 6 6 4 4 4 5 1 6 4 5 3 4 4 6 4 8 4 3 5 7 9 7 4 4 3 3 6 1 4 4 4 8 6 
+(*) Maximum bank joltage = 997446144486
+
+(*) Battery bank number 116 | Number of batteries in bank = 100
+(*) Batteries = 4 3 2 6 2 4 3 2 2 2 5 5 3 4 6 2 5 4 4 4 4 5 2 4 5 4 3 3 2 5 4 2 2 4 2 5 6 4 3 2 3 1 4 4 2 2 1 4 3 5 2 3 7 2 4 4 3 3 4 5 2 5 4 2 3 4 5 4 1 2 2 2 3 6 4 2 3 4 3 2 5 2 2 4 2 4 2 4 4 7 2 4 6 2 6 4 4 4 4 2 
+(*) Maximum bank joltage = 772462644442
+
+(*) Battery bank number 117 | Number of batteries in bank = 100
+(*) Batteries = 1 1 6 1 3 2 2 2 2 2 5 3 2 2 6 4 1 2 3 7 2 3 2 2 2 2 2 1 4 2 1 2 4 1 2 2 2 2 1 2 3 1 2 1 2 4 3 2 4 2 2 4 8 2 2 2 3 3 7 2 4 2 3 2 7 2 1 4 1 2 4 2 4 2 2 2 2 2 4 2 5 1 2 7 3 3 2 1 2 3 2 2 3 4 2 6 4 1 2 6 
+(*) Maximum bank joltage = 877734264126
+
+(*) Battery bank number 118 | Number of batteries in bank = 100
+(*) Batteries = 5 5 5 3 4 7 2 2 7 3 4 4 5 5 4 2 5 5 5 4 5 5 4 8 5 7 7 5 5 6 4 3 5 5 3 5 5 4 5 5 5 5 2 5 5 5 5 5 3 6 7 5 3 5 5 7 5 7 5 5 6 4 5 5 9 6 4 5 7 4 2 5 3 2 5 4 5 3 5 5 2 3 2 4 5 5 5 6 3 5 5 5 5 5 6 6 2 7 4 5 
+(*) Maximum bank joltage = 976555662745
+
+(*) Battery bank number 119 | Number of batteries in bank = 100
+(*) Batteries = 5 7 4 6 3 2 3 4 4 4 3 4 2 3 3 2 2 4 1 3 4 4 3 3 2 4 1 3 3 1 3 4 3 4 4 3 6 4 4 3 7 4 3 3 3 4 4 3 4 4 2 3 4 5 4 3 3 3 5 4 5 7 5 4 2 3 3 2 3 4 3 3 5 4 4 6 5 4 3 4 4 5 2 3 8 3 8 3 4 4 4 2 5 2 3 4 3 3 3 3 
+(*) Maximum bank joltage = 884452343333
+
+(*) Battery bank number 120 | Number of batteries in bank = 100
+(*) Batteries = 3 3 6 4 3 5 7 4 3 2 8 2 2 6 3 3 3 4 5 4 5 4 4 3 5 8 4 2 5 4 5 3 1 3 5 3 3 7 3 3 3 3 3 3 3 8 2 4 3 5 3 4 2 3 4 3 3 3 3 4 4 2 3 3 3 2 3 3 3 5 3 3 3 3 3 3 3 3 3 3 4 3 3 3 3 3 7 2 2 2 3 7 3 5 3 2 3 3 4 3 
+(*) Maximum bank joltage = 888775323343
+
+(*) Battery bank number 121 | Number of batteries in bank = 100
+(*) Batteries = 7 3 4 3 3 3 2 4 3 2 3 2 3 4 4 9 3 3 4 3 3 6 3 3 4 4 4 2 4 3 2 3 3 2 4 4 5 3 4 4 3 2 5 3 3 2 3 2 2 3 3 3 3 7 3 3 3 4 3 3 1 4 2 3 2 3 3 3 4 3 3 4 4 3 7 4 4 3 3 3 4 3 3 3 7 3 2 1 3 2 4 5 2 7 1 1 4 2 1 4 
+(*) Maximum bank joltage = 977757114214
+
+(*) Battery bank number 122 | Number of batteries in bank = 100
+(*) Batteries = 7 6 5 6 2 6 3 3 5 5 3 6 3 3 7 6 6 5 5 3 4 2 3 4 3 5 3 1 5 5 3 3 4 4 3 5 9 3 6 1 4 4 4 6 3 4 5 3 4 4 7 5 4 3 4 3 5 6 6 2 3 6 4 3 6 5 5 3 3 2 4 3 5 3 4 5 5 5 4 5 5 2 4 4 5 3 6 4 7 3 8 8 3 4 2 6 6 6 3 3 
+(*) Maximum bank joltage = 978834266633
+
+(*) Battery bank number 123 | Number of batteries in bank = 100
+(*) Batteries = 4 4 3 2 7 4 5 4 6 2 7 4 6 1 3 6 4 2 4 6 3 3 3 5 1 5 3 2 3 5 6 3 4 5 3 5 5 9 4 4 3 5 9 4 2 8 4 9 4 9 3 5 6 3 5 8 4 5 6 6 5 5 2 7 8 8 6 4 3 3 3 3 3 3 4 4 4 3 5 4 9 3 3 8 2 6 4 2 2 2 4 3 3 4 6 8 3 4 4 2 
+(*) Maximum bank joltage = 999998683442
+
+(*) Battery bank number 124 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 2 3 4 2 1 1 2 2 2 2 3 2 2 2 3 1 1 2 1 1 2 2 1 1 1 5 3 1 4 1 2 2 3 1 2 2 2 2 2 2 2 2 2 1 2 2 2 2 1 1 2 2 1 2 2 2 1 2 2 2 2 2 2 4 2 2 2 2 2 2 2 2 1 1 1 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 3 2 1 4 
+(*) Maximum bank joltage = 544222223214
+
+(*) Battery bank number 125 | Number of batteries in bank = 100
+(*) Batteries = 2 2 4 7 2 3 2 5 7 2 2 2 3 2 5 2 3 6 6 4 2 2 2 6 2 2 4 1 4 2 2 2 1 1 1 2 2 6 6 2 7 2 1 6 4 2 1 2 2 2 3 4 1 2 4 2 1 2 2 4 1 6 2 4 2 2 2 6 3 1 3 5 1 2 3 2 4 2 2 2 2 7 5 4 2 1 6 2 4 3 5 4 2 2 1 6 3 7 2 4 
+(*) Maximum bank joltage = 777765463724
+
+(*) Battery bank number 126 | Number of batteries in bank = 100
+(*) Batteries = 8 9 3 3 3 2 9 9 7 4 8 5 5 6 8 2 5 8 8 8 9 8 3 9 3 2 8 1 3 3 7 2 9 8 4 5 8 5 6 3 8 3 4 3 3 2 4 4 4 5 3 3 6 8 9 7 9 4 4 3 9 6 6 2 2 3 5 3 9 9 3 6 9 3 3 3 2 7 3 7 3 9 5 4 6 5 9 4 2 5 3 6 9 3 3 7 5 7 9 3 
+(*) Maximum bank joltage = 999999999999
+
+(*) Battery bank number 127 | Number of batteries in bank = 100
+(*) Batteries = 3 7 5 4 6 8 5 6 5 5 6 6 3 6 7 5 2 5 3 3 6 2 3 4 3 5 5 5 3 5 5 5 1 4 2 3 3 8 5 2 4 7 3 7 3 7 6 7 6 5 6 6 5 6 1 1 3 6 4 5 7 6 4 3 3 5 1 3 5 6 6 6 2 2 7 7 5 2 4 3 3 2 7 3 2 5 7 5 2 7 5 4 5 3 3 2 7 6 4 5 
+(*) Maximum bank joltage = 887777777777
+
+(*) Battery bank number 128 | Number of batteries in bank = 100
+(*) Batteries = 2 5 2 1 4 1 2 1 1 2 5 6 3 3 3 5 4 3 5 4 6 3 5 2 4 1 4 2 3 5 4 2 2 2 1 2 2 5 5 2 2 5 5 2 5 2 2 1 5 2 3 1 4 4 3 5 4 4 2 2 4 2 2 2 3 3 3 2 9 2 4 4 5 1 1 3 2 1 3 2 4 5 2 3 5 4 4 5 2 3 3 5 1 2 4 4 2 2 3 4 
+(*) Maximum bank joltage = 955555442234
+
+(*) Battery bank number 129 | Number of batteries in bank = 100
+(*) Batteries = 3 1 3 3 3 2 4 3 1 3 3 1 3 3 3 3 3 4 2 1 3 1 3 3 3 3 8 3 3 4 4 3 3 3 6 3 3 3 3 3 5 3 3 3 3 3 2 3 2 3 3 7 3 3 5 1 3 3 3 3 3 4 1 2 2 3 7 5 3 3 5 3 3 5 3 2 3 2 2 6 3 3 3 2 2 2 2 3 5 2 5 3 3 3 3 2 3 3 3 3 
+(*) Maximum bank joltage = 877655333333
+
+(*) Battery bank number 130 | Number of batteries in bank = 100
+(*) Batteries = 4 8 5 4 5 3 5 6 5 4 4 4 4 5 2 4 4 4 4 4 3 6 4 6 4 5 4 4 4 4 4 5 7 4 7 1 4 5 4 5 5 3 3 4 5 4 3 6 4 4 5 3 5 3 4 3 5 3 5 2 5 4 2 4 3 5 5 7 3 5 3 5 4 5 7 4 3 1 4 3 4 5 5 6 5 5 5 4 3 3 5 5 3 5 5 5 5 2 5 3 
+(*) Maximum bank joltage = 877776555555
+
+(*) Battery bank number 131 | Number of batteries in bank = 100
+(*) Batteries = 3 4 3 3 3 4 3 4 4 4 3 3 4 3 3 2 4 3 2 5 3 3 3 2 1 4 2 3 5 4 3 2 5 3 3 3 3 3 3 2 3 1 4 4 3 4 3 3 4 4 4 4 3 3 4 4 6 4 4 3 9 3 2 6 4 4 3 2 3 3 7 4 1 3 4 2 3 2 2 2 3 4 4 3 3 3 3 3 3 3 3 4 4 3 3 3 3 4 2 3 
+(*) Maximum bank joltage = 974444443423
+
+(*) Battery bank number 132 | Number of batteries in bank = 100
+(*) Batteries = 4 1 6 6 5 6 3 5 2 1 5 5 5 1 1 5 1 6 2 1 6 6 5 6 3 2 1 4 2 5 3 5 4 6 2 6 6 3 5 1 4 4 4 6 4 2 6 5 4 3 2 1 4 2 3 5 3 2 5 3 3 2 4 5 4 6 1 1 4 6 6 4 5 1 2 2 6 5 6 6 3 5 3 6 4 1 6 2 4 3 3 2 4 4 6 6 6 7 8 9 
+(*) Maximum bank joltage = 666666666789
+
+(*) Battery bank number 133 | Number of batteries in bank = 100
+(*) Batteries = 2 4 4 2 1 1 1 2 2 1 1 1 3 2 2 2 3 4 4 3 3 2 2 3 3 3 1 2 4 3 4 3 3 2 2 1 4 2 1 4 3 1 4 2 4 2 3 2 4 1 2 4 3 1 1 1 4 2 2 2 4 2 3 2 2 3 2 1 4 1 1 2 1 1 4 3 3 4 1 2 3 1 1 3 1 2 3 4 1 1 3 4 2 4 1 5 6 7 8 9 
+(*) Maximum bank joltage = 444444456789
+
+(*) Battery bank number 134 | Number of batteries in bank = 100
+(*) Batteries = 5 5 1 2 3 2 4 7 4 1 3 1 5 1 2 4 7 3 3 5 5 7 4 3 2 3 5 3 3 5 4 8 7 5 2 5 3 9 3 1 3 6 5 8 3 2 5 2 8 3 1 4 3 3 7 6 5 5 2 4 5 3 5 5 5 3 8 2 5 6 2 6 4 2 4 5 4 5 3 4 5 6 7 3 3 5 3 9 5 4 4 3 7 3 2 2 3 4 3 5 
+(*) Maximum bank joltage = 995473223435
+
+(*) Battery bank number 135 | Number of batteries in bank = 100
+(*) Batteries = 4 4 4 4 3 5 5 5 6 7 3 7 5 4 4 4 1 4 4 4 4 1 4 3 4 7 4 2 4 4 3 7 2 5 5 6 6 4 6 3 1 4 7 6 4 3 4 4 3 4 4 4 4 5 3 7 3 3 4 7 5 4 4 3 5 3 4 4 5 3 6 5 6 4 6 4 4 3 3 3 6 4 4 6 5 4 6 7 3 4 5 4 2 7 3 4 4 3 8 4 
+(*) Maximum bank joltage = 777777777484
+
+(*) Battery bank number 136 | Number of batteries in bank = 100
+(*) Batteries = 4 5 5 4 5 5 5 4 4 3 4 4 3 8 4 3 3 8 5 4 1 2 5 4 3 5 6 6 5 4 4 2 3 7 6 3 6 4 3 5 4 6 4 3 4 4 3 2 6 6 4 1 2 3 5 4 4 4 6 4 4 1 5 4 5 5 4 1 3 5 3 3 6 4 4 4 4 6 3 4 2 3 3 5 2 4 3 6 4 5 5 4 5 2 5 4 3 3 2 2 
+(*) Maximum bank joltage = 887666666666
+
+(*) Battery bank number 137 | Number of batteries in bank = 100
+(*) Batteries = 3 4 1 3 3 7 3 2 4 2 5 5 3 2 4 9 3 5 6 4 3 3 3 3 3 3 3 3 3 1 5 3 3 4 3 3 4 3 3 3 3 2 4 2 3 3 8 3 3 2 4 2 3 3 7 5 2 1 9 1 2 3 4 2 3 3 1 3 2 3 2 3 3 9 4 9 3 6 1 4 3 3 7 1 4 3 3 5 3 3 5 3 3 2 3 2 3 5 6 2 
+(*) Maximum bank joltage = 999975533562
+
+(*) Battery bank number 138 | Number of batteries in bank = 100
+(*) Batteries = 1 2 7 3 3 2 4 5 4 2 1 3 6 3 5 5 3 2 3 3 4 4 2 3 3 5 6 4 5 3 3 6 2 4 3 3 4 6 3 3 2 2 5 1 3 1 2 4 1 3 2 6 2 2 2 2 6 2 5 5 4 3 4 3 5 6 2 6 6 2 3 2 4 7 3 1 3 5 2 4 4 3 4 5 3 4 3 3 3 3 4 3 6 4 2 3 6 1 3 2 
+(*) Maximum bank joltage = 775564236132
+
+(*) Battery bank number 139 | Number of batteries in bank = 100
+(*) Batteries = 3 3 4 3 6 3 3 3 3 7 3 3 3 1 8 5 3 6 4 3 3 5 3 8 3 8 8 2 3 6 3 3 1 3 3 3 3 2 2 3 2 6 7 5 1 3 3 3 2 3 2 3 9 3 6 3 6 3 3 2 2 3 5 2 8 3 2 6 2 2 2 3 5 2 5 3 3 2 3 3 3 5 2 2 1 4 3 3 5 3 3 4 3 6 3 3 2 3 2 3 
+(*) Maximum bank joltage = 986556332323
+
+(*) Battery bank number 140 | Number of batteries in bank = 100
+(*) Batteries = 3 2 3 2 3 2 2 6 2 2 2 3 2 2 2 3 2 2 3 2 6 2 4 4 6 3 2 1 6 2 2 3 2 1 1 3 2 3 3 2 5 3 3 2 4 1 5 2 5 2 1 2 2 2 2 2 2 3 1 2 3 6 5 1 2 2 5 5 2 3 4 6 2 2 3 3 2 1 3 3 5 2 2 2 6 6 2 2 4 1 3 2 2 4 4 2 4 1 2 2 
+(*) Maximum bank joltage = 666666664444
+
+(*) Battery bank number 141 | Number of batteries in bank = 100
+(*) Batteries = 3 4 4 5 3 4 3 2 3 1 5 3 4 4 5 2 3 3 4 5 2 2 2 4 2 2 4 5 2 2 3 4 2 4 4 2 3 2 1 4 4 2 2 1 4 3 4 2 3 4 4 4 3 3 4 3 4 4 5 2 1 2 2 5 5 2 2 1 4 4 9 3 2 2 4 4 5 4 3 3 2 3 4 3 1 5 1 3 3 4 2 2 2 5 4 4 3 4 4 8 
+(*) Maximum bank joltage = 955425443448
+
+(*) Battery bank number 142 | Number of batteries in bank = 100
+(*) Batteries = 4 7 7 4 5 5 4 5 6 5 4 5 5 8 4 5 4 4 8 4 5 6 4 5 4 4 5 5 8 6 5 3 5 5 7 4 6 5 5 7 3 4 6 5 5 4 5 6 6 5 8 3 5 7 6 4 5 4 5 5 4 4 5 4 5 4 3 7 7 5 7 6 7 2 5 4 5 5 6 4 8 5 5 4 5 5 5 4 4 4 5 5 7 7 6 4 4 4 5 2 
+(*) Maximum bank joltage = 888887764452
+
+(*) Battery bank number 143 | Number of batteries in bank = 100
+(*) Batteries = 2 2 1 2 2 2 3 2 2 2 2 4 2 2 3 3 4 2 2 3 1 4 2 2 2 2 4 2 4 3 2 5 2 3 3 3 3 1 3 2 4 3 3 2 4 2 2 2 2 2 2 3 1 3 4 3 4 2 2 4 3 2 3 1 2 2 4 2 2 2 2 2 2 2 2 2 2 3 4 2 2 2 2 1 2 4 2 2 1 4 2 3 3 2 2 2 3 3 2 2 
+(*) Maximum bank joltage = 544444444433
+
+(*) Battery bank number 144 | Number of batteries in bank = 100
+(*) Batteries = 5 3 1 4 4 2 2 6 3 6 5 4 4 4 6 3 3 6 3 4 6 3 3 9 2 1 4 7 3 1 6 5 8 4 3 3 3 3 3 8 4 3 2 3 5 2 4 6 4 4 9 3 4 4 3 2 2 6 6 5 3 2 4 3 2 3 4 5 7 4 7 6 3 2 3 4 6 5 5 6 4 1 1 2 6 4 4 3 7 2 4 4 4 3 3 2 5 3 3 5 
+(*) Maximum bank joltage = 997774445335
+
+(*) Battery bank number 145 | Number of batteries in bank = 100
+(*) Batteries = 3 2 2 2 5 1 2 2 2 2 2 2 4 2 7 2 5 2 2 2 2 2 3 2 2 2 1 2 4 1 5 5 2 2 1 3 2 2 2 2 1 2 3 5 3 1 3 3 2 3 2 2 7 5 3 2 1 3 2 2 4 2 2 5 2 3 1 3 3 2 2 1 2 4 2 5 3 5 2 1 3 2 2 2 2 2 1 2 2 1 4 2 3 5 3 2 2 1 1 4 
+(*) Maximum bank joltage = 775555532214
+
+(*) Battery bank number 146 | Number of batteries in bank = 100
+(*) Batteries = 4 7 3 6 4 4 2 4 3 4 4 4 3 4 4 4 4 5 2 4 4 3 3 4 1 4 3 4 3 3 4 3 8 4 4 3 4 4 4 4 7 3 5 4 4 5 3 4 5 4 3 3 5 4 4 3 3 4 4 4 3 4 2 4 3 4 3 4 4 3 4 5 6 4 4 2 3 4 3 5 4 2 4 2 2 3 4 4 3 4 4 3 4 4 4 2 4 3 3 4 
+(*) Maximum bank joltage = 876544444444
+
+(*) Battery bank number 147 | Number of batteries in bank = 100
+(*) Batteries = 5 6 7 3 1 4 5 1 4 1 5 4 4 6 4 8 4 5 2 2 3 3 7 4 5 2 6 7 5 3 6 6 7 4 3 3 4 4 4 6 6 2 4 5 2 4 3 3 7 5 6 4 2 2 2 4 6 5 4 2 2 2 7 5 6 5 5 2 5 5 4 3 2 3 4 5 4 4 6 2 4 3 6 5 5 4 6 7 6 7 2 4 7 6 6 3 2 5 3 4 
+(*) Maximum bank joltage = 877777777665
+
+(*) Battery bank number 148 | Number of batteries in bank = 100
+(*) Batteries = 3 2 3 5 4 3 2 2 3 2 2 1 1 3 4 3 5 2 6 2 3 7 2 3 2 3 2 3 4 2 4 3 3 3 3 3 2 6 2 5 5 3 5 3 3 5 9 1 5 6 2 3 1 7 2 3 2 2 2 3 1 2 3 3 5 5 2 1 1 3 3 3 2 3 3 3 2 3 3 3 4 3 6 2 3 3 3 3 2 5 2 3 3 3 4 4 1 2 5 9 
+(*) Maximum bank joltage = 976533441259
+
+(*) Battery bank number 149 | Number of batteries in bank = 100
+(*) Batteries = 5 2 4 2 2 2 2 4 2 7 2 2 1 1 3 6 6 1 4 2 2 1 2 1 6 2 7 2 2 1 1 2 3 2 2 3 2 2 2 3 2 3 4 2 2 2 3 3 3 2 1 8 1 2 4 3 2 2 1 1 2 3 2 9 2 3 3 2 3 1 4 2 2 2 3 3 3 5 1 2 2 3 2 5 2 2 1 6 2 6 1 3 2 4 2 2 7 1 3 2 
+(*) Maximum bank joltage = 966324227132
+
+(*) Battery bank number 150 | Number of batteries in bank = 100
+(*) Batteries = 3 6 2 4 2 6 3 4 3 4 5 2 4 4 7 5 3 3 4 6 1 1 4 4 4 7 6 3 2 2 3 5 4 5 4 3 5 4 7 4 5 6 4 5 3 4 3 4 6 4 7 3 4 6 5 6 4 3 5 2 1 3 6 4 4 3 4 3 5 4 7 3 5 4 2 4 4 7 4 3 3 3 7 6 3 5 5 3 8 3 3 3 5 4 5 5 5 7 2 5 
+(*) Maximum bank joltage = 833354555725
+
+(*) Battery bank number 151 | Number of batteries in bank = 100
+(*) Batteries = 5 3 4 3 3 2 3 7 2 5 4 3 2 3 4 4 5 4 4 3 4 4 4 3 4 3 3 4 2 3 3 4 9 2 3 4 4 4 4 6 2 2 3 2 2 2 4 1 3 5 4 4 3 2 2 3 3 3 1 4 3 6 2 4 3 3 4 4 4 4 3 4 5 4 4 2 3 4 4 4 3 3 7 4 3 4 3 6 3 5 4 3 5 4 3 3 3 3 5 2 
+(*) Maximum bank joltage = 976554333352
+
+(*) Battery bank number 152 | Number of batteries in bank = 100
+(*) Batteries = 1 2 1 5 6 6 6 6 7 7 6 3 2 2 6 6 2 4 3 7 4 6 7 3 7 5 7 4 5 6 4 2 6 3 7 5 7 4 4 4 1 2 5 2 1 6 3 2 3 6 7 3 5 5 7 3 3 5 5 7 4 3 1 3 5 6 6 6 6 5 5 5 2 7 3 2 5 7 5 4 1 2 5 4 1 1 7 2 1 4 4 2 4 4 7 2 7 1 8 9 
+(*) Maximum bank joltage = 777777777789
+
+(*) Battery bank number 153 | Number of batteries in bank = 100
+(*) Batteries = 3 7 4 5 4 2 5 3 3 6 3 4 6 3 3 5 4 4 2 3 3 3 1 3 3 3 3 2 3 1 2 1 7 2 3 2 3 2 4 2 3 2 3 3 3 5 3 5 3 4 3 3 4 4 3 1 3 3 2 2 3 3 4 3 3 3 4 4 3 3 3 2 3 3 3 6 7 3 3 3 2 7 4 1 2 3 3 3 2 3 3 4 3 3 3 3 3 4 3 4 
+(*) Maximum bank joltage = 777744333434
+
+(*) Battery bank number 154 | Number of batteries in bank = 100
+(*) Batteries = 4 2 3 3 3 4 3 1 4 3 2 7 3 4 2 3 3 5 3 3 3 4 3 4 3 3 3 7 4 3 3 2 3 3 3 3 3 3 5 4 3 4 4 4 4 3 3 6 3 2 3 3 4 5 3 2 6 3 2 4 2 6 4 4 4 3 6 3 2 4 6 2 3 3 3 4 4 3 3 3 3 4 3 3 3 4 3 4 2 5 3 3 3 5 3 3 3 7 3 2 
+(*) Maximum bank joltage = 776666655732
+
+(*) Battery bank number 155 | Number of batteries in bank = 100
+(*) Batteries = 2 2 4 3 5 3 3 3 4 6 2 5 3 2 5 3 5 4 5 4 4 1 5 5 8 8 5 4 5 5 4 3 4 6 2 4 2 3 2 7 3 4 4 4 2 4 3 5 4 5 6 2 7 2 4 2 5 4 3 6 3 4 7 3 2 3 5 4 4 4 5 4 5 5 5 8 3 3 3 2 3 5 5 1 5 5 4 2 5 4 3 6 4 3 5 5 5 4 5 3 
+(*) Maximum bank joltage = 888643555453
+
+(*) Battery bank number 156 | Number of batteries in bank = 100
+(*) Batteries = 3 3 3 5 2 4 6 3 3 5 3 5 2 3 3 4 5 5 4 3 5 3 5 3 4 5 3 3 5 5 4 5 5 4 3 3 2 2 4 5 3 3 4 4 3 3 4 5 5 6 4 2 3 4 3 4 4 1 5 5 1 1 6 3 5 4 5 3 2 5 3 5 3 4 4 3 4 4 4 5 3 3 4 3 5 2 4 4 3 2 4 3 3 3 3 5 6 3 4 6 
+(*) Maximum bank joltage = 666555556346
+
+(*) Battery bank number 157 | Number of batteries in bank = 100
+(*) Batteries = 3 3 2 1 2 2 1 2 3 3 2 3 4 2 3 2 3 3 3 1 3 3 3 2 3 4 2 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 2 3 3 2 2 3 2 3 2 2 3 3 2 3 1 3 2 4 2 3 3 3 4 2 3 3 3 2 5 3 3 4 3 4 2 2 3 2 4 3 3 3 1 2 3 4 3 3 2 3 3 3 3 3 1 
+(*) Maximum bank joltage = 544443333333
+
+(*) Battery bank number 158 | Number of batteries in bank = 100
+(*) Batteries = 2 3 3 2 2 8 3 2 2 2 2 2 5 1 3 2 2 2 3 2 3 2 2 4 2 2 3 2 2 2 2 2 1 1 2 2 2 2 2 2 2 2 1 1 1 3 2 1 2 2 2 2 3 3 4 2 2 2 5 2 1 3 3 3 2 2 2 5 2 2 2 1 1 2 3 5 2 2 4 2 4 2 8 1 3 2 2 1 3 1 2 1 2 2 2 3 5 2 2 2 
+(*) Maximum bank joltage = 883322235222
+
+(*) Battery bank number 159 | Number of batteries in bank = 100
+(*) Batteries = 2 2 1 4 2 2 3 2 1 2 2 2 4 3 2 3 5 2 3 2 2 3 2 2 2 3 4 2 2 2 2 3 5 2 2 2 4 1 2 2 1 2 2 3 5 2 3 2 3 2 2 2 2 3 4 5 2 1 2 4 3 3 1 4 4 4 2 3 2 3 2 3 3 4 4 3 1 5 2 2 3 2 3 2 4 3 2 4 4 2 2 2 4 2 2 3 4 2 2 2 
+(*) Maximum bank joltage = 555554444422
+
+(*) Battery bank number 160 | Number of batteries in bank = 100
+(*) Batteries = 6 7 5 2 4 2 3 4 2 2 2 2 1 1 3 4 4 2 1 4 3 1 4 4 3 2 4 5 3 2 4 1 4 4 3 5 1 2 2 2 4 4 6 3 4 3 1 2 3 2 3 3 3 2 7 2 3 2 4 2 2 2 3 6 3 4 3 2 2 8 2 4 2 6 2 1 5 6 4 4 2 2 4 3 2 4 4 2 3 4 4 4 3 6 3 2 4 5 2 5 
+(*) Maximum bank joltage = 866446324525
+
+(*) Battery bank number 161 | Number of batteries in bank = 100
+(*) Batteries = 2 1 1 2 2 1 1 2 3 4 1 2 2 2 1 2 2 1 1 2 2 4 2 2 8 2 2 2 1 2 2 2 2 3 2 2 2 2 2 3 3 2 2 2 2 2 2 1 2 3 1 2 2 2 3 2 2 2 1 2 3 2 2 2 2 2 1 3 2 2 5 2 2 2 1 1 2 2 2 2 2 1 1 2 2 1 2 2 2 2 2 1 2 4 2 2 2 1 1 2 
+(*) Maximum bank joltage = 852224222112
+
+(*) Battery bank number 162 | Number of batteries in bank = 100
+(*) Batteries = 2 3 6 2 1 1 2 3 6 1 3 2 2 2 1 5 2 2 3 4 2 5 1 4 2 2 2 3 4 1 3 2 2 2 3 2 1 4 2 2 4 1 2 2 2 1 2 2 3 2 2 2 6 3 5 4 3 2 4 4 2 2 4 2 2 2 4 3 2 2 3 2 2 3 2 2 2 2 2 1 2 2 4 6 2 3 1 4 2 2 3 2 2 6 2 1 3 3 2 2 
+(*) Maximum bank joltage = 666646213322
+
+(*) Battery bank number 163 | Number of batteries in bank = 100
+(*) Batteries = 3 1 3 2 2 3 2 4 4 2 3 3 5 3 4 2 7 3 3 3 6 3 4 3 3 3 5 3 2 3 3 3 2 3 1 2 3 5 2 3 3 2 5 2 3 6 3 3 3 3 3 3 3 2 7 3 3 3 6 3 4 3 3 7 3 3 3 5 1 3 3 4 2 3 3 3 4 5 4 1 2 3 2 5 2 3 3 3 3 5 2 2 3 7 3 3 3 4 3 3 
+(*) Maximum bank joltage = 777557333433
+
+(*) Battery bank number 164 | Number of batteries in bank = 100
+(*) Batteries = 2 3 2 2 2 2 3 2 3 2 2 2 1 1 2 2 2 2 2 1 1 3 4 2 2 2 2 1 2 4 3 2 2 2 2 2 2 1 2 2 2 2 2 2 2 1 2 1 2 1 1 1 2 2 2 2 1 4 2 2 2 2 2 3 1 1 2 2 5 1 2 1 2 2 2 2 2 1 2 2 2 1 2 2 4 2 2 6 1 2 2 2 1 2 2 3 3 2 2 2 
+(*) Maximum bank joltage = 622212233222
+
+(*) Battery bank number 165 | Number of batteries in bank = 100
+(*) Batteries = 3 6 3 8 5 8 7 9 6 5 6 7 8 4 5 6 5 8 3 3 2 4 5 2 3 4 4 6 2 5 3 4 3 8 5 3 8 3 6 4 8 5 5 4 2 8 3 7 7 1 2 5 4 7 9 4 6 9 7 9 7 6 7 7 3 4 8 8 8 6 6 9 5 6 3 3 4 9 5 7 6 8 5 7 5 4 2 3 3 5 3 2 9 4 6 8 4 5 7 4 
+(*) Maximum bank joltage = 999999984574
+
+(*) Battery bank number 166 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 1 2 1 2 1 1 2 3 2 2 2 2 3 3 2 2 2 2 2 2 2 2 2 1 2 1 3 3 2 2 2 2 7 2 1 3 2 2 1 2 2 2 2 2 1 2 3 2 2 3 2 2 2 1 2 1 1 3 2 2 2 2 2 2 2 5 2 1 2 2 2 1 1 4 2 2 2 2 2 1 2 2 2 3 2 2 2 4 2 2 2 3 2 2 2 2 2 
+(*) Maximum bank joltage = 754422322222
+
+(*) Battery bank number 167 | Number of batteries in bank = 100
+(*) Batteries = 6 4 5 2 5 5 1 4 3 4 3 2 5 3 3 2 3 5 5 3 2 3 5 4 5 3 6 6 2 3 2 3 2 2 2 2 2 3 4 7 3 7 2 2 2 1 2 5 1 2 2 5 4 6 8 6 3 2 3 2 1 4 3 2 6 1 5 4 6 3 5 6 5 2 4 3 3 6 2 4 4 3 3 2 4 3 6 5 3 6 5 6 5 2 4 2 5 6 7 6 
+(*) Maximum bank joltage = 866666666676
+
+(*) Battery bank number 168 | Number of batteries in bank = 100
+(*) Batteries = 3 2 3 2 1 3 2 4 3 3 1 4 1 3 3 3 3 3 3 3 3 2 4 4 3 2 3 3 6 1 3 3 3 1 3 3 3 3 3 4 2 4 2 2 3 3 2 2 4 6 3 3 3 3 3 3 2 4 1 3 1 5 3 3 3 6 3 3 4 2 3 2 4 3 3 3 3 2 3 4 3 3 5 2 2 3 3 3 5 2 3 3 3 5 4 4 3 3 2 3 
+(*) Maximum bank joltage = 666555443323
+
+(*) Battery bank number 169 | Number of batteries in bank = 100
+(*) Batteries = 2 5 3 2 5 3 2 2 2 2 2 5 2 2 3 2 3 2 2 2 5 5 3 3 4 2 1 2 4 3 2 2 4 2 5 3 2 3 2 4 3 4 2 2 2 2 1 2 2 2 1 1 2 2 2 1 5 2 5 2 1 2 3 2 1 5 3 3 5 2 1 3 2 3 3 2 1 2 4 2 2 2 2 4 2 2 5 2 1 1 5 2 2 2 2 2 3 2 3 2 
+(*) Maximum bank joltage = 555555555555
+
+(*) Battery bank number 170 | Number of batteries in bank = 100
+(*) Batteries = 3 6 2 4 2 4 5 3 2 2 1 3 2 2 2 5 2 3 4 3 6 1 7 5 3 1 6 2 4 5 2 5 4 5 3 6 2 5 4 5 2 2 2 2 3 7 4 1 2 2 3 2 5 3 4 2 1 5 1 4 3 1 6 2 2 4 1 2 3 2 5 3 3 1 4 2 3 5 5 2 4 5 2 3 5 2 2 6 4 2 5 2 4 4 2 2 5 1 4 2 
+(*) Maximum bank joltage = 776654425142
+
+(*) Battery bank number 171 | Number of batteries in bank = 100
+(*) Batteries = 2 2 1 3 4 2 2 1 3 2 2 2 2 2 1 2 2 2 2 2 1 1 2 3 2 2 3 2 1 2 2 1 2 1 2 2 2 2 2 2 2 2 1 2 1 2 2 2 2 3 2 2 2 2 2 2 3 2 3 2 2 2 2 2 4 2 3 2 2 3 2 2 1 3 2 2 2 3 2 3 1 1 1 1 2 2 2 4 2 3 2 2 3 3 2 2 3 3 2 4 
+(*) Maximum bank joltage = 444333223324
+
+(*) Battery bank number 172 | Number of batteries in bank = 100
+(*) Batteries = 4 3 2 7 3 3 3 2 3 2 3 3 4 5 3 2 3 3 3 2 4 3 3 3 3 3 5 2 2 3 3 3 4 3 2 3 3 3 2 3 2 2 3 6 2 2 3 3 3 2 3 3 2 3 3 6 3 4 5 2 2 8 4 4 4 2 1 3 3 3 3 2 3 3 3 3 3 1 3 6 3 5 3 2 3 9 5 4 3 1 3 3 2 4 2 2 2 3 3 2 
+(*) Maximum bank joltage = 954334222332
+
+(*) Battery bank number 173 | Number of batteries in bank = 100
+(*) Batteries = 2 5 4 4 3 1 2 9 6 4 6 6 3 3 7 4 2 4 3 5 4 2 1 3 2 4 1 3 8 2 3 1 7 4 2 4 5 4 4 5 2 4 4 7 1 2 1 4 7 7 2 3 6 5 2 2 5 5 2 1 1 6 5 6 5 3 6 2 4 9 4 1 5 2 2 1 6 3 4 4 4 2 4 2 4 2 5 4 2 2 4 2 1 2 4 4 2 2 4 7 
+(*) Maximum bank joltage = 996544442247
+
+(*) Battery bank number 174 | Number of batteries in bank = 100
+(*) Batteries = 5 5 4 5 1 3 5 4 3 2 4 1 2 3 3 4 2 2 2 4 2 5 3 4 3 1 3 2 3 2 2 3 5 2 2 5 4 1 5 4 4 5 5 4 2 2 5 4 4 2 4 5 2 5 1 2 2 3 5 3 3 1 5 2 1 5 2 5 2 4 6 5 2 2 1 5 6 2 2 3 1 2 4 2 5 4 2 4 2 4 5 2 7 2 3 4 4 4 5 3 
+(*) Maximum bank joltage = 665572344453
+
+(*) Battery bank number 175 | Number of batteries in bank = 100
+(*) Batteries = 2 2 3 4 2 5 2 1 2 2 2 2 4 3 2 2 3 4 4 3 2 4 2 2 2 2 2 3 7 2 3 1 7 3 3 2 6 3 3 4 2 2 3 2 6 2 3 1 3 3 1 1 2 3 3 4 3 1 5 4 2 2 4 7 4 1 1 1 3 4 3 3 2 4 2 2 3 2 4 5 2 2 2 2 6 3 2 6 4 4 2 2 4 7 2 2 3 3 3 3 
+(*) Maximum bank joltage = 777667223333
+
+(*) Battery bank number 176 | Number of batteries in bank = 100
+(*) Batteries = 1 2 3 5 4 5 4 3 4 3 4 5 3 3 4 5 3 5 4 5 5 5 8 4 5 4 5 5 3 5 6 3 5 5 4 4 2 5 4 1 4 5 3 3 4 5 5 2 4 4 7 3 4 3 5 4 4 6 5 4 5 3 4 5 6 5 4 6 2 3 4 3 7 3 3 1 5 4 5 3 2 5 5 4 6 4 4 2 3 7 4 5 5 5 3 3 4 5 5 6 
+(*) Maximum bank joltage = 877755534556
+
+(*) Battery bank number 177 | Number of batteries in bank = 100
+(*) Batteries = 3 3 3 4 3 4 6 4 3 2 3 4 4 3 3 4 3 4 6 1 7 4 4 1 6 2 3 2 4 3 3 7 4 4 4 3 3 3 3 4 3 4 3 2 3 3 5 7 3 3 2 6 3 4 4 4 5 3 3 4 4 5 2 6 4 3 4 7 4 4 3 4 1 4 2 3 4 3 5 4 3 3 7 1 2 3 3 4 3 3 3 3 7 3 3 3 3 3 4 3 
+(*) Maximum bank joltage = 777777333343
+
+(*) Battery bank number 178 | Number of batteries in bank = 100
+(*) Batteries = 6 6 8 6 8 4 4 5 6 7 8 6 7 7 5 7 5 6 4 7 8 7 4 5 5 4 8 8 7 5 5 7 6 6 8 7 8 5 6 6 5 6 7 6 4 7 7 5 5 6 6 6 4 5 8 4 9 5 6 5 6 6 6 5 5 4 7 7 6 6 5 3 7 7 5 5 5 8 7 5 3 6 6 7 5 5 5 8 4 7 4 7 3 6 6 7 2 5 7 6 
+(*) Maximum bank joltage = 988776672576
+
+(*) Battery bank number 179 | Number of batteries in bank = 100
+(*) Batteries = 3 2 2 3 3 2 1 1 2 1 2 2 1 4 3 2 2 2 2 2 3 2 4 3 2 3 3 1 4 3 1 3 2 2 4 4 2 3 2 2 2 2 3 2 2 3 3 2 4 3 3 2 4 2 1 2 2 3 2 3 2 4 5 7 2 3 1 3 2 3 1 2 2 2 3 2 2 4 5 3 2 3 2 2 3 3 2 4 2 1 3 3 2 2 3 4 4 3 2 2 
+(*) Maximum bank joltage = 754332344322
+
+(*) Battery bank number 180 | Number of batteries in bank = 100
+(*) Batteries = 5 7 3 2 3 4 5 3 4 5 6 3 5 5 2 3 3 7 6 4 3 2 4 7 4 3 4 7 3 2 3 3 3 6 5 6 4 3 4 4 3 7 6 3 3 4 6 3 5 2 6 2 5 3 5 3 4 4 4 3 4 5 3 3 4 4 3 4 6 3 4 2 3 2 5 3 7 7 6 3 3 4 6 5 2 6 4 4 3 3 3 9 6 2 6 8 7 3 6 3 
+(*) Maximum bank joltage = 777962687363
+
+(*) Battery bank number 181 | Number of batteries in bank = 100
+(*) Batteries = 2 4 3 2 2 2 2 3 2 3 3 2 2 2 2 6 2 2 2 2 2 3 2 2 3 4 3 2 2 2 2 1 2 1 3 2 3 2 3 1 2 2 3 2 3 2 4 4 2 3 3 2 4 2 2 1 2 4 2 1 2 4 2 2 3 1 3 8 5 2 2 2 2 2 1 3 2 3 2 2 2 1 2 3 6 6 3 3 2 2 1 1 2 3 7 3 2 2 2 2 
+(*) Maximum bank joltage = 866333732222
+
+(*) Battery bank number 182 | Number of batteries in bank = 100
+(*) Batteries = 4 3 9 5 5 5 5 3 5 7 4 5 5 4 5 9 5 5 5 5 5 5 5 5 7 5 5 5 5 5 5 5 5 4 9 5 6 6 3 5 5 5 5 4 2 4 3 5 2 6 4 6 3 5 5 5 5 5 5 4 5 7 3 5 4 4 4 4 5 5 4 5 5 5 4 5 5 3 5 4 5 5 5 2 3 5 7 5 5 5 4 4 3 5 5 5 5 9 3 5 
+(*) Maximum bank joltage = 999775555935
+
+(*) Battery bank number 183 | Number of batteries in bank = 100
+(*) Batteries = 2 5 3 3 3 3 2 2 1 3 3 2 4 5 3 2 6 1 6 2 2 4 2 7 2 5 2 4 2 5 5 3 6 3 5 3 5 3 2 6 1 3 4 7 3 7 2 3 3 3 2 4 1 1 6 6 2 2 3 3 1 7 2 3 3 6 4 1 2 2 4 3 2 3 3 2 2 3 3 5 2 1 2 6 3 2 1 2 2 3 6 2 3 5 2 5 3 2 3 2 
+(*) Maximum bank joltage = 777766655332
+
+(*) Battery bank number 184 | Number of batteries in bank = 100
+(*) Batteries = 6 9 8 6 6 3 7 6 1 6 7 4 4 8 3 7 4 7 5 6 9 6 5 3 5 6 7 8 3 5 6 3 6 6 5 3 6 2 8 7 8 3 9 5 5 5 4 5 5 3 7 6 7 3 7 3 3 4 3 2 9 4 5 7 2 8 4 5 6 5 5 6 6 9 5 4 5 7 8 7 4 2 6 8 9 4 6 9 4 4 7 7 8 5 6 8 7 7 5 2 
+(*) Maximum bank joltage = 999999988775
+
+(*) Battery bank number 185 | Number of batteries in bank = 100
+(*) Batteries = 4 2 6 1 2 4 2 1 1 2 5 2 2 7 2 3 3 4 2 4 1 3 2 2 5 3 2 2 2 2 4 2 4 2 4 2 3 2 2 8 3 2 2 3 4 2 2 4 4 2 3 2 2 5 2 1 2 3 2 5 2 4 1 2 2 3 2 3 2 2 2 2 4 2 2 2 2 1 2 2 4 2 1 2 2 1 3 4 4 3 1 1 3 2 1 2 3 5 2 2 
+(*) Maximum bank joltage = 855444443522
+
+(*) Battery bank number 186 | Number of batteries in bank = 100
+(*) Batteries = 5 8 5 7 3 7 6 6 5 2 3 4 9 5 6 3 5 5 6 7 6 4 5 8 6 3 6 6 9 6 7 6 9 3 7 8 9 4 9 3 2 8 3 4 7 8 5 8 7 6 4 3 5 8 6 3 5 2 8 6 9 9 3 5 4 6 5 7 4 4 4 4 5 9 6 2 7 6 6 4 7 4 4 5 2 5 8 7 5 3 3 5 8 9 2 5 6 3 7 6 
+(*) Maximum bank joltage = 999999999676
+
+(*) Battery bank number 187 | Number of batteries in bank = 100
+(*) Batteries = 4 3 3 5 3 1 3 4 6 3 3 4 3 3 3 2 1 3 4 4 3 3 4 4 3 5 8 4 2 2 4 3 3 2 3 3 2 3 2 3 3 3 3 2 3 5 3 3 3 6 2 5 3 3 3 2 1 3 4 3 3 3 4 2 4 4 4 3 7 4 2 3 2 4 4 4 2 2 1 3 4 2 2 1 2 6 3 4 4 4 4 3 2 3 4 2 5 2 3 3 
+(*) Maximum bank joltage = 876444445233
+
+(*) Battery bank number 188 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 2 2 3 2 2 2 1 2 2 3 2 2 6 3 2 6 1 2 2 1 2 2 2 2 2 2 2 2 2 2 3 1 3 2 2 2 2 2 2 2 2 2 2 2 2 5 2 2 2 5 2 2 2 2 1 1 1 2 2 2 2 3 2 2 1 1 2 1 2 1 2 2 2 2 4 2 2 1 2 2 2 2 1 3 2 2 1 2 2 3 4 2 3 2 2 2 2 
+(*) Maximum bank joltage = 665544232222
+
+(*) Battery bank number 189 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 2 4 2 2 1 2 6 5 2 5 1 2 2 4 3 3 3 3 2 3 2 4 1 2 2 2 3 2 4 4 2 6 2 1 3 3 2 1 1 2 1 2 4 3 5 3 3 2 5 1 4 2 2 1 3 2 2 1 2 2 1 3 2 1 2 4 2 5 2 2 2 4 5 2 4 2 2 2 2 2 1 2 2 1 3 2 2 3 2 5 3 2 2 2 2 2 2 
+(*) Maximum bank joltage = 665555532222
+
+(*) Battery bank number 190 | Number of batteries in bank = 100
+(*) Batteries = 2 2 3 7 3 3 3 2 5 5 4 4 2 4 2 9 6 5 6 3 3 5 6 6 3 1 3 1 3 1 8 5 4 5 6 3 4 6 2 4 6 1 5 4 1 5 4 2 3 5 3 2 4 2 2 5 5 4 4 2 5 5 4 3 4 5 8 3 2 2 3 5 5 2 3 2 5 3 5 5 1 5 5 3 3 1 3 3 5 5 5 1 3 7 5 5 3 1 4 5 
+(*) Maximum bank joltage = 988557553145
+
+(*) Battery bank number 191 | Number of batteries in bank = 100
+(*) Batteries = 2 2 2 2 5 5 3 5 7 3 2 2 7 2 4 3 2 2 2 3 5 2 2 4 9 2 4 3 3 2 2 2 2 2 2 2 2 7 2 1 2 5 3 2 2 1 1 1 2 4 2 1 4 1 3 7 2 4 5 3 3 3 1 8 2 2 1 2 4 5 2 2 3 3 2 6 2 2 6 2 2 6 6 2 1 2 4 3 3 3 3 2 3 9 1 3 2 2 2 4 
+(*) Maximum bank joltage = 986669132224
+
+(*) Battery bank number 192 | Number of batteries in bank = 100
+(*) Batteries = 1 2 2 1 2 4 1 2 1 2 1 2 3 1 1 2 2 2 4 2 2 6 2 2 2 4 6 1 2 2 4 3 4 3 4 4 3 2 5 7 4 2 2 3 2 2 2 1 2 2 3 1 2 5 6 3 1 2 3 2 5 2 4 2 2 2 3 7 2 1 2 2 4 2 2 2 4 4 2 2 4 2 4 3 5 5 2 2 3 4 2 2 2 1 3 2 6 3 1 4 
+(*) Maximum bank joltage = 775542326314
+
+(*) Battery bank number 193 | Number of batteries in bank = 100
+(*) Batteries = 2 4 2 2 3 4 2 4 4 2 1 2 2 1 1 2 4 1 2 2 1 5 2 1 2 2 2 5 2 5 2 2 2 1 2 2 3 4 2 5 2 2 3 2 2 7 2 4 2 1 1 2 6 3 7 2 2 2 5 2 2 2 5 2 1 2 2 5 2 2 2 2 5 7 2 7 5 2 4 1 2 2 1 2 2 1 2 6 2 2 2 2 4 2 1 2 2 5 2 2 
+(*) Maximum bank joltage = 777764222522
+
+(*) Battery bank number 194 | Number of batteries in bank = 100
+(*) Batteries = 3 4 3 1 3 2 3 3 3 2 1 2 2 3 4 3 3 3 1 4 2 4 2 5 2 2 3 2 3 3 3 4 1 4 2 3 2 2 2 3 3 3 3 3 3 2 2 3 3 3 2 2 3 3 4 3 4 4 3 3 5 3 3 2 3 3 4 4 4 3 3 3 3 3 3 2 4 3 1 3 1 2 3 3 2 3 4 1 2 2 4 3 3 4 3 3 3 4 5 3 
+(*) Maximum bank joltage = 554444444453
+
+(*) Battery bank number 195 | Number of batteries in bank = 100
+(*) Batteries = 5 2 3 6 5 5 5 5 3 2 5 4 7 5 3 3 2 8 3 4 3 3 3 2 5 3 2 5 3 5 3 4 5 5 5 3 5 3 3 5 5 4 4 2 3 3 4 3 3 2 5 3 3 5 2 3 3 3 4 1 3 2 3 4 4 3 4 5 2 5 6 5 5 6 3 5 5 4 5 4 6 8 5 4 4 3 5 3 3 5 5 7 2 2 3 7 4 5 5 5 
+(*) Maximum bank joltage = 885722374555
+
+(*) Battery bank number 196 | Number of batteries in bank = 100
+(*) Batteries = 1 3 2 1 2 1 2 2 2 2 2 1 2 2 2 1 2 2 2 2 2 1 3 3 2 2 3 1 2 2 2 2 2 2 2 2 2 3 2 2 2 2 2 2 2 2 2 1 1 2 1 3 1 3 2 2 1 1 2 2 2 2 1 1 1 2 2 2 2 1 2 2 2 2 2 2 1 3 3 2 2 2 3 1 2 2 2 2 2 2 2 2 1 2 3 2 2 2 2 1 
+(*) Maximum bank joltage = 333333333332
+
+(*) Battery bank number 197 | Number of batteries in bank = 100
+(*) Batteries = 2 5 4 5 5 5 5 2 6 5 9 9 3 8 7 6 9 9 4 9 2 6 3 6 7 5 3 3 2 2 4 2 7 7 6 7 7 2 2 8 6 5 6 1 6 3 5 6 4 2 6 6 4 3 5 5 7 8 2 6 4 4 1 6 9 2 6 3 1 4 1 5 1 8 6 2 9 7 5 2 4 2 8 4 8 8 2 2 8 8 2 2 2 6 2 7 8 7 7 6 
+(*) Maximum bank joltage = 999999988888
+
+(*) Battery bank number 198 | Number of batteries in bank = 100
+(*) Batteries = 8 5 6 4 6 3 5 3 2 5 5 8 8 4 4 6 5 2 6 8 2 8 5 5 7 5 2 4 5 5 2 3 8 3 4 3 6 7 4 8 6 7 4 7 3 3 1 5 3 9 2 3 5 3 6 4 5 7 5 6 8 6 6 7 6 2 3 7 6 7 2 6 3 5 6 3 9 9 6 6 5 2 6 7 6 4 6 8 4 7 8 2 3 7 4 6 8 3 6 3 
+(*) Maximum bank joltage = 999887468363
+
+(*) Battery bank number 199 | Number of batteries in bank = 100
+(*) Batteries = 5 4 3 3 2 2 3 3 5 3 2 2 3 2 1 3 3 2 3 2 2 2 2 2 5 3 3 3 1 4 3 3 2 3 2 3 2 3 2 3 2 3 3 3 4 2 2 3 3 2 2 3 2 3 2 2 1 2 2 3 3 3 1 3 2 3 3 5 2 1 3 2 2 3 2 2 1 3 2 2 2 2 3 2 2 1 2 3 3 3 1 2 3 2 2 2 3 3 2 3 
+(*) Maximum bank joltage = 555533333333
+
+(*) Battery bank number 200 | Number of batteries in bank = 100
+(*) Batteries = 1 7 1 3 3 3 2 3 2 3 4 3 2 1 3 2 3 1 3 3 4 7 3 3 2 2 3 2 2 2 2 2 3 3 2 3 3 3 5 3 1 2 2 2 2 6 3 2 3 2 2 2 1 3 2 2 3 3 7 2 1 1 2 7 3 3 3 3 5 2 2 1 2 1 2 9 2 1 1 2 3 2 3 2 2 2 3 3 3 3 3 6 2 7 2 2 4 3 1 2 
+(*) Maximum bank joltage = 933627224312
+
+Sum of all max joltages = 168617068915447

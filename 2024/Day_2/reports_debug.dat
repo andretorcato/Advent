@@ -1,0 +1,78 @@
+STARTING reports analysis ...
+
+-----------------------------------------------------------------------------------------------
+
+Report #    1 | Number of levels =   5
+--> Level #  1 | Level value =    7
+--> Level #  2 | Level value =    6
+--> [*] Difference with previous level = -1
+--> Level #  3 | Level value =    4
+--> [*] Difference with previous level = -2
+--> Level #  4 | Level value =    2
+--> [*] Difference with previous level = -2
+--> Level #  5 | Level value =    1
+--> [*] Difference with previous level = -1
+Safe report :: dif_flag =  T | order_flag =  T
+
+-----------------------------------------------------------------------------------------------
+
+Report #    2 | Number of levels =   5
+--> Level #  1 | Level value =    1
+--> Level #  2 | Level value =    2
+--> [*] Difference with previous level =  1
+--> Level #  3 | Level value =    7
+--> [*] Difference with previous level =  5
+Unsafe report :: dif_flag =  F | order_flag =  T
+
+-----------------------------------------------------------------------------------------------
+
+Report #    3 | Number of levels =   5
+--> Level #  1 | Level value =    9
+--> Level #  2 | Level value =    7
+--> [*] Difference with previous level = -2
+--> Level #  3 | Level value =    6
+--> [*] Difference with previous level = -1
+--> Level #  4 | Level value =    2
+--> [*] Difference with previous level = -4
+Unsafe report :: dif_flag =  F | order_flag =  T
+
+-----------------------------------------------------------------------------------------------
+
+Report #    4 | Number of levels =   5
+--> Level #  1 | Level value =    1
+--> Level #  2 | Level value =    3
+--> [*] Difference with previous level =  2
+--> Level #  3 | Level value =    2
+--> [*] Difference with previous level = -1
+Unsafe report :: dif_flag =  T | order_flag =  F
+
+-----------------------------------------------------------------------------------------------
+
+Report #    5 | Number of levels =   5
+--> Level #  1 | Level value =    8
+--> Level #  2 | Level value =    6
+--> [*] Difference with previous level = -2
+--> Level #  3 | Level value =    4
+--> [*] Difference with previous level = -2
+--> Level #  4 | Level value =    4
+--> [*] Difference with previous level =  0
+Unsafe report :: dif_flag =  F | order_flag =  F
+
+-----------------------------------------------------------------------------------------------
+
+Report #    6 | Number of levels =   5
+--> Level #  1 | Level value =    1
+--> Level #  2 | Level value =    3
+--> [*] Difference with previous level =  2
+--> Level #  3 | Level value =    6
+--> [*] Difference with previous level =  3
+--> Level #  4 | Level value =    7
+--> [*] Difference with previous level =  1
+--> Level #  5 | Level value =    9
+--> [*] Difference with previous level =  2
+Safe report :: dif_flag =  T | order_flag =  T
+
+-----------------------------------------------------------------------------------------------
+
+ENDING reports analysis ...
+Number of safe reports =     2

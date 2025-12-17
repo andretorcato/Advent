@@ -1,0 +1,452 @@
+Stones initial arrangement by stone number and the count of each stone number (stone | count): 5 | 1 ; 89749 | 1 ; 6061 | 1 ; 43 | 1 ; 867 | 1 ; 1965860 | 1 ; 0 | 1 ; 206250 | 1 ; 
+
+Blink number 1
+
+Total number of stones after 1 blinks is 11
+
+-----------------------------------------
+
+Blink number 2
+
+Total number of stones after 2 blinks is 14
+
+-----------------------------------------
+
+Blink number 3
+
+Total number of stones after 3 blinks is 22
+
+-----------------------------------------
+
+Blink number 4
+
+Total number of stones after 4 blinks is 34
+
+-----------------------------------------
+
+Blink number 5
+
+Total number of stones after 5 blinks is 49
+
+-----------------------------------------
+
+Blink number 6
+
+Total number of stones after 6 blinks is 73
+
+-----------------------------------------
+
+Blink number 7
+
+Total number of stones after 7 blinks is 116
+
+-----------------------------------------
+
+Blink number 8
+
+Total number of stones after 8 blinks is 163
+
+-----------------------------------------
+
+Blink number 9
+
+Total number of stones after 9 blinks is 250
+
+-----------------------------------------
+
+Blink number 10
+
+Total number of stones after 10 blinks is 390
+
+-----------------------------------------
+
+Blink number 11
+
+Total number of stones after 11 blinks is 591
+
+-----------------------------------------
+
+Blink number 12
+
+Total number of stones after 12 blinks is 910
+
+-----------------------------------------
+
+Blink number 13
+
+Total number of stones after 13 blinks is 1295
+
+-----------------------------------------
+
+Blink number 14
+
+Total number of stones after 14 blinks is 2010
+
+-----------------------------------------
+
+Blink number 15
+
+Total number of stones after 15 blinks is 3186
+
+-----------------------------------------
+
+Blink number 16
+
+Total number of stones after 16 blinks is 4684
+
+-----------------------------------------
+
+Blink number 17
+
+Total number of stones after 17 blinks is 7134
+
+-----------------------------------------
+
+Blink number 18
+
+Total number of stones after 18 blinks is 10750
+
+-----------------------------------------
+
+Blink number 19
+
+Total number of stones after 19 blinks is 16457
+
+-----------------------------------------
+
+Blink number 20
+
+Total number of stones after 20 blinks is 25266
+
+-----------------------------------------
+
+Blink number 21
+
+Total number of stones after 21 blinks is 37612
+
+-----------------------------------------
+
+Blink number 22
+
+Total number of stones after 22 blinks is 57901
+
+-----------------------------------------
+
+Blink number 23
+
+Total number of stones after 23 blinks is 87494
+
+-----------------------------------------
+
+Blink number 24
+
+Total number of stones after 24 blinks is 131960
+
+-----------------------------------------
+
+Blink number 25
+
+Total number of stones after 25 blinks is 203609
+
+-----------------------------------------
+
+Blink number 26
+
+Total number of stones after 26 blinks is 306147
+
+-----------------------------------------
+
+Blink number 27
+
+Total number of stones after 27 blinks is 465397
+
+-----------------------------------------
+
+Blink number 28
+
+Total number of stones after 28 blinks is 708063
+
+-----------------------------------------
+
+Blink number 29
+
+Total number of stones after 29 blinks is 1071177
+
+-----------------------------------------
+
+Blink number 30
+
+Total number of stones after 30 blinks is 1640756
+
+-----------------------------------------
+
+Blink number 31
+
+Total number of stones after 31 blinks is 2473953
+
+-----------------------------------------
+
+Blink number 32
+
+Total number of stones after 32 blinks is 3759552
+
+-----------------------------------------
+
+Blink number 33
+
+Total number of stones after 33 blinks is 5738498
+
+-----------------------------------------
+
+Blink number 34
+
+Total number of stones after 34 blinks is 8664763
+
+-----------------------------------------
+
+Blink number 35
+
+Total number of stones after 35 blinks is 13217334
+
+-----------------------------------------
+
+Blink number 36
+
+Total number of stones after 36 blinks is 20049937
+
+-----------------------------------------
+
+Blink number 37
+
+Total number of stones after 37 blinks is 30408343
+
+-----------------------------------------
+
+Blink number 38
+
+Total number of stones after 38 blinks is 46332822
+
+-----------------------------------------
+
+Blink number 39
+
+Total number of stones after 39 blinks is 70122820
+
+-----------------------------------------
+
+Blink number 40
+
+Total number of stones after 40 blinks is 106784668
+
+-----------------------------------------
+
+Blink number 41
+
+Total number of stones after 41 blinks is 162202676
+
+-----------------------------------------
+
+Blink number 42
+
+Total number of stones after 42 blinks is 245786913
+
+-----------------------------------------
+
+Blink number 43
+
+Total number of stones after 43 blinks is 374397180
+
+-----------------------------------------
+
+Blink number 44
+
+Total number of stones after 44 blinks is 567649169
+
+-----------------------------------------
+
+Blink number 45
+
+Total number of stones after 45 blinks is 862567395
+
+-----------------------------------------
+
+Blink number 46
+
+Total number of stones after 46 blinks is 1311329013
+
+-----------------------------------------
+
+Blink number 47
+
+Total number of stones after 47 blinks is 1988421461
+
+-----------------------------------------
+
+Blink number 48
+
+Total number of stones after 48 blinks is 3025370433
+
+-----------------------------------------
+
+Blink number 49
+
+Total number of stones after 49 blinks is 4591260557
+
+-----------------------------------------
+
+Blink number 50
+
+Total number of stones after 50 blinks is 6972029474
+
+-----------------------------------------
+
+Blink number 51
+
+Total number of stones after 51 blinks is 10601947822
+
+-----------------------------------------
+
+Blink number 52
+
+Total number of stones after 52 blinks is 16082519997
+
+-----------------------------------------
+
+Blink number 53
+
+Total number of stones after 53 blinks is 24447984451
+
+-----------------------------------------
+
+Blink number 54
+
+Total number of stones after 54 blinks is 37132299299
+
+-----------------------------------------
+
+Blink number 55
+
+Total number of stones after 55 blinks is 56370681599
+
+-----------------------------------------
+
+Blink number 56
+
+Total number of stones after 56 blinks is 85694549669
+
+-----------------------------------------
+
+Blink number 57
+
+Total number of stones after 57 blinks is 130066340277
+
+-----------------------------------------
+
+Blink number 58
+
+Total number of stones after 58 blinks is 197623721135
+
+-----------------------------------------
+
+Blink number 59
+
+Total number of stones after 59 blinks is 300241417928
+
+-----------------------------------------
+
+Blink number 60
+
+Total number of stones after 60 blinks is 455786887934
+
+-----------------------------------------
+
+Blink number 61
+
+Total number of stones after 61 blinks is 692712095262
+
+-----------------------------------------
+
+Blink number 62
+
+Total number of stones after 62 blinks is 1051825798255
+
+-----------------------------------------
+
+Blink number 63
+
+Total number of stones after 63 blinks is 1597612374982
+
+-----------------------------------------
+
+Blink number 64
+
+Total number of stones after 64 blinks is 2427394776873
+
+-----------------------------------------
+
+Blink number 65
+
+Total number of stones after 65 blinks is 3685524808060
+
+-----------------------------------------
+
+Blink number 66
+
+Total number of stones after 66 blinks is 5599831028458
+
+-----------------------------------------
+
+Blink number 67
+
+Total number of stones after 67 blinks is 8504885236202
+
+-----------------------------------------
+
+Blink number 68
+
+Total number of stones after 68 blinks is 12916485405902
+
+-----------------------------------------
+
+Blink number 69
+
+Total number of stones after 69 blinks is 19624655684551
+
+-----------------------------------------
+
+Blink number 70
+
+Total number of stones after 70 blinks is 29800533280009
+
+-----------------------------------------
+
+Blink number 71
+
+Total number of stones after 71 blinks is 45270712297406
+
+-----------------------------------------
+
+Blink number 72
+
+Total number of stones after 72 blinks is 68765454469047
+
+-----------------------------------------
+
+Blink number 73
+
+Total number of stones after 73 blinks is 104432792900743
+
+-----------------------------------------
+
+Blink number 74
+
+Total number of stones after 74 blinks is 158656488553415
+
+-----------------------------------------
+
+Blink number 75
+
+Total number of stones after 75 blinks is 240954878211138
+
+-----------------------------------------
+
